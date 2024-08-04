@@ -6,5 +6,9 @@
     {
         "hero_id": 47,
         "skin_id" : 12
+    },
+    {
+        "hero_id": 13,
+        "skin_id" : 9
     }
 ]
