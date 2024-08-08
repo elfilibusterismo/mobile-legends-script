@@ -1,5 +1,20 @@
 [
     {
+        "hero_id": 93,
+        "skin_id" : 5,
+        "type": 0
+    },
+    {
+        "hero_id": 36,
+        "skin_id" : 6,
+        "type": 0
+    },
+    {
+        "hero_id": 23,
+        "skin_id" : 6,
+        "type": 0
+    },
+    {
         "hero_id": 55,
         "skin_id" : 10,
         "type": 0
