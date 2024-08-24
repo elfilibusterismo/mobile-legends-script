@@ -25,3 +25,4 @@ jobs:
       with:
         bot_token: '${{ secrets.TELEGRAM_BOT_TOKEN }}'
         chat_id: '${{ secrets.TELEGRAM_CHAT_ID }}'
+        topic_id: '${{ secrets.TOPIC_ID }}'
