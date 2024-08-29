@@ -3,7 +3,7 @@ name: Notify Telegram on Push
 on:
   push:
     branches:
-      - main  # Adjust the branch name as needed
+      - main
 
 jobs:
   notify:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'  # Specify your preferred Python version
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
