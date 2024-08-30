@@ -1,5 +1,6 @@
 import os
 import requests
+import json
 
 def send_message(chat_id, token, message, topic_id=None):
     url = f"https://api.telegram.org/bot{token}/sendMessage"
