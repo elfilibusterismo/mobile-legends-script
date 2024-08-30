@@ -23,11 +23,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Send commit message to Telegram
+    - name: Get commit messages from push
+      id: get_commits
+      run: |
+        echo "${{ github.event.commits[*].message }}" > commit_messages.txt
+        cat commit_messages.txt
+
+    - name: Send commit messages to Telegram
       env:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        COMMIT_MESSAGE: ${{ github.event.commits[*].message }}
-        TELEGRAM_TOPIC_ID: ${{ secrets.TOPIC_ID || '' }}
+        TELEGRAM_TOPIC_ID: ${{ secrets.TOPIC_ID }}
       run: |
         python send_telegram.py
