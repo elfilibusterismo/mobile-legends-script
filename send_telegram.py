@@ -22,7 +22,7 @@ if __name__ == "__main__":
     PLAYSTORE_URL = "https://play.google.com/store/apps/details?id=com.elfilibustero.origin"
     
     with open('commit_messages.txt', 'r') as file:
-    commit_messages = file.read().replace(' ', '\n')
+        commit_messages = file.read().replace(' ', '\n')
 
     message = f"*Author:* {COMMIT_AUTHOR}\n" \
                 f"{commit_messages}\n\n" \
