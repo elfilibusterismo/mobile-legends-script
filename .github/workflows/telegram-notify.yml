@@ -27,7 +27,7 @@ jobs:
       env:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+        COMMIT_MESSAGE: ${{ github.event.commits[*].message }}
         TELEGRAM_TOPIC_ID: ${{ secrets.TOPIC_ID || '' }}
       run: |
         python send_telegram.py
