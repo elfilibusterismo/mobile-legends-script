@@ -1,0 +1,132 @@
+{
+  "app_details": {
+    "title": "Injector Origin",
+    "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
+    "descriptionHTML": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero&#39;s abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
+    "summary": "it's your ultimate companion for enhancing your gaming experience!",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "realInstalls": 24268,
+    "score": 0,
+    "ratings": 0,
+    "reviews": 0,
+    "histogram": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "sale": false,
+    "saleTime": null,
+    "originalPrice": null,
+    "saleText": null,
+    "offersIAP": false,
+    "inAppProductPrice": null,
+    "developer": "PH Gaming Mods",
+    "developerId": "6030302167490138531",
+    "developerEmail": "injector.origin@gmail.com",
+    "developerWebsite": "https://injector-origin.github.io/",
+    "developerAddress": "San Francisco, Agusan del Sur, Philippines",
+    "privacyPolicy": "http://injectororigin.me/docs/privacy-policy",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "categories": [
+      {
+        "name": "Tools",
+        "id": "TOOLS"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/QROFrcKVLP8Au65dBGypgU6KSdAZ_o9xVRaYp_6V-OS8cMh2bNeERQZ-y2XduMhBakQ",
+    "headerImage": "https://play-lh.googleusercontent.com/4pPU86JPzELVQh6PDA0PuozCtocUuxwVfX2ffm5aecne7tBtVWBt5K859Ukh-G0I7A",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IO5o2SrIaamdz65FwQMaGsuzfdvlWUa3m9LQGBqFQ9_x31VTcB-IR0f3W9IFZ7xjJjk",
+      "https://play-lh.googleusercontent.com/y6_rUDkDl21t1Ugci0uNC4q1Xdgnj88DjWDIFzCx8dEIuXnT8SwKt4N2SARX-PoYRao",
+      "https://play-lh.googleusercontent.com/DhhCuiJVKQRoqyzZdQIkVNRvBqzso7Rs37L1TqDQNucL40d3x8UkIFFfFsulMbYtdoM",
+      "https://play-lh.googleusercontent.com/q8QPFaiF6sMvjO8aXz88f2Z7pbf2Heed0pT9hFbxmvHAAIuCxFDTyLwRuW5iczfeUA"
+    ],
+    "video": null,
+    "videoImage": null,
+    "contentRating": "Everyone",
+    "contentRatingDescription": null,
+    "adSupported": true,
+    "containsAds": true,
+    "released": "Jul 28, 2024",
+    "lastUpdatedOn": "Sep 2, 2024",
+    "updated": 1725261683,
+    "version": "1.0.27 beta",
+    "comments": [],
+    "appId": "com.elfilibustero.origin",
+    "url": "https://play.google.com/store/apps/details?id=com.elfilibustero.origin&hl=en&gl=us"
+  },
+  "reviews": [
+    {
+      "reviewId": "d54eed9e-fbe3-40ee-b238-309fc63976a5",
+      "userName": "Afiq Iman",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL7lX5xOV4kZj46-DHo1FCNwOkkAzs6ZczSfS3INuMHtV8P8Q=mo",
+      "content": "bagus",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.26 beta",
+      "at": "2024-09-01T09:56:12",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.0.26 beta"
+    },
+    {
+      "reviewId": "e95bbb45-f922-490f-bd26-af94c5528bf2",
+      "userName": "Rolando Cano",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJC_rzRGfM52nZCTwhSu8CoBQiLgr2bAbhE6yRY4nkNow5svA=mo",
+      "content": "Since y'all fixed the bug I got I'm gonna give it 5 star",
+      "score": 5,
+      "thumbsUpCount": 7,
+      "reviewCreatedVersion": null,
+      "at": "2024-09-01T03:31:15",
+      "replyContent": "I'm glad to hear that the issue was resolved! Your support means a lot, and a 5-star rating is always appreciated. If you have any other questions or need further assistance, feel free to reach out. Thanks again!",
+      "repliedAt": "2024-09-01T03:41:24",
+      "appVersion": null
+    },
+    {
+      "reviewId": "6f4fb80b-374b-4520-aff5-e4b4d42c0f67",
+      "userName": "Gwyne Jovit Obiena",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU43KJKBt4y3hPg97RCMIWtrBoZOj8K-PUcR4gJpZ0jMpvER10O",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.26 beta",
+      "at": "2024-09-01T01:33:48",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.0.26 beta"
+    },
+    {
+      "reviewId": "3d164bff-00b6-421e-a573-25cfb8ba5a69",
+      "userName": "neal skieron Molavizar",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYY4l0MSx1RbaRv19gdGJPekPQcKeg77qrawIrJpa92hyo4WU",
+      "content": "The app is good, but my problem is that the skin model aint there, but the skill effect is, im hoping it gets fixed",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.26 beta",
+      "at": "2024-08-31T06:45:10",
+      "replyContent": "Thanks for your feedback! To help us fix the issue, could you please tell us which hero and skin you noticed this problem with? It\u2019ll help us sort it out faster. We appreciate your help!",
+      "repliedAt": "2024-08-31T08:18:35",
+      "appVersion": "1.0.26 beta"
+    },
+    {
+      "reviewId": "9f95ee18-1891-48ec-aaf2-919bce62c901",
+      "userName": "Mark Longati",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLMVXuwIyGDKo13L8WCsRjTz0A6FFp2bgjlYNfOtTKnz2hSsg=mo",
+      "content": "This injector is actually working, this is so useful for me, I love it, I give it 5 star",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.26 beta",
+      "at": "2024-08-31T06:11:10",
+      "replyContent": "Thank you so much for your amazing 5-star review! \ud83c\udf1f We're thrilled to hear that Injector Origin is working well for you and that you're finding it useful. Your support motivates us to keep improving and adding even more features. Happy gaming! \ud83c\udfae",
+      "repliedAt": "2024-08-31T06:13:20",
+      "appVersion": "1.0.26 beta"
+    }
+  ]
+}
