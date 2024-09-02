@@ -1,9 +1,9 @@
-name: Generate App Data and Reviews JSON File Daily
+name: Generate App Data and Reviews JSON File
 
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight UTC
-
+  workflow_dispatch:
 jobs:
   generate-json:
     runs-on: ubuntu-latest
