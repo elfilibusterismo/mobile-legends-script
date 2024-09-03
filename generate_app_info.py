@@ -20,7 +20,8 @@ reviews_data, _ = reviews(
 
 combined_data = {
     "app_details": app_details,
-    "reviews": reviews_data
+    "reviews": reviews_data,
+    "generated_at": datetime.now().isoformat()
 }
 
 with open('data/app_data.json', 'w') as json_file:
