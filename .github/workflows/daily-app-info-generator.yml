@@ -1,4 +1,4 @@
-name: Generate App Data and Reviews JSON File
+name: Auto-generated app info
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
         git config --local user.email "elfilibusterismo.contact@gmail.com"
         git config --local user.name "GitHub Actions"
         git add data/app_data.json
-        git commit -m "Auto-generated App Data JSON file"
+        git commit -m "Auto-generated app info"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
