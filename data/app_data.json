@@ -2,65 +2,11 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "descriptionHTML": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero&#39;s abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "summary": "it's your ultimate companion for enhancing your gaming experience!",
-    "installs": "10,000+",
-    "minInstalls": 10000,
-    "realInstalls": 24738,
-    "score": 0,
-    "ratings": 0,
-    "reviews": 0,
-    "histogram": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0,
-    "free": true,
-    "currency": "USD",
-    "sale": false,
-    "saleTime": null,
-    "originalPrice": null,
-    "saleText": null,
-    "offersIAP": false,
-    "inAppProductPrice": null,
-    "developer": "PH Gaming Mods",
-    "developerId": "6030302167490138531",
-    "developerEmail": "injector.origin@gmail.com",
-    "developerWebsite": "https://injector-origin.github.io/",
-    "developerAddress": "San Francisco, Agusan del Sur, Philippines",
-    "privacyPolicy": "http://injectororigin.me/docs/privacy-policy",
-    "genre": "Tools",
-    "genreId": "TOOLS",
-    "categories": [
-      {
-        "name": "Tools",
-        "id": "TOOLS"
-      }
-    ],
-    "icon": "https://play-lh.googleusercontent.com/QROFrcKVLP8Au65dBGypgU6KSdAZ_o9xVRaYp_6V-OS8cMh2bNeERQZ-y2XduMhBakQ",
-    "headerImage": "https://play-lh.googleusercontent.com/4pPU86JPzELVQh6PDA0PuozCtocUuxwVfX2ffm5aecne7tBtVWBt5K859Ukh-G0I7A",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/IO5o2SrIaamdz65FwQMaGsuzfdvlWUa3m9LQGBqFQ9_x31VTcB-IR0f3W9IFZ7xjJjk",
-      "https://play-lh.googleusercontent.com/y6_rUDkDl21t1Ugci0uNC4q1Xdgnj88DjWDIFzCx8dEIuXnT8SwKt4N2SARX-PoYRao",
-      "https://play-lh.googleusercontent.com/DhhCuiJVKQRoqyzZdQIkVNRvBqzso7Rs37L1TqDQNucL40d3x8UkIFFfFsulMbYtdoM",
-      "https://play-lh.googleusercontent.com/q8QPFaiF6sMvjO8aXz88f2Z7pbf2Heed0pT9hFbxmvHAAIuCxFDTyLwRuW5iczfeUA"
-    ],
-    "video": null,
-    "videoImage": null,
-    "contentRating": "Everyone",
-    "contentRatingDescription": null,
-    "adSupported": true,
-    "containsAds": true,
-    "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Sep 2, 2024",
-    "updated": 1725261683,
     "version": "1.0.27 beta",
-    "comments": [],
-    "appId": "com.elfilibustero.origin",
-    "url": "https://play.google.com/store/apps/details?id=com.elfilibustero.origin&hl=en&gl=us"
+    "score": 0,
+    "realInstalls": 24738,
+    "released": "Jul 28, 2024",
+    "lastUpdatedOn": "Sep 2, 2024"
   },
   "reviews": [
     {
@@ -129,5 +75,5 @@
       "appVersion": "1.0.26 beta"
     }
   ],
-  "generated_at": "2024-09-04T17:36:55.849737"
+  "generated_at": "2024-09-04T17:47:49.057675"
 }
