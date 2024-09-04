@@ -8,10 +8,20 @@ def convert_datetime(obj):
         return obj.isoformat()
     raise TypeError(f'Type {type(obj)} not serializable')
 
-app_details = app(
+app_data = app(
     'com.elfilibustero.origin',
     lang='en',
     country='us')
+
+app_details = {
+    "title": app_data.get("title"),
+    "description": app_data.get("description"),
+    "version": app_data.get("version"),
+    "score": app_data.get("score"),
+    "realInstalls": app_data.get("realInstalls"),
+    "released": app_data.get("released"),
+    "lastUpdatedOn": app_data.get("lastUpdatedOn")
+}
 
 reviews_data, _ = reviews(
     'com.elfilibustero.origin',
