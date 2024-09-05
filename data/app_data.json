@@ -2,67 +2,52 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "descriptionHTML": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero&#39;s abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "summary": "it's your ultimate companion for enhancing your gaming experience!",
-    "installs": "10,000+",
-    "minInstalls": 10000,
-    "realInstalls": 24346,
-    "score": 0,
-    "ratings": 0,
-    "reviews": 0,
-    "histogram": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0,
-    "free": true,
-    "currency": "USD",
-    "sale": false,
-    "saleTime": null,
-    "originalPrice": null,
-    "saleText": null,
-    "offersIAP": false,
-    "inAppProductPrice": null,
-    "developer": "PH Gaming Mods",
-    "developerId": "6030302167490138531",
-    "developerEmail": "injector.origin@gmail.com",
-    "developerWebsite": "https://injector-origin.github.io/",
-    "developerAddress": "San Francisco, Agusan del Sur, Philippines",
-    "privacyPolicy": "http://injectororigin.me/docs/privacy-policy",
-    "genre": "Tools",
-    "genreId": "TOOLS",
-    "categories": [
-      {
-        "name": "Tools",
-        "id": "TOOLS"
-      }
-    ],
-    "icon": "https://play-lh.googleusercontent.com/QROFrcKVLP8Au65dBGypgU6KSdAZ_o9xVRaYp_6V-OS8cMh2bNeERQZ-y2XduMhBakQ",
-    "headerImage": "https://play-lh.googleusercontent.com/4pPU86JPzELVQh6PDA0PuozCtocUuxwVfX2ffm5aecne7tBtVWBt5K859Ukh-G0I7A",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/IO5o2SrIaamdz65FwQMaGsuzfdvlWUa3m9LQGBqFQ9_x31VTcB-IR0f3W9IFZ7xjJjk",
-      "https://play-lh.googleusercontent.com/y6_rUDkDl21t1Ugci0uNC4q1Xdgnj88DjWDIFzCx8dEIuXnT8SwKt4N2SARX-PoYRao",
-      "https://play-lh.googleusercontent.com/DhhCuiJVKQRoqyzZdQIkVNRvBqzso7Rs37L1TqDQNucL40d3x8UkIFFfFsulMbYtdoM",
-      "https://play-lh.googleusercontent.com/q8QPFaiF6sMvjO8aXz88f2Z7pbf2Heed0pT9hFbxmvHAAIuCxFDTyLwRuW5iczfeUA"
-    ],
-    "video": null,
-    "videoImage": null,
-    "contentRating": "Everyone",
-    "contentRatingDescription": null,
-    "adSupported": true,
-    "containsAds": true,
-    "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Sep 2, 2024",
-    "updated": 1725261683,
     "version": "1.0.27 beta",
-    "comments": [],
-    "appId": "com.elfilibustero.origin",
-    "url": "https://play.google.com/store/apps/details?id=com.elfilibustero.origin&hl=en&gl=us"
+    "score": 0,
+    "realInstalls": 24738,
+    "released": "Jul 28, 2024",
+    "lastUpdatedOn": "Sep 2, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "84897bcd-0723-4118-9c42-b39527ed6e24",
+      "userName": "Sebastian",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCzivgHxBhkNALM08bz7l4Uv7pJxNhfpCl8ur3lYpwnqzFMg=mo",
+      "content": "good but it's just the ads",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-03T11:00:01",
+      "replyContent": "Thanks for your feedback! We understand that ads can be a bit annoying, but they help us keep the app free for everyone. We're always looking for ways to improve, so your input is valuable. If you have any other suggestions, feel free to share!",
+      "repliedAt": "2024-09-03T16:40:29",
+      "appVersion": "1.0.27 beta"
+    },
+    {
+      "reviewId": "b85b8a12-591f-4c2e-8366-86aad601ef31",
+      "userName": "John Ricky Munar",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL_yoHpTQ55_rZ6mgSQGZYRwh46R9PZm2XMAubV0RYGlKJ8bA=mo",
+      "content": "ganda ng skin ni chou thank you",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.26 beta",
+      "at": "2024-09-03T04:40:07",
+      "replyContent": "Glad you like Chou's skin! Thanks for your support! If you have any other feedback, feel free to share. Enjoy the game!",
+      "repliedAt": "2024-09-03T16:39:39",
+      "appVersion": "1.0.26 beta"
+    },
+    {
+      "reviewId": "f1d220b9-ca30-4b16-9f3e-c4a042816acc",
+      "userName": "Cenver Clarence Eguia",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLpycIrurXVqSdaw4i8TsHtjvHKjOchh3gynOfGXpBCuZhavw=mo",
+      "content": "Probably one of the best injector.But When i upgrade the skin Yasha to Infernal Wrymlord Its Shows Doom Incarnate the icon of the skin visual's and Voice lines just basically all of it just show's doom incarnate no Infernal Wrymlord just Doom Incarnate And also the icon says Yui Script",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-03T04:21:17",
+      "replyContent": "Thank you for your feedback! The issue with the Yasha skin upgrade has been fixed. Everything should display correctly now. If you notice anything else, feel free to let us know. We appreciate your support!",
+      "repliedAt": "2024-09-03T16:39:17",
+      "appVersion": "1.0.27 beta"
+    },
     {
       "reviewId": "80ae49c5-07a2-46ca-a829-6c32edd79c15",
       "userName": "Marlex Jaboneta",
@@ -88,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.0.26 beta"
-    },
-    {
-      "reviewId": "79b7636e-7804-4925-91d5-dd660650be74",
-      "userName": "Vince Maderia",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJzJ_B2ehM0OvdThBTb8LK8JO3_uaoHic0ZQKk13jw8yNJm_g=mo",
-      "content": "ganda",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.26 beta",
-      "at": "2024-09-02T05:35:03",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.26 beta"
-    },
-    {
-      "reviewId": "d54eed9e-fbe3-40ee-b238-309fc63976a5",
-      "userName": "Afiq Iman",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL7lX5xOV4kZj46-DHo1FCNwOkkAzs6ZczSfS3INuMHtV8P8Q=mo",
-      "content": "bagus",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.26 beta",
-      "at": "2024-09-01T09:56:12",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.26 beta"
-    },
-    {
-      "reviewId": "e95bbb45-f922-490f-bd26-af94c5528bf2",
-      "userName": "Rolando Cano",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJC_rzRGfM52nZCTwhSu8CoBQiLgr2bAbhE6yRY4nkNow5svA=mo",
-      "content": "Since y'all fixed the bug I got I'm gonna give it 5 star",
-      "score": 5,
-      "thumbsUpCount": 7,
-      "reviewCreatedVersion": null,
-      "at": "2024-09-01T03:31:15",
-      "replyContent": "I'm glad to hear that the issue was resolved! Your support means a lot, and a 5-star rating is always appreciated. If you have any other questions or need further assistance, feel free to reach out. Thanks again!",
-      "repliedAt": "2024-09-01T03:41:24",
-      "appVersion": null
     }
   ],
-  "generated_at": "2024-09-04T01:14:48.667346"
+  "generated_at": "2024-09-05T01:14:53.060793"
 }
