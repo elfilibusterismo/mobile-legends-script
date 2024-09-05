@@ -10,6 +10,58 @@
   },
   "reviews": [
     {
+      "reviewId": "b58e1d5c-9287-48f7-af3a-26fd6a4af0bd",
+      "userName": "Rean heart Del rosario",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ9IIyNGAruA3XxVMKsE7iEdL19kL4xmqyL4cSDvxShmxku-g=mo",
+      "content": "It's so legit very creative very relevant very DEMURE",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-09-04T13:43:49",
+      "replyContent": "Thank you for your awesome feedback! We're glad you find Injector Origin creative, relevant, and demure. Your support means a lot to us! We're committed to bringing you the best experience. Happy gaming!",
+      "repliedAt": "2024-09-04T22:46:15",
+      "appVersion": null
+    },
+    {
+      "reviewId": "15f9fc7c-cf4e-4bd0-aa4b-1f6971ddcfa4",
+      "userName": "john rey futalan",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJiCjhWiUKXL5_pVhgNEhXqlH3ody465N6rS2YgY2jigyEP_g=mo",
+      "content": "good its good!",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-04T12:28:48",
+      "replyContent": "Thank you so much! We're glad you're enjoying the app. Your support is greatly appreciated! \ud83d\ude0a",
+      "repliedAt": "2024-09-04T22:46:37",
+      "appVersion": "1.0.27 beta"
+    },
+    {
+      "reviewId": "20d22b9b-d034-4fdc-ab56-08d722dfbea4",
+      "userName": "Evelyn Begino",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1anlbG6S8yJlniBaEQ7H-WZMIg8j-VpHs9DP5MzBYZaXOlg=mo",
+      "content": "totoo",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-04T03:56:50",
+      "replyContent": "Hi, thank you for your feedback! We noticed you left a 1-star rating with the comment 'totoo.' Could you please share more details about your experience so we can understand what might have gone wrong? We\u2019re always looking to improve and would love to help resolve any issues you encountered.",
+      "repliedAt": "2024-09-04T11:06:59",
+      "appVersion": "1.0.27 beta"
+    },
+    {
+      "reviewId": "1c005e13-8f2f-457e-91da-250b9ee48d5b",
+      "userName": "Johnzefrey Utuan",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUUu6HHW532z5RxWl27aGoGj9cUPUntPp1BL2W5xklKPUuJZvE",
+      "content": "nice",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-04T02:15:09",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.0.27 beta"
+    },
+    {
       "reviewId": "84897bcd-0723-4118-9c42-b39527ed6e24",
       "userName": "Sebastian",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCzivgHxBhkNALM08bz7l4Uv7pJxNhfpCl8ur3lYpwnqzFMg=mo",
@@ -21,59 +73,7 @@
       "replyContent": "Thanks for your feedback! We understand that ads can be a bit annoying, but they help us keep the app free for everyone. We're always looking for ways to improve, so your input is valuable. If you have any other suggestions, feel free to share!",
       "repliedAt": "2024-09-03T16:40:29",
       "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "b85b8a12-591f-4c2e-8366-86aad601ef31",
-      "userName": "John Ricky Munar",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL_yoHpTQ55_rZ6mgSQGZYRwh46R9PZm2XMAubV0RYGlKJ8bA=mo",
-      "content": "ganda ng skin ni chou thank you",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.26 beta",
-      "at": "2024-09-03T04:40:07",
-      "replyContent": "Glad you like Chou's skin! Thanks for your support! If you have any other feedback, feel free to share. Enjoy the game!",
-      "repliedAt": "2024-09-03T16:39:39",
-      "appVersion": "1.0.26 beta"
-    },
-    {
-      "reviewId": "f1d220b9-ca30-4b16-9f3e-c4a042816acc",
-      "userName": "Cenver Clarence Eguia",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLpycIrurXVqSdaw4i8TsHtjvHKjOchh3gynOfGXpBCuZhavw=mo",
-      "content": "Probably one of the best injector.But When i upgrade the skin Yasha to Infernal Wrymlord Its Shows Doom Incarnate the icon of the skin visual's and Voice lines just basically all of it just show's doom incarnate no Infernal Wrymlord just Doom Incarnate And also the icon says Yui Script",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-03T04:21:17",
-      "replyContent": "Thank you for your feedback! The issue with the Yasha skin upgrade has been fixed. Everything should display correctly now. If you notice anything else, feel free to let us know. We appreciate your support!",
-      "repliedAt": "2024-09-03T16:39:17",
-      "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "80ae49c5-07a2-46ca-a829-6c32edd79c15",
-      "userName": "Marlex Jaboneta",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUJ0MFOPCb2DKVIgfWvjJ_Rra_EJQ3JEiyTZukgd-7FwwdMJxU",
-      "content": "This gives me a 5 star rating tho lesley's upgradable skin in her cheergunner is not as wide as the othere skin replacement this is the best injector out there! It even shows you the skill descriptions and purposes i love this injector so much! Hoping they will add many variations of skin to skin to choose from. Also the creators of this app is responsive! Tysm for responding ASAP and also fixing the request we face tysm!",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.26 beta",
-      "at": "2024-09-02T12:41:48",
-      "replyContent": "Thank you for the 5-star rating! We're glad you're enjoying the app and appreciate your feedback on Lesley\u2019s Cheergunner skin. We're working on adding more skin variations and improving the current ones. Thanks for your support and for highlighting our responsiveness\u2014your feedback helps us get better!",
-      "repliedAt": "2024-09-02T16:01:53",
-      "appVersion": "1.0.26 beta"
-    },
-    {
-      "reviewId": "e2214448-3dcc-45a5-8193-aefe5a951c2f",
-      "userName": "Anna Llamelo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL2aDndRHxQF5Z85Y7bQJ6EjWtTEJF5QxjXaUKMe2YceErCgw=mo",
-      "content": "maganda",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.26 beta",
-      "at": "2024-09-02T10:30:34",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.26 beta"
     }
   ],
-  "generated_at": "2024-09-05T01:14:53.060793"
+  "generated_at": "2024-09-05T13:50:58.388249"
 }
