@@ -1,27 +1,17 @@
 [
     {
-        "hero_id": 93,
-        "skin_id" : 5,
+        "hero_id": 109,
+        "skin_id" : 8,
         "type": 0
     },
     {
-        "hero_id": 36,
+        "hero_id": 67,
+        "skin_id" : 7,
+        "type": 0
+    },
+    {
+        "hero_id": 100,
         "skin_id" : 6,
-        "type": 0
-    },
-    {
-        "hero_id": 55,
-        "skin_id" : 10,
-        "type": 0
-    },
-    {
-        "hero_id": 47,
-        "skin_id" : 12,
-        "type": 0
-    },
-    {
-        "hero_id": 13,
-        "skin_id" : 9,
         "type": 0
     }
 ]
