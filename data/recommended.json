@@ -5,6 +5,11 @@
         "type": 0
     },
     {
+        "hero_id": 78,
+        "skin_id" : 7,
+        "type": 0
+    },
+    {
         "hero_id": 103,
         "skin_id" : 8,
         "type": 0
