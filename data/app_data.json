@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.0.27 beta",
     "score": 0,
-    "realInstalls": 24738,
+    "realInstalls": 25475,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 2, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "a53b968f-cc95-4701-85a8-7cfe19eabbb8",
+      "userName": "Daniel Era",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKLNrpFJ8UhGzTBntZidPR-giuN9IJLD4sWmo4SlOdHmsoN=mo",
+      "content": "Guys If you're looking for an injector, this is it. I didn't see anything wrong and it's very nice. Just remove your previous skin and it works. Download it to try it.",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-05T06:17:50",
+      "replyContent": "Thank you so much for the great feedback! We're thrilled to hear that you're enjoying the app and that it's working well for you. Your support means a lot to us! If you have any suggestions or ideas for future updates, feel free to share them. Happy gaming!",
+      "repliedAt": "2024-09-05T09:07:00",
+      "appVersion": "1.0.27 beta"
+    },
     {
       "reviewId": "b58e1d5c-9287-48f7-af3a-26fd6a4af0bd",
       "userName": "Rean heart Del rosario",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "84897bcd-0723-4118-9c42-b39527ed6e24",
-      "userName": "Sebastian",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCzivgHxBhkNALM08bz7l4Uv7pJxNhfpCl8ur3lYpwnqzFMg=mo",
-      "content": "good but it's just the ads",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-03T11:00:01",
-      "replyContent": "Thanks for your feedback! We understand that ads can be a bit annoying, but they help us keep the app free for everyone. We're always looking for ways to improve, so your input is valuable. If you have any other suggestions, feel free to share!",
-      "repliedAt": "2024-09-03T16:40:29",
-      "appVersion": "1.0.27 beta"
     }
   ],
-  "generated_at": "2024-09-06T01:15:04.237002"
+  "generated_at": "2024-09-06T14:57:11.136183"
 }
