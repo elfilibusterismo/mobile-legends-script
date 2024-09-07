@@ -10,6 +10,19 @@
   },
   "reviews": [
     {
+      "reviewId": "948e752e-fddb-4e86-b912-49f71ee1891b",
+      "userName": "Miguel Pabellan",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWT6DBxWtwjzSlAAjbPgIGED-DVLHVelFbcvk-uzSir2J87a5Ut",
+      "content": "Hello, this was a useful injector. Im waiting for Kagura's New \"Epic\" Skin, i hope it gets added in the injector :D \u2661\u2661",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-05T17:13:03",
+      "replyContent": "We're happy you find Injector Origin useful! We're working on adding new content, and Kagura's new \"Epic\" skin will be added soon. Stay tuned for updates, and thanks a lot for your support!",
+      "repliedAt": "2024-09-06T03:22:21",
+      "appVersion": "1.0.27 beta"
+    },
+    {
       "reviewId": "a53b968f-cc95-4701-85a8-7cfe19eabbb8",
       "userName": "Daniel Era",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKLNrpFJ8UhGzTBntZidPR-giuN9IJLD4sWmo4SlOdHmsoN=mo",
@@ -60,20 +73,7 @@
       "replyContent": "Hi, thank you for your feedback! We noticed you left a 1-star rating with the comment 'totoo.' Could you please share more details about your experience so we can understand what might have gone wrong? We\u2019re always looking to improve and would love to help resolve any issues you encountered.",
       "repliedAt": "2024-09-04T11:06:59",
       "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "1c005e13-8f2f-457e-91da-250b9ee48d5b",
-      "userName": "Johnzefrey Utuan",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUUu6HHW532z5RxWl27aGoGj9cUPUntPp1BL2W5xklKPUuJZvE",
-      "content": "nice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-04T02:15:09",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.27 beta"
     }
   ],
-  "generated_at": "2024-09-06T14:57:11.136183"
+  "generated_at": "2024-09-07T01:13:28.099925"
 }
