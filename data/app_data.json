@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.0.27 beta",
     "score": 0,
-    "realInstalls": 25475,
+    "realInstalls": 25478,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 2, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "618ee051-051e-4a3f-9906-ef5e6eff5dca",
+      "userName": "Jisal Arjim",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJTmnHUBADsWr_scWkuy0rQQQXw5U5gInbPKXGAqEPyz6CfgQ=mo",
+      "content": "Bagus",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-06T08:49:53",
+      "replyContent": "Thank you for your review. It seems like you might have intended to leave a different comment, as we noticed the \"Good\" along with a 2-star rating. If there\u2019s anything you experienced that we can help with, please let us know. We're here to assist and improve your experience with Injector Origin.",
+      "repliedAt": "2024-09-06T23:26:25",
+      "appVersion": "1.0.27 beta"
+    },
+    {
+      "reviewId": "3c4b766d-633f-4381-b648-343e6a102bb3",
+      "userName": "Ujjwal Pradhan",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7A8TSRAahmceeJ7xZ9BgVOpR4wVqfO12cUVx1wpVWWCqWpb8",
+      "content": "i like the speed of injector its super accurate",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta",
+      "at": "2024-09-06T01:38:38",
+      "replyContent": "Thank you for the feedback! \ud83d\ude0a We're glad to hear you like the speed and accuracy of the injector. We\u2019re always working to keep it fast and reliable for you!",
+      "repliedAt": "2024-09-06T03:23:06",
+      "appVersion": "1.0.27 beta"
+    },
     {
       "reviewId": "948e752e-fddb-4e86-b912-49f71ee1891b",
       "userName": "Miguel Pabellan",
@@ -47,33 +73,7 @@
       "replyContent": "Thank you for your awesome feedback! We're glad you find Injector Origin creative, relevant, and demure. Your support means a lot to us! We're committed to bringing you the best experience. Happy gaming!",
       "repliedAt": "2024-09-04T22:46:15",
       "appVersion": null
-    },
-    {
-      "reviewId": "15f9fc7c-cf4e-4bd0-aa4b-1f6971ddcfa4",
-      "userName": "john rey futalan",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJiCjhWiUKXL5_pVhgNEhXqlH3ody465N6rS2YgY2jigyEP_g=mo",
-      "content": "good its good!",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-04T12:28:48",
-      "replyContent": "Thank you so much! We're glad you're enjoying the app. Your support is greatly appreciated! \ud83d\ude0a",
-      "repliedAt": "2024-09-04T22:46:37",
-      "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "20d22b9b-d034-4fdc-ab56-08d722dfbea4",
-      "userName": "Evelyn Begino",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1anlbG6S8yJlniBaEQ7H-WZMIg8j-VpHs9DP5MzBYZaXOlg=mo",
-      "content": "totoo",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-04T03:56:50",
-      "replyContent": "Hi, thank you for your feedback! We noticed you left a 1-star rating with the comment 'totoo.' Could you please share more details about your experience so we can understand what might have gone wrong? We\u2019re always looking to improve and would love to help resolve any issues you encountered.",
-      "repliedAt": "2024-09-04T11:06:59",
-      "appVersion": "1.0.27 beta"
     }
   ],
-  "generated_at": "2024-09-07T01:13:28.099925"
+  "generated_at": "2024-09-08T01:20:36.310877"
 }
