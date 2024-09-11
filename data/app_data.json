@@ -2,11 +2,11 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.0.27 beta",
+    "version": "1.0.27 beta-fix",
     "score": 0,
-    "realInstalls": 26634,
+    "realInstalls": 27045,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Sep 2, 2024"
+    "lastUpdatedOn": "Sep 10, 2024"
   },
   "reviews": [
     {
@@ -75,5 +75,5 @@
       "appVersion": "1.0.27 beta"
     }
   ],
-  "generated_at": "2024-09-10T01:15:56.196520"
+  "generated_at": "2024-09-11T01:15:05.100912"
 }
