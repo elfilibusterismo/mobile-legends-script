@@ -2,13 +2,39 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.0.27 beta-fix",
+    "version": "1.1.0",
     "score": 0,
-    "realInstalls": 27691,
+    "realInstalls": 27795,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Sep 10, 2024"
+    "lastUpdatedOn": "Sep 11, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "57749c61-19f9-4c26-9d41-8160aa22c32c",
+      "userName": "Gederodran23",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJBWA6OmB5sxKcbmLjzs0SiXAufvYmiMeck5vLPJtH82-l5iw=mo",
+      "content": "its very good in my opinion",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta-fix",
+      "at": "2024-09-11T09:31:41",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.0.27 beta-fix"
+    },
+    {
+      "reviewId": "c694a63d-acfb-4738-bb68-29918750b687",
+      "userName": "Sgz Panaligan",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKNL12vsfh36WSuu6JTrkkRj5EdmPxyPTxca9Q2YaPzGrqC_g=mo",
+      "content": "It's very good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-09-11T02:44:22",
+      "replyContent": "Thank you! We're glad you\u2019re enjoying Injector Origin.",
+      "repliedAt": "2024-09-11T02:49:18",
+      "appVersion": null
+    },
     {
       "reviewId": "4264364c-54b3-41c7-9230-6bfd6f3a9cf8",
       "userName": "Kien Eros Abas",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "3fdbc84d-2b0d-4d1b-a779-abbb5f56beb5",
-      "userName": "Ezibiel Jimenez",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUy4v_UsCZsc82OvQJxgXHrlC_VuoDYGw9lFve4VwA9ivGL1rk",
-      "content": "I cant skip the add",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-08T14:06:37",
-      "replyContent": "Sorry for the trouble with the ads! We're working on improving this. Please try checking your internet connection, and if the issue persists, contact our support team. We appreciate your feedback!",
-      "repliedAt": "2024-09-08T15:34:24",
-      "appVersion": "1.0.27 beta"
-    },
-    {
-      "reviewId": "a3287f55-c43f-46eb-afb6-ab7498ee6d4b",
-      "userName": "Kent Brylle Jugarap",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLiaHBoQRAigIsbxvKjv8h7T2DD4osPZP-COpP1cbaImaoe3A=mo",
-      "content": "I cant open or inject a skin completely a hard to access injector app its bad dont try",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-09-08T03:59:55",
-      "replyContent": "Hi! We're sorry to hear about your experience with Injector Origin. We\u2019re always working to improve, and we\u2019d love to help resolve the issue. Could you provide more details about the problem you're encountering, such as any error messages or specific skins? This will help us address it faster. Thanks for your feedback!",
-      "repliedAt": "2024-09-08T05:14:19",
-      "appVersion": null
     }
   ],
-  "generated_at": "2024-09-12T01:15:22.960946"
+  "generated_at": "2024-09-12T11:38:26.733602"
 }
