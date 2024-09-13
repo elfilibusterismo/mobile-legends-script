@@ -2,13 +2,39 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.1.0",
+    "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 27795,
+    "realInstalls": 28012,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Sep 11, 2024"
+    "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "fa3973f7-d063-4a31-8cb9-3436ad71cbdd",
+      "userName": "Nirvan Thapa",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUhxQ5OJ3P34QwN7adfRQnfH8jft4V1ZOJVURvYfTXLMTId-BqW",
+      "content": "best of the best",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta-fix",
+      "at": "2024-09-11T16:38:54",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.0.27 beta-fix"
+    },
+    {
+      "reviewId": "4d38b568-5323-4366-a003-9fe333ae7948",
+      "userName": "grace aceron",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLHlBJHaHuTUP8B1sVi_aIx4cbDO6vjyvDhn4_8uGkgghIXuQ=mo",
+      "content": "good",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.0.27 beta-fix",
+      "at": "2024-09-11T13:46:16",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.0.27 beta-fix"
+    },
     {
       "reviewId": "57749c61-19f9-4c26-9d41-8160aa22c32c",
       "userName": "Gederodran23",
@@ -47,33 +73,7 @@
       "replyContent": "Thank you for your feedback. Injector Origin strictly provides skins and effects, and we do not support any features that could lead to account bans, such as map hacks.",
       "repliedAt": "2024-09-11T02:48:48",
       "appVersion": "1.0.27 beta-fix"
-    },
-    {
-      "reviewId": "e9c249f1-9d18-4c66-b15e-ef1929681961",
-      "userName": "Timothy James Cruz",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJNQhL1-LL7iXEzxbdoWnOEjyjXl_jYtx5uxLOBRGNh4tcT0w=mo",
-      "content": "Sound effects didnt change \ud83d\ude10",
-      "score": 3,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-09-10T11:55:45",
-      "replyContent": "Thanks for the feedback! Could you let us know which skins or battle effects you're referring to? This will help us look into the issue more specifically.",
-      "repliedAt": "2024-09-10T11:58:44",
-      "appVersion": null
-    },
-    {
-      "reviewId": "7cfeedb9-2ffb-40d0-96f9-8fd7e8a5d08c",
-      "userName": "Harish Moktar Sundong",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKDu800q9M5OrXqWC_PEJUuSZASlOzIUK-fT7K6lYyWDAGjuA=mo",
-      "content": "mobile legends",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta",
-      "at": "2024-09-10T04:05:44",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.27 beta"
     }
   ],
-  "generated_at": "2024-09-12T11:38:26.733602"
+  "generated_at": "2024-09-13T01:15:45.948100"
 }
