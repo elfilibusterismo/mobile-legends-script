@@ -10,6 +10,58 @@
   },
   "reviews": [
     {
+      "reviewId": "43139450-1706-48cd-960a-4a68f4ee7e1b",
+      "userName": "Wilfredo Macalino",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIbMiLIs90j6FOrbn2IRpyuOeXjAuBWjtzoldI7s8hqrKzHSg=mo",
+      "content": "Pls update the star wars revamp and don't forget to full voise and attack effects",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0",
+      "at": "2024-09-13T09:21:50",
+      "replyContent": "Thanks for your suggestion! We\u2019re working hard to bring more updates, and we\u2019ll make sure to include the full voice and attack effects for the Star Wars revamp. Stay tuned!",
+      "repliedAt": "2024-09-14T04:24:05",
+      "appVersion": "1.1.0"
+    },
+    {
+      "reviewId": "1ef14246-2b31-4925-afce-002e301ea840",
+      "userName": "Jhaybie",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIJRKF2-nX0sw_bE2MEPPMJZ4-tfRjZ6eeg_UESb7x_9RtaKg=mo",
+      "content": "it is nice but I don't know yet",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-09-13T07:59:47",
+      "replyContent": "Thank you for your feedback! Take your time exploring the app, and if you have any questions or suggestions, feel free to reach out. We're here to help!",
+      "repliedAt": "2024-09-14T04:23:40",
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "0b744757-cfb0-46e1-b412-98aba290d89a",
+      "userName": "Jihoo Pizon",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVNR7TUVFtDTCOScU2meZl-TFcKW29XYKo4s5QLk5Y0zMXsXkg",
+      "content": "Nice for mlbb",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-09-13T02:27:11",
+      "replyContent": "Thank you! We're glad you're finding it useful for MLBB. More features and updates are on the way, so stay tuned!",
+      "repliedAt": "2024-09-14T04:22:28",
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "8df15f30-9e98-45d2-9430-bb1020277897",
+      "userName": "izzi ulya",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1QdXKLUjHwLxTullznf3B9lOjBoNynXLiLYDyAmpcfhencA=mo",
+      "content": "bagus keren banget",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-09-13T02:15:33",
+      "replyContent": "Thanks for the kind words! We're happy to know you're enjoying the app. Stay tuned for more exciting features!",
+      "repliedAt": "2024-09-14T04:21:58",
+      "appVersion": "1.1.0 fix1"
+    },
+    {
       "reviewId": "648f2a76-2f38-4473-b7d7-99a41d259c80",
       "userName": "Renz Borbon",
       "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXuWD7Hgu34oNspMVvQMyHNmqs9-jVlUDt06L0qZLHpnZ-U6DM",
@@ -21,59 +73,7 @@
       "replyContent": "Thank you for the great feedback, we're glad you're enjoying the app! Regarding the issue with Kagura's 2nd skill, please send a request directly through the app with detailed explanation. This way, we can review your specific situation and help resolve the problem. Thank you for your understanding!",
       "repliedAt": "2024-08-16T01:04:42",
       "appVersion": "1.1.0"
-    },
-    {
-      "reviewId": "a5920af9-e232-4ea1-8d6d-b8bc3e7d2888",
-      "userName": "Johnmichael Frilles",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW5BsVuktRtTsCH3SlpNbwusZcD4j1snYdmF1KJ2k6IEzSUOEWF",
-      "content": "Great app totally better than zen tools and very recommendable especially cuz its always being updated by the devs but I have some issues like some notifications \"has slain\" not working and when in offline mode many things becomes different yet still the best for me!! Edit: in the new update I can't change recalls I don't know why, even the backup doesn't work hope it will be fix\ud83d\ude00.",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0",
-      "at": "2024-09-12T09:59:55",
-      "replyContent": "Thank you for your review! The issue you're facing with changing recalls and the backup not working is due to a limitation with the ads. We're currently working on a fix to resolve this and will release an update soon. We really appreciate your patience and understanding! \ud83d\ude00",
-      "repliedAt": "2024-09-12T11:29:25",
-      "appVersion": "1.1.0"
-    },
-    {
-      "reviewId": "fa3973f7-d063-4a31-8cb9-3436ad71cbdd",
-      "userName": "Nirvan Thapa",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUhxQ5OJ3P34QwN7adfRQnfH8jft4V1ZOJVURvYfTXLMTId-BqW",
-      "content": "best of the best",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta-fix",
-      "at": "2024-09-11T16:38:54",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.27 beta-fix"
-    },
-    {
-      "reviewId": "4d38b568-5323-4366-a003-9fe333ae7948",
-      "userName": "grace aceron",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLHlBJHaHuTUP8B1sVi_aIx4cbDO6vjyvDhn4_8uGkgghIXuQ=mo",
-      "content": "good",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta-fix",
-      "at": "2024-09-11T13:46:16",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.27 beta-fix"
-    },
-    {
-      "reviewId": "57749c61-19f9-4c26-9d41-8160aa22c32c",
-      "userName": "Gederodran23",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJBWA6OmB5sxKcbmLjzs0SiXAufvYmiMeck5vLPJtH82-l5iw=mo",
-      "content": "its very good in my opinion",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta-fix",
-      "at": "2024-09-11T09:31:41",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.0.27 beta-fix"
     }
   ],
-  "generated_at": "2024-09-14T01:14:31.938613"
+  "generated_at": "2024-09-14T11:10:14.995630"
 }
