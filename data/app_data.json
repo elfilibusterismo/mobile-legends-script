@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 28012,
+    "realInstalls": 28210,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "648f2a76-2f38-4473-b7d7-99a41d259c80",
+      "userName": "Renz Borbon",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXuWD7Hgu34oNspMVvQMyHNmqs9-jVlUDt06L0qZLHpnZ-U6DM",
+      "content": "I like the new updatexbut my problem is on Kagura's ult, why is her voicelines got exchanged, example is her Soryu Maiden, when i throw the umbrella and press ult it says \"Waves rise!\" it should be \"Purify!\" and when I got my umbrella on me then I use ult it says \"Purify!\". Also from her Water Lily too, please fix this but ty! \ud83d\udc93",
+      "score": 5,
+      "thumbsUpCount": 24,
+      "reviewCreatedVersion": "1.1.0",
+      "at": "2024-09-12T15:28:25",
+      "replyContent": "Thank you for the great feedback, we're glad you're enjoying the app! Regarding the issue with Kagura's 2nd skill, please send a request directly through the app with detailed explanation. This way, we can review your specific situation and help resolve the problem. Thank you for your understanding!",
+      "repliedAt": "2024-08-16T01:04:42",
+      "appVersion": "1.1.0"
+    },
+    {
+      "reviewId": "a5920af9-e232-4ea1-8d6d-b8bc3e7d2888",
+      "userName": "Johnmichael Frilles",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW5BsVuktRtTsCH3SlpNbwusZcD4j1snYdmF1KJ2k6IEzSUOEWF",
+      "content": "Great app totally better than zen tools and very recommendable especially cuz its always being updated by the devs but I have some issues like some notifications \"has slain\" not working and when in offline mode many things becomes different yet still the best for me!! Edit: in the new update I can't change recalls I don't know why, even the backup doesn't work hope it will be fix\ud83d\ude00.",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0",
+      "at": "2024-09-12T09:59:55",
+      "replyContent": "Thank you for your review! The issue you're facing with changing recalls and the backup not working is due to a limitation with the ads. We're currently working on a fix to resolve this and will release an update soon. We really appreciate your patience and understanding! \ud83d\ude00",
+      "repliedAt": "2024-09-12T11:29:25",
+      "appVersion": "1.1.0"
+    },
     {
       "reviewId": "fa3973f7-d063-4a31-8cb9-3436ad71cbdd",
       "userName": "Nirvan Thapa",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.0.27 beta-fix"
-    },
-    {
-      "reviewId": "c694a63d-acfb-4738-bb68-29918750b687",
-      "userName": "Sgz Panaligan",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKNL12vsfh36WSuu6JTrkkRj5EdmPxyPTxca9Q2YaPzGrqC_g=mo",
-      "content": "It's very good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-09-11T02:44:22",
-      "replyContent": "Thank you! We're glad you\u2019re enjoying Injector Origin.",
-      "repliedAt": "2024-09-11T02:49:18",
-      "appVersion": null
-    },
-    {
-      "reviewId": "4264364c-54b3-41c7-9230-6bfd6f3a9cf8",
-      "userName": "Kien Eros Abas",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIeGS3wKM-uM_dhLkQlmaTh5dEa3tfXCt_KJp_bHKZ3d0DHkw=mo",
-      "content": "Is this safe? I won't ban my account?",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.0.27 beta-fix",
-      "at": "2024-09-10T15:34:59",
-      "replyContent": "Thank you for your feedback. Injector Origin strictly provides skins and effects, and we do not support any features that could lead to account bans, such as map hacks.",
-      "repliedAt": "2024-09-11T02:48:48",
-      "appVersion": "1.0.27 beta-fix"
     }
   ],
-  "generated_at": "2024-09-13T01:15:45.948100"
+  "generated_at": "2024-09-14T01:14:31.938613"
 }
