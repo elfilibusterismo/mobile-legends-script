@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 28210,
+    "realInstalls": 28841,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "f1d220b9-ca30-4b16-9f3e-c4a042816acc",
+      "userName": "Cenver Clarence Eguia",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLpycIrurXVqSdaw4i8TsHtjvHKjOchh3gynOfGXpBCuZhavw=mo",
+      "content": "Probably one of the best injector.But When i upgrade the skin Yasha to Infernal Wrymlord Its Shows Doom Incarnate the icon of the skin visual's and Voice lines just basically all of it just show's doom incarnate no Infernal Wrymlord just Doom Incarnate And also the icon says Yui Script. Hey thank for Fixing the problem but i have another request can you add a skin for skin upgrade underground boxer(paquito's skin) Fist of glory. I wish i can rate your App 10 stars but cant",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-09-13T12:16:39",
+      "replyContent": "Thank you for your kind words and support! We're happy we could resolve the issue. Regarding your request, we'll look into adding the Paquito \"Fist of Glory\" skin upgrade. Your enthusiasm means a lot to us, and we appreciate your feedback!",
+      "repliedAt": "2024-09-14T04:26:20",
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "43139450-1706-48cd-960a-4a68f4ee7e1b",
       "userName": "Wilfredo Macalino",
@@ -60,20 +73,7 @@
       "replyContent": "Thanks for the kind words! We're happy to know you're enjoying the app. Stay tuned for more exciting features!",
       "repliedAt": "2024-09-14T04:21:58",
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "648f2a76-2f38-4473-b7d7-99a41d259c80",
-      "userName": "Renz Borbon",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXuWD7Hgu34oNspMVvQMyHNmqs9-jVlUDt06L0qZLHpnZ-U6DM",
-      "content": "I like the new updatexbut my problem is on Kagura's ult, why is her voicelines got exchanged, example is her Soryu Maiden, when i throw the umbrella and press ult it says \"Waves rise!\" it should be \"Purify!\" and when I got my umbrella on me then I use ult it says \"Purify!\". Also from her Water Lily too, please fix this but ty! \ud83d\udc93",
-      "score": 5,
-      "thumbsUpCount": 24,
-      "reviewCreatedVersion": "1.1.0",
-      "at": "2024-09-12T15:28:25",
-      "replyContent": "Thank you for the great feedback, we're glad you're enjoying the app! Regarding the issue with Kagura's 2nd skill, please send a request directly through the app with detailed explanation. This way, we can review your specific situation and help resolve the problem. Thank you for your understanding!",
-      "repliedAt": "2024-08-16T01:04:42",
-      "appVersion": "1.1.0"
     }
   ],
-  "generated_at": "2024-09-14T11:10:14.995630"
+  "generated_at": "2024-09-15T01:23:22.302047"
 }
