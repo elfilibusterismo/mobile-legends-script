@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 31992,
+    "realInstalls": 32852,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "10301257-2648-4491-be64-178c2306a233",
+      "userName": "Jam Mangalo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJilWF5a07nyv5p_BVhmIkraKR9yHDyC1q6GBxlU9CylZe7ZQ=mo",
+      "content": "it's verry good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-09-18T21:17:44",
+      "replyContent": "Thank you for your positive feedback! We're thrilled to hear that you're enjoying the app. If you have any suggestions or features you'd like to see, we're always open to hearing from you. Enjoy using the app!",
+      "repliedAt": "2024-09-19T16:04:48",
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "e8ee7424-3276-4a13-af0a-dd728af417bd",
       "userName": "aliyah faye",
@@ -60,20 +73,7 @@
       "replyContent": "Thank you so much! We're thrilled to hear you find the app useful. If you ever have any feedback or suggestions, feel free to reach out!",
       "repliedAt": "2024-09-17T04:10:37",
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "4027d2c3-61de-4a82-9680-d0e348bbd81f",
-      "userName": "Kevin Ambrosio",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLBW18mCUMxfepb3uvKs6YLN9-lRcVpx3P8ux4ZhkYV0KIwFQ=mo",
-      "content": "niceee",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-09-16T09:46:51",
-      "replyContent": "Thanks a lot! \ud83d\ude0a We're glad you're enjoying the app. If you have any suggestions or feedback, feel free to let us know!",
-      "repliedAt": "2024-09-17T04:09:41",
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-09-19T01:17:06.457785"
+  "generated_at": "2024-09-20T01:16:56.629312"
 }
