@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 36143,
+    "realInstalls": 37490,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "e87c3441-eba1-4d14-af61-3bab7e7bd1c6",
+      "userName": "Gabby Mose",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtMl5B6ozaKhy5hsc19T2h74mjHU3sAJBrLUP3qPjQAhIheA=mo",
+      "content": "Seems working GOOD JOB FOR MAKING THIS APP ! \ud83d\udc4d",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-09-21T15:33:19",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "135f07fd-66ab-405e-b96c-a533c3fae617",
+      "userName": "Dave matthew A. Lacaba",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIfRG9qg2_LukpFDj0TdOX4fsQ3w-00f6Of6tjpC8JPIbZ2=mo",
+      "content": "Only thing is the recall effect issue, whenever I finished a match, then close the game and open it again, the sound effect isn't there anymore TnT",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-09-21T15:11:45",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "2a21aff9-7aa2-45c9-9b38-9d944b3b6ae8",
+      "userName": "Co o Ol",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKN_KHg0SsQ1dUAASs2k_RL7RPvohXWvvmWeS_AyRtYRM1JhA=mo",
+      "content": "make wow skin pro hack",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-09-21T15:07:30",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "03b1b0fa-d870-41ba-a599-ee64890325bc",
       "userName": "justine linsag",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "726fca3b-6d5a-4e6a-ac3b-4f8f163b72a0",
-      "userName": "Zen Rafael Mira",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJRdbWNENYko5UjFTWo3wuI7AESc_9SDDUUSKnJ9XuldR2rzw=mo",
-      "content": "Why is kagura 2nd skill on water Lily doesnt have effects on the shadow when dashing",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-09-20T15:49:12",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "6c5eb9ab-6903-4280-ab7a-c36d3ca2d371",
-      "userName": "Jireh Fernandez18",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLw-3V1qSru-epmpxKVgKgZqQWg9YFRIaPAMOOjpkKDpB6KUw=mo",
-      "content": "4 stars because whenever I click backup on recall and elimination it doesn't go back",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-09-20T15:05:28",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "09881e4b-267b-431d-b15d-571646e4f996",
-      "userName": "Mitch PlaysGamez",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUP1XmAotIQ7UTr9Efp9ZIwWKudIdBWRCvY1ySczj5-H2i0VdQ",
-      "content": "very good at injecting;)",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-09-20T12:19:38",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-09-22T01:23:50.246613"
+  "generated_at": "2024-09-23T01:18:53.236934"
 }
