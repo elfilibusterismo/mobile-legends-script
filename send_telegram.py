@@ -27,7 +27,7 @@ if __name__ == "__main__":
     with open(commits, 'r') as f:
         data = json.load(f)
         for commit in data['commits']:
-            commit_messages.append(f"{commit['message']}")
+            commit_messages.append(f">{commit['message']}")
 
     commit_messages_str = "\n".join(commit_messages)
 
