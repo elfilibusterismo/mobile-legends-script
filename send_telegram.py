@@ -2,11 +2,15 @@ import os
 import requests
 import json
 
+def escape_markdown_v2(text):
+    escape_chars = r'_~`#+-=|{}.!'
+    return re.sub(r'([%s])' % re.escape(escape_chars), r'\\\1', text)
+
 def send_message(chat_id, token, message, topic_id=None):
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
         'chat_id': chat_id,
-        'text': message,
+        'text': escape_markdown_v2(message),
         'parse_mode': 'MarkdownV2'
     }
     if topic_id:
