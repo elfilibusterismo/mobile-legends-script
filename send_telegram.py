@@ -1,5 +1,6 @@
 import os
 import requests
+import re
 import json
 
 def escape_markdown_v2(text):
