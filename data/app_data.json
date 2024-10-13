@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 63753,
+    "realInstalls": 63602,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "eda3eb75-7ce7-45b6-8465-9d50894d4946",
+      "userName": "Roche Alumno",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLg9yPqkeuf09rKoXkQxD_nPGh_YcrvCE-MM4ShWZ5oboxAHg=mo",
+      "content": "wow",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-10-11T23:14:41",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "c54aa768-a69a-4eb5-8d4a-d03911abe4b8",
+      "userName": "jose melvin Ero",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIyZviC8ZFOdYLKGsUYH0wq-XjFMgLX7iQmc4648thvGdEBAQ=mo",
+      "content": "4goods",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-11T13:57:52",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "afc4fb33-4890-4109-8c05-b5ac088b5f1b",
+      "userName": "Marissa Lorzano",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJcHIgR87XV1R8g2M9eP7tbSs1ityZ5XFoqstxSyWJjc8lpZQ=mo",
+      "content": "Because it says wrong path, even I'm doing things right and, this injector is trash",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-11T06:16:00",
+      "replyContent": "Thanks for your feedback! If you're encountering a 'wrong path' error despite following the correct steps, we recommend trying Shizuku as an alternative. This often resolves issues when the Primary and Secondary methods don't work. Let us know if you need further assistance!",
+      "repliedAt": "2024-09-30T08:51:05",
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "d612d2dc-672e-4908-81ed-d8a528e1372f",
       "userName": "Markjay Rebe",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "a4e61745-b0f5-4be0-9b99-f7abf3571ea3",
-      "userName": "Jhonloyd Tucay",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL0FkBki_jrwXxHHz7-UP85q1QdjSuDbjskEI0UI0N9XoK5Mw=mo",
-      "content": "Can u fix the picture of the default skin for Aldous and chou",
-      "score": 3,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-10T09:46:46",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "dad5807d-ba1b-410a-8f24-7370c348db90",
-      "userName": "Zechariah Emotin",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFzNff1ENHB83BEUN-FEsgvA3JBILNMexMSwEmOmvJxXekrts",
-      "content": "nice",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-10-10T06:15:44",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "6135f6b5-6514-4a50-a34b-3aace826cde1",
-      "userName": "RO BIE",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGPDvhdLiyMvkypVZkVeGfvA1EJiw8s5pw1pSWl0stEhmMJw=mo",
-      "content": "this app i was search many years full of effect not like other",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-09T16:54:30",
-      "replyContent": "Thank you so much for your kind words! We're thrilled to hear that you found exactly what you were looking for after all this time. We\u2019re dedicated to offering unique and full-featured experiences, and your feedback motivates us to keep improving. Enjoy the app!\n\n",
-      "repliedAt": "2024-10-09T20:32:01",
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-10-12T01:17:02.868786"
+  "generated_at": "2024-10-13T01:24:07.807400"
 }
