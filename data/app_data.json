@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 64986,
+    "realInstalls": 66222,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "ac59f557-307e-4bc2-b9c0-bb622a35c639",
+      "userName": "Joshua Tumulac",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLSZ7lax85SjTOojP8Id-HIKbLvLTaW8Q42JNALSWIKW9Nz8Q=mo",
+      "content": "very useful",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-13T23:27:08",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "7ba54930-880b-4e41-bc28-6f72837ee05b",
+      "userName": "Richard Curato",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKTCJLAX3Xb6Vl9hleyuepHTImyzeHml99ycRsJxDV4eQRfZw=mo",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-13T11:44:58",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "ab22f1f8-675f-42b6-b982-c5e08b5f0b4f",
       "userName": "mark viel gaa",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "afc4fb33-4890-4109-8c05-b5ac088b5f1b",
-      "userName": "Marissa Lorzano",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJcHIgR87XV1R8g2M9eP7tbSs1ityZ5XFoqstxSyWJjc8lpZQ=mo",
-      "content": "Because it says wrong path, even I'm doing things right and, this injector is trash",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-11T06:16:00",
-      "replyContent": "Thank you for your feedback! We understand the frustration with the \"wrong path select\" error, which is why we're suggesting using Shizuku to resolve it. We know it\u2019s not the most seamless process, but we\u2019re working on making things easier. We appreciate your patience, and if you have any other questions or need assistance, feel free to reach out!",
-      "repliedAt": "2024-10-13T03:59:55",
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "d612d2dc-672e-4908-81ed-d8a528e1372f",
-      "userName": "Markjay Rebe",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL5SGFbu6XvndPGkNMcNVM_R0C0ml1elvw317buF-VJsDAIwA=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-10T12:54:58",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-10-14T01:21:00.331581"
+  "generated_at": "2024-10-15T01:20:06.360510"
 }
