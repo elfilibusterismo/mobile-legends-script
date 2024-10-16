@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.0 fix1",
     "score": 0,
-    "realInstalls": 66222,
+    "realInstalls": 67040,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Sep 12, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "94c87f0e-d49e-46dc-aa45-46e19ea1b8ef",
+      "userName": "Rosana Aquino",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWfaaQPN_ETzzOHfFkOWyNQcOWiyq6WH3MaPai6Rms2pHKaQ=mo",
+      "content": "\ua2ca\ua490\ua254\ua3c2!!!!!!!!!!!!!!!!",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-14T15:31:02",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "e13a7f0f-4dc3-43e2-937c-12c9301b1907",
+      "userName": "Kwenie Ledesma",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJKrKuEwpKwfLvsSXCrHxvrvCteYmEfjlAbH5CLWLeiBDiLsw=mo",
+      "content": "jogger",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-14T03:53:53",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "ac59f557-307e-4bc2-b9c0-bb622a35c639",
       "userName": "Joshua Tumulac",
@@ -47,33 +73,7 @@
       "replyContent": "Thanks for the awesome review and 5-star rating! We're so glad you love Injector Origin! We appreciate your support.\n",
       "repliedAt": "2024-10-13T22:36:14",
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "eda3eb75-7ce7-45b6-8465-9d50894d4946",
-      "userName": "Roche Alumno",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLg9yPqkeuf09rKoXkQxD_nPGh_YcrvCE-MM4ShWZ5oboxAHg=mo",
-      "content": "wow",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-10-11T23:14:41",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "c54aa768-a69a-4eb5-8d4a-d03911abe4b8",
-      "userName": "jose melvin Ero",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIyZviC8ZFOdYLKGsUYH0wq-XjFMgLX7iQmc4648thvGdEBAQ=mo",
-      "content": "4goods",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-11T13:57:52",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-10-15T01:20:06.360510"
+  "generated_at": "2024-10-16T01:20:09.353057"
 }
