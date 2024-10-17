@@ -2,13 +2,39 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.1.0 fix1",
+    "version": "1.1.1",
     "score": 0,
-    "realInstalls": 67040,
+    "realInstalls": 67830,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Sep 12, 2024"
+    "lastUpdatedOn": "Oct 15, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "b2df6059-e8e9-4c98-9402-1fc33eeb454d",
+      "userName": "Aileen Damayo",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVTH6DEOdKo0h8jqUAktOJawAzYtZjVkFZeEjLGW-lQRVIFvSf-",
+      "content": "wow this is real",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-15T04:22:45",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "ef6ddb48-27cf-4aa8-8599-0f7ee52d8c46",
+      "userName": "Axel n And kuya",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocImb13GvKTj8Dr0yF4yAETgWcgXqVw6DDhd6aIORGesd4JanA=mo",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-15T02:59:47",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "94c87f0e-d49e-46dc-aa45-46e19ea1b8ef",
       "userName": "Rosana Aquino",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "7ba54930-880b-4e41-bc28-6f72837ee05b",
-      "userName": "Richard Curato",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKTCJLAX3Xb6Vl9hleyuepHTImyzeHml99ycRsJxDV4eQRfZw=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-13T11:44:58",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "ab22f1f8-675f-42b6-b982-c5e08b5f0b4f",
-      "userName": "mark viel gaa",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWZS9fzUVlVHHEKCVYbglXV8lkZ_wo2c1djPRpCWjHf8oZnwTO4",
-      "content": "it's so good even the background I love you injector origin I hope you stay safe in real life",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-12T14:16:43",
-      "replyContent": "Thanks for the awesome review and 5-star rating! We're so glad you love Injector Origin! We appreciate your support.\n",
-      "repliedAt": "2024-10-13T22:36:14",
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-10-16T01:20:09.353057"
+  "generated_at": "2024-10-17T01:19:15.564864"
 }
