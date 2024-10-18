@@ -2,13 +2,65 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.1.1",
+    "version": "1.1.1-fix1",
     "score": 0,
-    "realInstalls": 67830,
+    "realInstalls": 69546,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Oct 15, 2024"
+    "lastUpdatedOn": "Oct 17, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "9f894b1a-e93e-4a95-a561-321a9dfc3e38",
+      "userName": "Nathanielal Alcazaren",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJQWw3-cQBL70e9SEsjGc5ykyCvjbhxYd2H_3sDzAfQLfnDyQ=mo",
+      "content": "Gusion k",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-10-16T22:39:33",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "1ff902b7-2691-49e8-a45c-e5c517b01d3c",
+      "userName": "Ms Tluanga",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKSyfwEtpfC4OgNdfBnvrFwfX0dvsO_Nkp0KJL1WxBGv-MJHQ=mo",
+      "content": "best app for mlbb",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-16T14:49:08",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
+    {
+      "reviewId": "a42080fb-f2f9-4900-8ccb-9d2af7f9763a",
+      "userName": "rainjustine macabadbad",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXe3_xyENel09SjQc7gAceWfGW0h4zxVek1gC3foKHSdtvdtU2y",
+      "content": "very nc",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.1",
+      "at": "2024-10-16T10:57:13",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.1"
+    },
+    {
+      "reviewId": "7b2df106-745c-4acf-b889-34595ad58a6b",
+      "userName": "Ivan Bayking",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ5TQF_p38EGbkL6I7VDKk3L2F6ExCCrEMyyv6oLdJ3Z5zuWQ=mo",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.0 fix1",
+      "at": "2024-10-16T02:01:38",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.0 fix1"
+    },
     {
       "reviewId": "b2df6059-e8e9-4c98-9402-1fc33eeb454d",
       "userName": "Aileen Damayo",
@@ -21,59 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "ef6ddb48-27cf-4aa8-8599-0f7ee52d8c46",
-      "userName": "Axel n And kuya",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocImb13GvKTj8Dr0yF4yAETgWcgXqVw6DDhd6aIORGesd4JanA=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-15T02:59:47",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "94c87f0e-d49e-46dc-aa45-46e19ea1b8ef",
-      "userName": "Rosana Aquino",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWfaaQPN_ETzzOHfFkOWyNQcOWiyq6WH3MaPai6Rms2pHKaQ=mo",
-      "content": "\ua2ca\ua490\ua254\ua3c2!!!!!!!!!!!!!!!!",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-14T15:31:02",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "e13a7f0f-4dc3-43e2-937c-12c9301b1907",
-      "userName": "Kwenie Ledesma",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJKrKuEwpKwfLvsSXCrHxvrvCteYmEfjlAbH5CLWLeiBDiLsw=mo",
-      "content": "jogger",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-14T03:53:53",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
-    },
-    {
-      "reviewId": "ac59f557-307e-4bc2-b9c0-bb622a35c639",
-      "userName": "Joshua Tumulac",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLSZ7lax85SjTOojP8Id-HIKbLvLTaW8Q42JNALSWIKW9Nz8Q=mo",
-      "content": "very useful",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-13T23:27:08",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-10-17T01:19:15.564864"
+  "generated_at": "2024-10-18T01:19:30.556962"
 }
