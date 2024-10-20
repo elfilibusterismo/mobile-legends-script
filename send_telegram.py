@@ -4,7 +4,7 @@ import re
 import json
 
 def escape_markdown_v2(text):
-    escape_chars = r'_~`#+-=|{}.!()'
+    escape_chars = r'_~`#+-=|{}.!'
     return re.sub(r'([%s])' % re.escape(escape_chars), r'\\\1', text)
 
 def send_message(chat_id, token, message, topic_id=None):
