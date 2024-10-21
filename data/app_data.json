@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.1.1-fix1",
     "score": 0,
-    "realInstalls": 70354,
+    "realInstalls": 73224,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 17, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "5e2f01c0-ab4a-441d-aa9c-ae2924c28a85",
+      "userName": "Henz Dianela",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJEnzzN_hcoPVPj6lV7IoryWqA753ySf0e65GkzP3xKHhKKXg=mo",
+      "content": "madaming gagawin",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.1.1-fix1",
+      "at": "2024-10-20T00:27:59",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.1.1-fix1"
+    },
+    {
+      "reviewId": "bd9fd33c-9153-4628-ac90-d04709b80953",
+      "userName": "Kari Bam",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLx-SrkElh2s84OnMAc4NvPQvLdoo6uYdF9D5_NkYlZkztyzA=mo",
+      "content": "Worst injector ever",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-10-19T17:25:57",
+      "replyContent": "Thanks for your feedback! We're sorry to hear you didn\u2019t have a great experience with Injector Origin. We're constantly working to improve the app, and your input helps us identify areas for improvement. If you have specific issues or suggestions, feel free to share them with us. We'd love to make your experience better!",
+      "repliedAt": "2024-10-19T17:30:18",
+      "appVersion": null
+    },
+    {
+      "reviewId": "fa359d31-56f5-4d93-8091-03c34552d2f1",
+      "userName": "Kingangelo Ortillo",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWhxzmlTA2ohTssR9-szHDygadkrOnl1lNTY7zLoOqYbdy2lA",
+      "content": "VERY GOOD KEEP UP JUST DONT TRUST SHIZU THATS IT",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2024-10-19T08:06:34",
+      "replyContent": "Thank you for the support! We're glad you're enjoying the app, and we appreciate your feedback. We'll keep pushing to make it even better. If there's anything else we can do to enhance your experience, feel free to let us know!",
+      "repliedAt": "2024-10-19T17:31:01",
+      "appVersion": null
+    },
     {
       "reviewId": "d69f4fc9-6c1c-4cb0-887a-342c64e35355",
       "userName": "Kasul Madrigal",
@@ -34,46 +73,7 @@
       "replyContent": "Thank you! We're glad to hear you think it's one of the better injectors. We'll keep working hard to make it even better for you!\n\n",
       "repliedAt": "2024-10-19T02:11:33",
       "appVersion": "1.1.1-fix1"
-    },
-    {
-      "reviewId": "2f4ecfe3-0c8d-4adc-94e5-ca5372106e79",
-      "userName": "Sanchez Tano",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI3DEU6aC8yk--0m77EXSrMKTyDon0llviRXy5NzHkAZv1RMw=mo",
-      "content": "the steps is hard but it's good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.1-fix1",
-      "at": "2024-10-17T20:46:48",
-      "replyContent": "Thanks for your feedback! We\u2019re glad you think it\u2019s good, though we understand the steps might seem a bit tricky. We\u2019ll work on making things easier in future updates to improve your experience!\n\n",
-      "repliedAt": "2024-10-19T02:10:35",
-      "appVersion": "1.1.1-fix1"
-    },
-    {
-      "reviewId": "6cd79d83-81ea-46ed-8073-dc04e8e730d0",
-      "userName": "Jennilyn Fungo,",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLUHZFfn15M3NROmIyGE_6Lqfmo-tUJ_Bwkv_y_Ifuf5ID7vz0=mo",
-      "content": "this weekend",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-10-17T20:01:40",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "87c776a8-fe30-48ba-8481-e612ebde763d",
-      "userName": "Joseph Mantomingcal",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUMmgwHmGUl9lEGDMQuwdoEnbORbpZvKDXA8t3OkP7ycxImdKY",
-      "content": "This was GREAT! It had a lot of new skins but the problem is that there are a lot of bugs like fredrinn neo beast with the default voice and ui. And can you guys please add custom skins/anime skins that would be great \ud83d\udc4d",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.0 fix1",
-      "at": "2024-10-17T12:08:19",
-      "replyContent": "Thanks for your feedback! We're glad you enjoyed the new skins. Regarding the bugs, we\u2019re aware that some of the voicelines, like Fredrinn Neo Beast, don\u2019t work anymore, and we\u2019re working on fixing them. As for custom and anime skins, we\u2019re exploring adding those in the future, so stay tuned for more updates!\n\n",
-      "repliedAt": "2024-10-19T02:10:08",
-      "appVersion": "1.1.0 fix1"
     }
   ],
-  "generated_at": "2024-10-20T01:25:33.248411"
+  "generated_at": "2024-10-21T01:21:04.752652"
 }
