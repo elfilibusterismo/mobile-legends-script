@@ -1,8 +1,8 @@
 name: Auto-generated app info
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  #schedule:
+  #  - cron: '0 0 * * *' # Runs every day at midnight UTC
   workflow_dispatch:
 jobs:
   generate-json:
