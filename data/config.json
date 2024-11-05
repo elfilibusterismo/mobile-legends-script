@@ -1,6 +1,7 @@
 {
     "note_enable": false,
     "note_message": "Sample note message",
+    "sample_game_enable": true,
     "recommended": [
         {
             "hero_id": 58,
