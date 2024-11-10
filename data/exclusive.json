@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "hero_id": 34,
+        "skin_category": 2,
+        "skin_id": 0,
+        "skin_landscape": "https://github.com/injector-origin/random-files/raw/main/estes-revamp-look-when-v0-d5w6c3q62ddc1.jpeg",
+        "skin_name": "Estes CN Version",
+        "skin_portrait": "https://github.com/injector-origin/random-files/raw/main/estes-revamp-look-when-v0-d5w6c3q62ddc1.jpeg",
+        "skin_script": "https://github.com/injector-origin/mobile-legends-script/raw/main/temp/zh-341.zip",
+        "skin_type": "Backup"
+    }
+]
