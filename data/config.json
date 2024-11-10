@@ -4,43 +4,13 @@
     "sample_game_enable": true,
     "recommended": [
         {
-            "hero_id": 58,
-            "skin_id": 7,
+            "hero_id": 5,
+            "skin_id": 100,
             "type": 0
         },
         {
-            "hero_id": 9,
-            "skin_id": 9,
-            "type": 0
-        },
-        {
-            "hero_id": 50,
-            "skin_id": 5,
-            "type": 0
-        },
-        {
-            "hero_id": 25,
-            "skin_id": 9,
-            "type": 0
-        },
-        {
-            "hero_id": 78,
-            "skin_id": 7,
-            "type": 0
-        },
-        {
-            "hero_id": 103,
-            "skin_id": 8,
-            "type": 0
-        },
-        {
-            "hero_id": 67,
-            "skin_id": 7,
-            "type": 0
-        },
-        {
-            "hero_id": 100,
-            "skin_id": 6,
+            "hero_id": 34,
+            "skin_id": 100,
             "type": 0
         }
     ],
