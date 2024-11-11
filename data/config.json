@@ -4,6 +4,11 @@
     "sample_game_enable": true,
     "recommended": [
         {
+            "hero_id": 26,
+            "skin_id": 100,
+            "type": 0
+        },
+        {
             "hero_id": 5,
             "skin_id": 100,
             "type": 0
