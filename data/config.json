@@ -2,6 +2,24 @@
     "note_enable": false,
     "note_message": "Sample note message",
     "sample_game_enable": true,
+    "early_access": [],
+    "origin_only": [
+        {
+            "hero_id": 26,
+            "skin_id": 100,
+            "type": 0
+        },
+        {
+            "hero_id": 5,
+            "skin_id": 100,
+            "type": 0
+        },
+        {
+            "hero_id": 34,
+            "skin_id": 100,
+            "type": 0
+        }
+    ],
     "recommended": [
         {
             "hero_id": 26,
@@ -19,26 +37,5 @@
             "type": 0
         }
     ],
-    "exclusives": [
-        {
-            "hero_id": 34,
-            "skin_category": 2,
-            "skin_id": 100,
-            "skin_landscape": "https://github.com/injector-origin/random-files/raw/main/estes-zh.jpg",
-            "skin_name": "Estes CN Version",
-            "skin_portrait": "https://github.com/injector-origin/random-files/raw/main/estes-zh.jpg",
-            "skin_script": "https://github.com/injector-origin/mobile-legends-script/raw/main/temp/zh-341.zip",
-            "skin_type": "CN Version"
-        },
-        {
-            "hero_id": 5,
-            "skin_category": 2,
-            "skin_id": 100,
-            "skin_landscape": "https://github.com/injector-origin/random-files/raw/main/nana-zh.jpg",
-            "skin_name": "Nana CN Version",
-            "skin_portrait": "https://github.com/injector-origin/random-files/raw/main/nana-zh.jpg",
-            "skin_script": "https://github.com/injector-origin/random-files/raw/main/zh-051.zip",
-            "skin_type": "CN Version"
-        }
-    ]
+    "exclusives": []
 }
