@@ -10,6 +10,11 @@
             "type": 0
         },
         {
+            "hero_id": 80,
+            "skin_id": 100,
+            "type": 0
+        },
+        {
             "hero_id": 5,
             "skin_id": 100,
             "type": 0
