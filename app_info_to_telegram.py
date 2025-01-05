@@ -3,15 +3,39 @@ import json
 import requests
 import re
 
-def escape_markdown_v2(text):
-    escape_chars = r'_*[]()~`>#+-=|{}.!'
-    return re.sub(r'([%s])' % re.escape(escape_chars), r'\\\1', text)
+def escape_markdown(text: str, version: int = 1, entity_type: str = None) -> str:
+    """
+    Helper function to escape telegram markup symbols.
+
+    Args:
+        text (:obj:`str`): The text.
+        version (:obj:`int` | :obj:`str`): Use to specify the version of telegrams Markdown.
+            Either ``1`` or ``2``. Defaults to ``1``.
+        entity_type (:obj:`str`, optional): For the entity types ``PRE``, ``CODE`` and the link
+            part of ``TEXT_LINKS``, only certain characters need to be escaped in ``MarkdownV2``.
+            See the official API documentation for details. Only valid in combination with
+            ``version=2``, will be ignored else.
+    """
+    if int(version) == 1:
+        escape_chars = r'_*`['
+    elif int(version) == 2:
+        if entity_type in ['pre', 'code']:
+            escape_chars = r'\`'
+        elif entity_type == 'text_link':
+            escape_chars = r'\)'
+        else:
+            escape_chars = r'_*[]()~`>#+-=|{}.!'
+    else:
+        print('Markdown version must be either 1 or 2!')
+
+    return re.sub(f'([{re.escape(escape_chars)}])', r'\\\1', text)
+
 
 def send_message(chat_id, token, message, topic_id=None):
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
         'chat_id': chat_id,
-        'text': escape_markdown_v2(message),
+        'text': escape_markdown(message),
         'parse_mode': 'MarkdownV2'
     }
     if topic_id:
@@ -53,9 +77,9 @@ if __name__ == "__main__":
         content = review.get("content", "No content")
         score = review.get("score", "N/A")
         message += (
-            f"*User*: {escape_markdown_v2(author)}\n"
+            f"*User*: {escape_markdown(author)}\n"
             f"*Rating*: {score}\n"
-            f"*Review*: {escape_markdown_v2(content)}\n\n"
+            f"*Review*: {escape_markdown(content)}\n\n"
         )
 
     send_message(chat_id, bot_token, message, topic_id)
