@@ -1,11 +1,12 @@
 name: Auto-generated app info
 
 on:
-  #schedule:
-  #  - cron: '0 0 * * *' # Runs every day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
   workflow_dispatch:
+
 jobs:
-  generate-json:
+  generate-and-send:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,7 +19,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: pip install google-play-scraper
+      run: pip install google-play-scraper requests
 
     - name: Generate JSON file
       run: python generate_app_info.py
@@ -32,3 +33,10 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Send JSON to Telegram
+      run: python app_info_to_telegram.py
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        TELEGRAM_TOPIC_ID: ${{ secrets.TELEGRAM_TOPIC_ID }}
