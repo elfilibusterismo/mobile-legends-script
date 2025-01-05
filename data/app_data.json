@@ -2,78 +2,78 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.1.1-fix3",
-    "score": 0,
-    "realInstalls": 82314,
+    "version": "1.2.5",
+    "score": 4.875,
+    "realInstalls": 211402,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Oct 22, 2024"
+    "lastUpdatedOn": "Nov 13, 2024"
   },
   "reviews": [
     {
-      "reviewId": "ef1e69a3-5456-4a82-87d7-592fd7c9e616",
-      "userName": "Jhon Intong",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKDcegTZzWbrSzw1pjkI2i-C50qrrkMFBphXjJZS6Uu_H2EPw=mo",
-      "content": "it's so good",
+      "reviewId": "3cf91bb1-90f0-406f-863e-bd7c2dde9e68",
+      "userName": "Ricaforte Rey",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL2F1MsU2npSHOfbm08hVuWgRuj0V3-hvv7t3tdjWOJH_pHPw=mo",
+      "content": "thankyusomuch",
       "score": 5,
       "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.1-fix1",
-      "at": "2024-10-27T00:23:22",
+      "reviewCreatedVersion": "1.2.5",
+      "at": "2025-01-03T21:20:04",
       "replyContent": null,
       "repliedAt": null,
-      "appVersion": "1.1.1-fix1"
+      "appVersion": "1.2.5"
     },
     {
-      "reviewId": "e0479818-7cec-4a91-b408-c60b9f7457cc",
-      "userName": "Eguna Keven",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIhdMREC6vDiMV_bmO1jGwU3GnddlUTVfpcxgfvkqCyIFV44A=mo",
-      "content": "Utuu",
+      "reviewId": "8991f130-32bc-45e7-ae14-a6c1be1d0d4b",
+      "userName": "Norma Aquino",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLk3hRsI4LIZsv1o40wu-62Vo0oyB--NjEW_joFD6I5WPyk2A=mo",
+      "content": "good",
       "score": 5,
       "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.1-fix3",
-      "at": "2024-10-26T21:55:49",
+      "reviewCreatedVersion": "1.2.5",
+      "at": "2025-01-03T10:20:22",
       "replyContent": null,
       "repliedAt": null,
-      "appVersion": "1.1.1-fix3"
+      "appVersion": "1.2.5"
     },
     {
-      "reviewId": "3f6ea3ea-7834-42b7-9dec-bf040e03913c",
-      "userName": "Rainprincess Gonzales",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKFx6xTOQk7gscZbtGMK6gmEAPC1YtsG4HmY5Ts4aUGX8rMTw=mo",
-      "content": "maganda itong injector na to I download nyo na",
+      "reviewId": "e6f192de-cf3a-4652-9ccf-b63ecbcdcb52",
+      "userName": "Jhaycer Ytac",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLXQbH97ZSM3bcaiaFccrtbTE38IdK0-SH9ucfWXcbw1r8ydQ=mo",
+      "content": "ganda",
       "score": 5,
       "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2024-10-26T18:57:53",
+      "reviewCreatedVersion": "1.2.5",
+      "at": "2025-01-03T08:39:59",
       "replyContent": null,
       "repliedAt": null,
-      "appVersion": null
+      "appVersion": "1.2.5"
     },
     {
-      "reviewId": "9381f4d2-826e-4ade-8ba3-69eb61fc3f67",
-      "userName": "Kendra Louise Flores",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWhNSvIRdENIORbdkYHuWD-rv0BBoeV1-6xL-jOgWfu-5Tsu9E",
-      "content": "It's great it's smooth but it doesn't have many recalls and emotes so please add some",
+      "reviewId": "84d91068-4fed-4a00-bdbb-c35e11813f98",
+      "userName": "taimekiatadar",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLqVXCbN52gH3sepz63hSmRGR0xKP_dKdfBGMrQtauGcYIwVw=mo",
+      "content": "this is a very useful app for poor people but one thing I don't know how to inject a particular skin to another particular skin but it is a good app.",
       "score": 4,
       "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.1-fix3",
-      "at": "2024-10-26T11:15:18",
+      "reviewCreatedVersion": "1.2.5",
+      "at": "2025-01-02T18:14:45",
       "replyContent": null,
       "repliedAt": null,
-      "appVersion": "1.1.1-fix3"
+      "appVersion": "1.2.5"
     },
     {
-      "reviewId": "d9ce03b7-03c0-41d8-8e3b-26709dd8cfd8",
-      "userName": "zackarie clyd dacquil",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL9qdjCl8R1aq29M25VBooGSurlGJhb9tgzmqR4B5ndAxNJ0g=mo",
-      "content": "it's good and they give the emblem and item",
-      "score": 5,
+      "reviewId": "8595350d-227f-437a-b3b1-26e08c17ed49",
+      "userName": "Alfred Layon",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLIl2ZlgL6WS3_-ACD9LEQB9A-IGfMRyJaSZtKMzvaCz5FWZg=mo",
+      "content": "alfredtv",
+      "score": 2,
       "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.1.1-fix3",
-      "at": "2024-10-26T10:56:23",
+      "reviewCreatedVersion": "1.2.5",
+      "at": "2025-01-02T14:57:36",
       "replyContent": null,
       "repliedAt": null,
-      "appVersion": "1.1.1-fix3"
+      "appVersion": "1.2.5"
     }
   ],
-  "generated_at": "2024-10-28T01:22:28.030643"
+  "generated_at": "2025-01-05T07:19:12.108208"
 }
