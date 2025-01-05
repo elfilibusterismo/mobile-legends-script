@@ -3,19 +3,7 @@ import json
 import requests
 import re
 
-def escape_markdown(text: str, version: int = 1, entity_type: str = None) -> str:
-    """
-    Helper function to escape telegram markup symbols.
-
-    Args:
-        text (:obj:`str`): The text.
-        version (:obj:`int` | :obj:`str`): Use to specify the version of telegrams Markdown.
-            Either ``1`` or ``2``. Defaults to ``1``.
-        entity_type (:obj:`str`, optional): For the entity types ``PRE``, ``CODE`` and the link
-            part of ``TEXT_LINKS``, only certain characters need to be escaped in ``MarkdownV2``.
-            See the official API documentation for details. Only valid in combination with
-            ``version=2``, will be ignored else.
-    """
+def escape_markdown(text: str, version: int = 2, entity_type: str = None) -> str:
     if int(version) == 1:
         escape_chars = r'_*`['
     elif int(version) == 2:
