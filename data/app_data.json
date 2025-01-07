@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.2.5",
     "score": 4.875,
-    "realInstalls": 214334,
+    "realInstalls": 217040,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Nov 13, 2024"
   },
   "reviews": [
+    {
+      "reviewId": "1110f9ae-cd5d-4c58-866f-e23797494e84",
+      "userName": "Edgardo Alvarez",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVnLEicSpQt2lzwtYtqGXXAH6_JTbCoFnwyw4kotEHrbtDcgUtC",
+      "content": "so good \ud83d\udc4d",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-01-05T12:47:15",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "19844352-7d1c-421d-93f9-5032d9ed156d",
+      "userName": "Hyylie Torres",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKwpvEgediZ6-J5izLKNm6hE-3isCWNnc2plYF4FeIIwIMKhA=mo",
+      "content": "I love it! Very cool, but can you upd kagura's exorcist skin, kasama din sana yung skills.",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.2.5",
+      "at": "2025-01-05T05:31:45",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.2.5"
+    },
     {
       "reviewId": "554349b4-4d55-4e1e-b870-c31acfcd96af",
       "userName": "Brench beran Brench bayatan",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.2.5"
-    },
-    {
-      "reviewId": "2f0f1fb9-d328-481e-b997-1d83c46ecc29",
-      "userName": "Jake Mode",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKXkcEFpWE3k8sXd3HDvh7vehE0a5hmjrAtsOnGQDHYrNXpCQ=mo",
-      "content": "thank",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.2.5",
-      "at": "2025-01-04T11:38:13",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.2.5"
-    },
-    {
-      "reviewId": "4d47f8c1-7216-4c87-9a30-aa755c26e513",
-      "userName": "Amy Adorable",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIAMI9dxbt9mK4DKEXsV1_g_oUTW31JJtEUczEc56_JaqQQow=mo",
-      "content": "I rate it five stars it's very good but there is a bug about all dyrotth's skins they all don't work.",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-01-04T10:59:53",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-01-06T01:50:29.305323"
+  "generated_at": "2025-01-07T01:47:11.820132"
 }
