@@ -1,8 +1,8 @@
 {
     "note_enable": false,
-    "note_message": "Sample note message",
+    "note_message": "",
     "note_clickable": true,
-    "note_url": "",
+    "note_url": "https://google.com/",
     "sample_game_enable": true,
     "early_access": [],
     "origin_only": [

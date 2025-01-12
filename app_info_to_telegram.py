@@ -54,10 +54,10 @@ if __name__ == "__main__":
     generated_at = combined_data.get("generated_at", "Unknown")
 
     message = (
-        f"*Date*: {generated_at}\n\n"
-        f"*Rating*: {app_details.get('score')}\n"
-        f"*Installs*: {app_details.get('realInstalls')}\n\n"
-        f"*Latest Reviews*\n"
+        f"**Date**: {generated_at}\n\n"
+        f"**Rating**: {app_details.get('score')}\n"
+        f"**Installs**: {app_details.get('realInstalls')}\n\n"
+        f"**Latest Reviews**\n"
     )
 
     for review in reviews:
@@ -65,9 +65,9 @@ if __name__ == "__main__":
         content = review.get("content", "No content")
         score = review.get("score", "N/A")
         message += (
-            f"*User*: {escape_markdown(author)}\n"
-            f"*Rating*: {score}\n"
-            f"*Review*: {escape_markdown(content)}\n\n"
+            f"**User**: {escape_markdown(author)}\n"
+            f"**Rating**: {score}\n"
+            f"**Review**: {escape_markdown(content)}\n\n"
         )
 
     send_message(chat_id, bot_token, message, topic_id)
