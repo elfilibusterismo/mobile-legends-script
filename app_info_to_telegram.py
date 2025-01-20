@@ -16,8 +16,7 @@ def send_message(chat_id, token, message, topic_id=None):
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
         'chat_id': chat_id,
-        'text': message,
-        'parse_mode': None
+        'text': message
     }
     if topic_id:
         payload['message_thread_id'] = topic_id
