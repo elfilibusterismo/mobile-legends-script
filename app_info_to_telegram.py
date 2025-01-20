@@ -1,12 +1,7 @@
 import os
 import json
 import requests
-import re
 from datetime import datetime
-
-def escape_special_chars(text: str) -> str:
-    escape_chars = r'_~`#+-=|{}.!'
-    return re.sub(r'([%s])' % re.escape(escape_chars), r'\\\1', text)
 
 def format_date(iso_date: str) -> str:
     date_obj = datetime.fromisoformat(iso_date)
@@ -62,9 +57,9 @@ if __name__ == "__main__":
         content = review.get("content", "No content")
         score = review.get("score", "N/A")
         message += (
-            f"👤 User: {escape_special_chars(author)}\n"
+            f"👤 User: {author}\n"
             f"⭐ Rating: {score}\n"
-            f"💬 Review: {escape_special_chars(content)}\n"
+            f"💬 Review: {content}\n"
             f"--------------------\n"
         )
 
