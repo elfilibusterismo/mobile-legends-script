@@ -3,12 +3,51 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.3.2",
-    "score": 4807,
-    "realInstalls": 279129,
+    "score": 4839,
+    "realInstalls": 281281,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jan 13, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "773ba4ab-8faf-4e78-b7d9-0135448db52a",
+      "userName": "Permejo JustineD",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK4wIylgziy1VMSn_Fi4x3qBXnS-oEUpPsxWV7E5zMmDs4HWw=mo",
+      "content": "good injector I rate 5stars",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-01-29T23:21:38",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "976f2cc3-cd4e-407b-9279-cdba9b6e43df",
+      "userName": "David",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0nU-bXkxZ7-z6PJosRZT4eIz5GR0YnTIaG2UVOm28SEDxQg=mo",
+      "content": "Sangat baik",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.3.2",
+      "at": "2025-01-29T19:23:16",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.3.2"
+    },
+    {
+      "reviewId": "ab07d309-8eaa-45b9-95ce-9e44ec1c5945",
+      "userName": "Kenneth Deguzman",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK8bKFBs6DG7maa_C7Qz5GD4jFg6YVCwjoNuu1opgPXK-Gt-A=mo",
+      "content": "Most trash app",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.3.2",
+      "at": "2025-01-29T07:58:10",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.3.2"
+    },
     {
       "reviewId": "0ba4783b-1084-43a7-8ed1-59e96d31bf72",
       "userName": "Alexander Magbanua Bejeras",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.3.2"
-    },
-    {
-      "reviewId": "b20e832f-3fa0-4a38-8645-049aa35a5b5b",
-      "userName": "margoks",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXXalWSgcyFpLqCK9P0Z6wcRXFrdjrHuFSN5VdBrwiWV9JhuiU9wQ",
-      "content": "one of the best lnjector\ud83d\udd25\ud83d\udd25",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.3.2",
-      "at": "2025-01-28T10:30:31",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.3.2"
-    },
-    {
-      "reviewId": "dfcff612-23a2-453d-8974-56c608cea2f7",
-      "userName": "Lester Villanueva",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjULmmSfSdiDyDjq5uh3LUj65uxV1X3SR7QXETO0nsgu8y5i_mRA",
-      "content": "Nice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.3.2",
-      "at": "2025-01-28T08:38:15",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.3.2"
-    },
-    {
-      "reviewId": "241b6a79-e293-40c2-88a1-500662f61933",
-      "userName": "Carlo Bondoc",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK08kpOCdtQxqm3i6uhaebF6kplHxZry1bcwcxmDHGg1qIVyw=mo",
-      "content": "Please Give a upgrade skin on spider lily to leona skin on karina",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-01-28T08:14:09",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-01-30T01:41:44.589410"
+  "generated_at": "2025-01-31T01:43:45.388245"
 }
