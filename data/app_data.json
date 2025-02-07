@@ -3,12 +3,38 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.5.0-fix1",
-    "score": 5114,
+    "score": 5153,
     "realInstalls": 298028,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 4, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "e8cad6e5-33b6-49aa-8731-c12a627a1153",
+      "userName": "Alfred Jan Mercado",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJAywFRQt8SPd-quxk229vnUbIGcqawA7-Z1u7RPOtWRa-y3g=mo",
+      "content": "solid boss",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.5.0-fix1",
+      "at": "2025-02-06T01:26:40",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.5.0-fix1"
+    },
+    {
+      "reviewId": "3c9409de-b830-4476-81d8-088d77d48a4c",
+      "userName": "Johnny Apitong",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKqjI_uC0XoooLKCghwznrAvs_jJI6eeyXBFnDOUAhfYgmwYw=mo",
+      "content": "it's so amazing \ud83d\ude0d",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.5.0-fix1",
+      "at": "2025-02-05T06:40:46",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.5.0-fix1"
+    },
     {
       "reviewId": "8545d056-d0d8-411e-84f0-356cec2d1e9d",
       "userName": "Jun",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.3.2"
-    },
-    {
-      "reviewId": "82f76adc-3ea4-461f-a20a-46ccbba19983",
-      "userName": "Ardy Yap",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLOmdjik8cngp3hflfWJXEHTYIAtY8sTb7cE0MAFJcTX5dDpg=mo",
-      "content": "i love it it has good i mean super good quality and \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf real trust me i wont share not good app,s",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.3.2",
-      "at": "2025-02-04T12:00:37",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.3.2"
-    },
-    {
-      "reviewId": "60d77925-0752-494d-8462-525fafe2fe44",
-      "userName": "Mark Dave",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLZ7OXq-dL-pVaIzqDVCKsn419hoXw0Tu46KOEbKfcn7HmWzA=mo",
-      "content": "legit",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.3.2",
-      "at": "2025-02-04T10:11:33",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.3.2"
     }
   ],
-  "generated_at": "2025-02-06T01:45:12.168833"
+  "generated_at": "2025-02-07T01:45:30.310199"
 }
