@@ -75,90 +75,37 @@
         "imperial_sanctuary": {
             "title": "Imperial Sanctuary",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Imperial_Sanctuary_Map.png/revision/latest/scale-to-width-down/250?cb=20211218083912",
-            "low": {
-                "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20low.zip",
-                "replacement": [
-                    {
-                        "title": "Night Mode V1",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
-                        "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20low.zip"
-                    }
-                ]
-            },
-            "high": {
-                "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20high.zip",
-                "replacement": [
-                    {
-                        "title": "Old Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20Old%20Map.jpg",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Old%20Map%20High%20Imperial.zip"
-                    },
-                    {
-                        "title": "Night Mode V1",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Imperial%20NightMode.jpg",
-                        "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20high.zip"
-                    },
-                    {
-                        "title": "Highway Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Highway%20High%20Imperial.jpg",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Highway%20High%20Imperial.zip"
-                    },
-                    {
-                        "title": "2016 Season 1",
-                        "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250126_013314.jpg",
-                        "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMPERIAL%20MAP%20HIGH%20OLD%20SEASON%201.zip"
-                    }
-                ]
-            }
+            "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20high.zip",
+            "replacements": [
+                {
+                    "title": "Night Mode",
+                    "id": "w9Gq3pkENX0",
+                    "preview": "https://youtu.be/w9Gq3pkENX0",
+                    "low": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20low.zip",
+                    "high": "https://github.com/missnapokita/map-script/raw/main/imperial%20night%20mode%20high.zip"
+                }
+            ]
         },
         "sanctum_island": {
             "title": "Sanctum Island",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Sanctum_Island_Map.png/revision/latest/scale-to-width-down/250?cb=20211218083909",
-            "low": {
-                "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
-                "replacement": [
-                    {
-                        "title": "Night Mode V1",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Night%20V1.jpg",
-                        "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20low.zip"
-                    },
-                    {
-                        "title": " 515 Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20515.png",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20515%20Medium%20Sanctum.zip"
-                    },
-                    {
-                        "title": "Chinese Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Chinese.png",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Chinese%20Medium%20Sanctum.zip"
-                    }
-                ]
-            },
-            "high": {
-                "script": "",
-                "replacement": [
-                    {
-                        "title": "515 Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20515.png",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20515%20High%20Sanctum.zip"
-                    },
-                    {
-                        "title": "Night Mode V1",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Night%20V1.jpg",
-                        "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20high.zip"
-                    },
-                    {
-                        "title": "Chinese Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Sanctum%20Chinese.png",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Chinese%20High%20Sanctum.zip"
-                    },
-                    {
-                        "title": "League of Legends Map",
-                        "image": "https://github.com/azizboy2007/Custom-Map/raw/main/IMG%20Lol%20map%20sanctum%20high.jpg",
-                        "script": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20LOL%20High%20Sanctum.zip"
-                    }
-                ]
-            }
+            "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
+            "replacements": [
+                {
+                    "title": "Night Mode",
+                    "id": "w9Gq3pkENX0",
+                    "preview": "https://youtu.be/w9Gq3pkENX0",
+                    "low": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20low.zip",
+                    "high": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20high.zip"
+                },
+                {
+                    "title": "Chinese Server Map",
+                    "id": "0rPk51ipJwk",
+                    "preview": "https://youtu.be/0rPk51ipJwk",
+                    "low": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Chinese%20Medium%20Sanctum.zip",
+                    "high": "https://github.com/azizboy2007/Custom-Map/raw/main/MAP%20Chinese%20High%20Sanctum.zip"
+                }
+            ]
         }
     }
 }
