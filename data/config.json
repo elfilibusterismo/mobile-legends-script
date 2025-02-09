@@ -75,7 +75,7 @@
         "imperial_sanctuary": {
             "title": "Imperial Sanctuary",
             "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Imperial_Sanctuary_Map.png/revision/latest/scale-to-width-down/250?cb=20211218083912",
-            "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20high.zip",
+            "script": "https://github.com/elfilibusterismo/mobile-legends-script/raw/main/assets/map/imperial_sanctuary.zip",
             "replacements": [
                 {
                     "title": "Night Mode",
