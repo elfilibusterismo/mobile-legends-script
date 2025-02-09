@@ -74,7 +74,7 @@
     "maps": {
         "imperial_sanctuary": {
             "title": "Imperial Sanctuary",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TXw2pLIyKeOYCBhIkHKClr64s2eKFCrZbQ&usqp=CAU",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Imperial_Sanctuary_Map.png/revision/latest/scale-to-width-down/250?cb=20211218083912",
             "low": {
                 "script": "https://github.com/missnapokita/map-script/raw/main/imperial%20backup%20low.zip",
                 "replacement": [
@@ -113,7 +113,7 @@
         },
         "sanctum_island": {
             "title": "Sanctum Island",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TXw2pLIyKeOYCBhIkHKClr64s2eKFCrZbQ&usqp=CAU",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Sanctum_Island_Map.png/revision/latest/scale-to-width-down/250?cb=20211218083909",
             "low": {
                 "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
                 "replacement": [
