@@ -71,6 +71,7 @@
             "type": 0
         }
     ],
+    "map_enabled": false,
     "maps": {
         "imperial_sanctuary": {
             "title": "Imperial Sanctuary",
