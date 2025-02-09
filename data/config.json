@@ -71,7 +71,7 @@
             "type": 0
         }
     ],
-    "map_enabled": false,
+    "map_enabled": true,
     "maps": {
         "imperial_sanctuary": {
             "title": "Imperial Sanctuary",
@@ -108,5 +108,12 @@
                 }
             ]
         }
-    }
+    },
+    "games": [
+        {
+            "name": "MLBB Item Trivia",
+            "image": "",
+            "res": "https://github.com/elfilibusterismo/mobile-legends-script/raw/main/assets/games/1/1.zip"
+        }
+    ]
 }
