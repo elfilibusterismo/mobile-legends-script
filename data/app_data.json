@@ -2,13 +2,39 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.5.0-fix1",
-    "score": 5364,
-    "realInstalls": 298028,
+    "version": "1.6.0",
+    "score": 5403,
+    "realInstalls": 314771,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Feb 4, 2025"
+    "lastUpdatedOn": "Feb 10, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "2bd988a6-a089-477b-b51f-91a144b68a95",
+      "userName": "Lokhison Rongpi",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIc9jPrsf4TRYmFx8YzYGVS0cE2xdiLwcrcfM8sFNW9O50qmg=mo",
+      "content": "wow",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.5.0-fix1",
+      "at": "2025-02-11T00:16:39",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.5.0-fix1"
+    },
+    {
+      "reviewId": "8c029173-3598-463c-948d-f4199709f06f",
+      "userName": "Richard D. Lagunero",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK1-6ema-FOUdj9q1cCvSoQwkJe8FNSwRGSHYCVadzwHvRppQ=mo",
+      "content": "GOOD \u263a\ufe0f",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.5.0-fix1",
+      "at": "2025-02-10T11:28:03",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.5.0-fix1"
+    },
     {
       "reviewId": "13b5b60f-fdae-45fe-86ae-00e1ba6f8fb9",
       "userName": "aisyah syuu",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.5.0-fix1"
-    },
-    {
-      "reviewId": "e961aadd-c28a-4011-b7bc-12216ca84436",
-      "userName": "Lalrinmawii Lalrinmawii",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKoTW212_s6KLm3zd9AbjCVpQyb_pB8_RTrTTqhTRg2XULGlQ=mo",
-      "content": "hanabi skin",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.5.0-fix1",
-      "at": "2025-02-09T05:19:50",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.5.0-fix1"
-    },
-    {
-      "reviewId": "3ab70ca9-b28f-4aff-b8bf-14510a044336",
-      "userName": "Su Myat Mon",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJo1hW6NUuCy7uCnGZgHBYOq6Zy5UUYOivF4YpMmLry39sU=mo",
-      "content": "\ud83d\udc4d",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.5.0-fix1",
-      "at": "2025-02-09T04:35:12",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.5.0-fix1"
     }
   ],
-  "generated_at": "2025-02-11T01:45:03.833691"
+  "generated_at": "2025-02-12T01:45:14.563357"
 }
