@@ -1,9 +1,9 @@
 {
-    "note_enable": false,
-    "note_message": "Join our diamonds giveaway contest on Telegram! Click here!",
+    "note_enable": true,
+    "note_message": "Watch Injector Origin go live on TikTok",
     "note_clickable": true,
-    "note_url": "https://t.me/injectororigin/4096",
-    "sample_game_enable": true,
+    "note_url": "https://www.tiktok.com/@injector.origin/live?enter_from_merge=share&enter_method=share_copy_link",
+    "sample_game_enable": false,
     "early_access": [],
     "origin_only": [
         {
