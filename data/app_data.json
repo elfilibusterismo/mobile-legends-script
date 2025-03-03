@@ -3,12 +3,38 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
-    "score": 6135,
-    "realInstalls": 357463,
+    "score": 6181,
+    "realInstalls": 360298,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "0d01efe3-58aa-47a5-a2aa-a89a9afe8cbf",
+      "userName": "Keann Zoe Ruiz",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLyVVQTFGK-_PW_woploIiGD5qkCC7RklVCVcFpNxGE7ylVLQ=mo",
+      "content": "good item",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-01T08:58:44",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "9026108b-4bad-4291-9847-14907753c65a",
+      "userName": "Adrian Bagongon",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIplfCNNKOHb4kHKt2V_cGjyJSFQFMt5pR10P6sNTfgFVtFFg=mo",
+      "content": "It's so great never experienced a good injector until now\ud83d\ude0d\ud83e\udd70\u2764\ufe0f\u2764\ufe0f",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-01T06:14:22",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "bf4d8042-0cc9-42a6-9835-ca9b3eae980d",
       "userName": "Thamuz Mangang",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "a94eaa8e-6d9c-4323-b429-60cf402f0088",
-      "userName": "Pogi Asin",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIwI4ZvZkNzq-xvlhRhb3wCuxOg2K5ZVg7WiezUO80AHd3QIA=mo",
-      "content": "its good to use",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-02-28T10:15:11",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "1824daa0-36b0-4b63-97af-c49e1a750d07",
-      "userName": "Jacob Butiong",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWP-MDADXPnAJvMnpvHmMt64DfnDGipyTJfGbjAro34hnO6tIU",
-      "content": "ilove it",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-02-28T06:34:27",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-03-02T01:54:03.544502"
+  "generated_at": "2025-03-03T01:51:57.543478"
 }
