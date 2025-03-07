@@ -3,12 +3,38 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
-    "score": 6298,
-    "realInstalls": 366981,
+    "score": 6330,
+    "realInstalls": 369025,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "78dec1a0-e399-4ac4-8769-158a22dc87ea",
+      "userName": "Carlo Bondoc",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXgBGo3QKoin4_K8jfCvuews9SPkTeDpXIG3U_aLWz8BPtGdw4",
+      "content": "What sup Orgin Please can you upgrade skin lapu lapu normal skin to Starlight",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-05T10:28:57",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "36c63797-8251-44f1-afc6-aa6ac94dfa48",
+      "userName": "Christopher Dionaldo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIze9CWxDS0ERDqaVb4NYshLOUEo8_TLtZfZ7ZiXcbp3UdRDw=mo",
+      "content": "legit app",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-05T05:41:40",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "2f01b2f2-38d3-4ce0-8f7b-55603ddebabb",
       "userName": "Beverly Nas",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "e7d9f219-c600-4bf2-9f45-c82ebea7b732",
-      "userName": "clay",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVwN9UiX4V42dSn6sYn5Mttx6suqYZPlr2I1KEnVOLpI-WdiLfu",
-      "content": "great",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-04T11:28:07",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "db65a85c-6ee4-4d22-b5ba-e7aee1f694d3",
-      "userName": "Lorence Elaran",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJjx0UqBLozlo0g7Ggd_YLYvUi2mF5lQqKpLEYSy8Ri8HVRog=mo",
-      "content": "My injector is not working bro pls fixed \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-04T06:50:38",
-      "replyContent": "Thank you! I'm glad you like it. If you have any more thoughts or need help, just let me know.",
-      "repliedAt": "2024-08-19T23:48:47",
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-03-06T01:50:47.612108"
+  "generated_at": "2025-03-07T01:51:16.563614"
 }
