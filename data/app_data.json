@@ -3,12 +3,51 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
-    "score": 6607,
-    "realInstalls": 386403,
+    "score": 6640,
+    "realInstalls": 388401,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "bc637e55-0955-4c43-98a2-66e3f57cf4b6",
+      "userName": "kyaw khant",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWoDgcTu-6TCB-qjD_dKWJ_nj-GTEWliWN2gC4xB0NEdJVjaBbX",
+      "content": "So goopd",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-03-13T17:37:09",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "4f3264eb-836a-4602-9d7f-7fa1dc41836f",
+      "userName": "Rapael Panganiban",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKC0XY2bVMFMmRQfatMupmNkQWFPJq29ls4Zb_idzFus9ciYw=mo",
+      "content": "nice end legit",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-13T17:30:36",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "8a583bbb-d238-4215-bc1b-d3bed7ed3463",
+      "userName": "phorn kimlong",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_-XgooG4u6zWKFzTxK9hVjlUKTrQI-h9wjlfXBvOpmQqoGg=mo",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-13T05:56:13",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "59b8ae5b-041e-4a80-9930-a5c7da6097fc",
       "userName": "Godes Powerfull",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "54a87d63-46b7-4bd1-80dc-548e0d4c34cd",
-      "userName": "Phyo Khant Thaw",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoKLd3GVR0U6xzztLtZT8-34So-UhkoOi6YUKdUPHqkq5__y8",
-      "content": "thank u",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-11T19:37:23",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "34630c87-5eec-49a5-9b56-8c4a89c28dbf",
-      "userName": "Shrowdy Clowdy",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXd1_wX5h1B1wwZgpUmWMSuCmyS7HAtrPnf5MbCVv26ODR1GVc",
-      "content": "This app has became a reason for losing my account. I was banned many times because of this harmful app, I hope for people who are reading this, do NOT, I repeat DO NOT download this app. It's a malware and it's harmful. Edit:reply Your team made an app that completely violates game rules and sometimes get banned for it yet you're claiming it's not harmful? You encourage use when it's damaging customers. I can't use my mobile legends app and account unless I delete everything connected to the",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-03-11T16:16:51",
-      "replyContent": "It seems you didn\u2019t explore the app or read the disclaimer and notes. Injector Origin only modifies visual aspects and does not provide any gameplay advantages. We clearly state that usage is at your own risk and may violate MLBB\u2019s terms, potentially leading to penalties.",
-      "repliedAt": "2025-03-11T16:34:27",
-      "appVersion": null
-    },
-    {
-      "reviewId": "baaa4b79-aed3-4b69-b7c1-6defb17c5f93",
-      "userName": "Reshmi Ng",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVLJhck5403d1uUQssj0tUPbpZ8pNQE4TlyOKDljMJs0Ssqnj4",
-      "content": "it's working",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-11T14:40:22",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-03-14T01:49:52.079868"
+  "generated_at": "2025-03-15T01:49:01.107925"
 }
