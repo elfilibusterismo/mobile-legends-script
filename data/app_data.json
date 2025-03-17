@@ -3,12 +3,25 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
-    "score": 6677,
-    "realInstalls": 391199,
+    "score": 6710,
+    "realInstalls": 393664,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "ab59862f-a57b-49c5-ab49-313eb20fb4f9",
+      "userName": "Suki Tayo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI5qEbjAs8otOxHKDVA1pXwZLxG5AH5kjhvcH1IXtUZubCWHw=mo",
+      "content": "got banned after 1 week of use detectedd pls listen I lost 5k bc if this",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-03-15T04:55:27",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "b451376b-7fb8-4eb9-80c8-12fc6c41c1a6",
       "userName": "Rica Duyogan",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "4f3264eb-836a-4602-9d7f-7fa1dc41836f",
-      "userName": "Rapael Panganiban",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKC0XY2bVMFMmRQfatMupmNkQWFPJq29ls4Zb_idzFus9ciYw=mo",
-      "content": "nice end legit",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-13T17:30:36",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-03-16T01:57:52.059132"
+  "generated_at": "2025-03-17T01:54:45.977734"
 }
