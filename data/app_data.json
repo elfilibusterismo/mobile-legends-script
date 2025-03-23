@@ -3,12 +3,51 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
-    "score": 6895,
-    "realInstalls": 403025,
+    "score": 6920,
+    "realInstalls": 405384,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "712f2f78-fdc7-4e31-8302-c671dacdc21c",
+      "userName": "Alain Mika Andres",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJNrYaKNLK6-23792WVk15xIa5iZ3IU6aDMUHLVHbu2k_QpPik=mo",
+      "content": "Very Nice UI. I also like he feature where you can access the app while injecting.",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-21T12:30:53",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "be703a41-574b-44e2-b33e-49521cc337f7",
+      "userName": "Francis Ursal",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK1ebS1kOWhfYeN5NR9BGswwXVCWJNoZVvJLe0PYNfeaL0VoQ=mo",
+      "content": "This is so cool injector ilove this verry much, hope fully more improvements!",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-03-21T09:41:17",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "6f42ee82-4eb5-4352-a5bd-f143b30de4ae",
+      "userName": "Kane calvin Palado",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI-rGj3od5Q5CsaBjZf-s4jGianoFByZ_62MlfULLJ03NOHgQ=mo",
+      "content": "amazing",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-21T08:57:50",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "c0f7fe13-1913-4fdb-8f0f-4bfa6b6df42f",
       "userName": "Pem Tamang",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "56c6bda9-8f1f-43d0-a58e-f9c058ce9ebe",
-      "userName": "Ariana Mariano",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLrPrgd0Ncw05IaSFNTBsrS2xa4BqfsjzIGLTRva9MTfN3v0A=mo",
-      "content": "very nice tanks",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-20T08:44:12",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "efd2a533-5643-411b-8d49-2c8ec0bdb9c1",
-      "userName": "kristan bersabe",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_AnQEG-oBL6SNipubPZaGbH3u_TIX2e217Saum15o6lIiyyI",
-      "content": "If you are looking for an injector, this is for you because you won't have to struggle with the step by step.",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-20T06:44:34",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "6f842b5c-b8fb-4a4e-a826-793774aec09c",
-      "userName": "Moe Swe",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK_mUgHJc3-CVwLna-iFj9YMQyKMpdrkXwIY_VuHUuC8A-8iQ=mo",
-      "content": "Moeswe",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-20T04:14:35",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-03-22T01:50:24.613155"
+  "generated_at": "2025-03-23T01:58:56.252434"
 }
