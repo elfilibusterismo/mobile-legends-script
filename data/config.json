@@ -46,28 +46,33 @@
     ],
     "exclusives": [
         {
-            "hero_id": 32,
+            "hero_id": 84,
             "skin_id": 8,
             "type": 0
         },
         {
-            "hero_id": 73,
+            "hero_id": 100,
+            "skin_id": 7,
+            "type": 0
+        },
+        {
+            "hero_id": 52,
+            "skin_id": 11,
+            "type": 0
+        },
+        {
+            "hero_id": 67,
             "skin_id": 8,
             "type": 0
         },
         {
-            "hero_id": 91,
-            "skin_id": 6,
+            "hero_id": 70,
+            "skin_id": 5,
             "type": 0
         },
         {
-            "hero_id": 85,
-            "skin_id": 6,
-            "type": 0
-        },
-        {
-            "hero_id": 116,
-            "skin_id": 6,
+            "hero_id": 28,
+            "skin_id": 8,
             "type": 0
         }
     ],
