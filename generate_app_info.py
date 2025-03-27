@@ -17,7 +17,7 @@ app_details = {
     "title": app_data.get("title"),
     "description": app_data.get("description"),
     "version": app_data.get("version"),
-    "score": app_data.get("ratings"),
+    "score": app_data.get("score"),
     "realInstalls": app_data.get("realInstalls"),
     "released": app_data.get("released"),
     "lastUpdatedOn": app_data.get("lastUpdatedOn")
