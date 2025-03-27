@@ -3,12 +3,51 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
-    "score": 7067,
-    "realInstalls": 413409,
+    "score": 7106,
+    "realInstalls": 415620,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "80c2e414-395c-43d3-b5bf-b3ee03b63392",
+      "userName": "James Jieman Amar",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIMvG7MQ6l-rpii5-a1_LnPuRdKXxflrmVpzS96BT-x2WIing=mo",
+      "content": "why this injector doesn't work \ud83d\ude14",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-25T22:08:29",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "11e59d9a-2e5b-40d5-bcfb-cd198b27747e",
+      "userName": "Ranjit Khureijam",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIYSYbbKKY8Lq8QlLZBMQnSFGjEYHrL35XobWzwGtmctYxiNg=mo",
+      "content": "Very nice app I like it this is my most favorite injector of all time.",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-25T17:12:52",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "35e1d79a-f43a-4cc6-a110-07df302e4799",
+      "userName": "Mary Ann Nungay",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJRGLHHWt1w0BQyCuIhMoMNqTzkxkRuQCfCOB3LhNNfHrgZCQ=mo",
+      "content": "keren banger",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-25T10:09:08",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "ee355020-e26b-4a15-972c-0f5c636c75fa",
       "userName": "Andrei Cielos",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "c0e6b580-02be-48b0-9908-463bc54811a6",
-      "userName": "Dr. Dave. (Raccoon?)",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1jR68M-ktn1OBTOvHYqAC4Utv1M-e7efvhnFjsokGiwiEsGYj",
-      "content": "There's some new skin on MLBB, Make injectors for it",
-      "score": 5,
-      "thumbsUpCount": 1,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-24T06:46:47",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "afaed00d-45fe-45f4-8b5b-39033811822d",
-      "userName": "jayrhey lenijan",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpmtnoX8-TcbVatr58CzpuegoNeS_9CCa1pMdd9OBHdLUkSw",
-      "content": "\ud83d\udc4d\ud83d\udc4d good luck",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-24T01:43:59",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "8a26e8fe-e1f6-4365-9ba1-a6e9b0f82478",
-      "userName": "Gingging Abdul",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIEr07mJvDHCQQU-j-UhvwN-c4lQWpQzIfdXLqzeDTZCwNUdw=mo",
-      "content": "plss, Pa fix po Kasi kulang sa graphics",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-23T20:35:25",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-03-26T01:53:19.999178"
+  "generated_at": "2025-03-27T01:52:58.468506"
 }
