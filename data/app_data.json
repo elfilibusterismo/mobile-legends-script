@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5238094,
-    "realInstalls": 420178,
+    "realInstalls": 422189,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "fa78a730-80ca-4208-b1f2-5b58f7f5f1d8",
+      "userName": "Gerald khayle Dinglasan",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1ALZROIg7g_mTNj_mbVJjVfBMI_9KNdkIZfVgtrWETqN9w-4",
+      "content": "Beautifull adorable",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-29T00:31:21",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "e9551c92-cd67-419f-8c65-a61c3bc94f67",
+      "userName": "rodel durias",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpAzViWOFP5xHUZCFGozOSA4aZmGq0AtuO2jaZuX-aHax1vO8",
+      "content": "good",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-28T09:22:36",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "026e61e3-4128-4a7b-8498-670df563c4e5",
+      "userName": "Ya Chap",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLk5Rv1tA0DqR-HNQyRT2931-CdTeK2CNzeMuCSx6wN4Jccsg=mo",
+      "content": "lol this app is totally blank",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-03-28T02:52:55",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "4eee1554-4c20-455d-ae55-c04f1af8649f",
       "userName": "Rolly Boluba",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "ed403b98-aa1c-4d6a-a2f7-1e83fe1768b0",
-      "userName": "Sumit Limbu",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIjdL7Tu-WWo3uc5ADuxeyoFMqs4xwqNf52x_cq0qhuwXzJnQ=mo",
-      "content": "nice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-27T21:18:03",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "e005d04d-306e-4e11-b80d-b22752df33f1",
-      "userName": "Gerald De jesus",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtdwX51tLSZSubD6D7EmzRgUjX7a1yR9iZ_1DUVj1dW6nMcA=mo",
-      "content": "its always error when i use skin. injector , its not working",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-27T21:14:52",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "fb5f3620-38cb-4ff5-9c43-d36d89a0bfd5",
-      "userName": "Bernarda Patac",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKa0Ijop1SXlY_hjhDItz6llEHIvAtbUNzP4X4Zv9Shlzwygg=mo",
-      "content": "no skin",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-03-27T19:08:05",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-03-29T01:52:25.940606"
+  "generated_at": "2025-03-30T02:01:36.074593"
 }
