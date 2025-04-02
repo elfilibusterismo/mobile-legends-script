@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5454545,
-    "realInstalls": 427035,
+    "realInstalls": 429131,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "c7511922-2a26-4868-b735-917a8b8faf48",
+      "userName": "Alimar Matugol",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK6sF0U_MlhQYlT41GKdD5a8PYmSu-190sWm_agBPuCNpHDkg=mo",
+      "content": "I really like this injector and it's one of my trusted injector but there's an issue, I want the name of the skin to show so please do it! 5/5\ud83d\ude0d\ud83e\udd23",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-03-31T14:27:06",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "d445a81a-b719-4875-ae56-ff707537d4b0",
       "userName": "Nelson Macaraeg",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "635ebce8-b3b8-4672-9984-726db0907005",
-      "userName": "Naranchimeg Naranchimeg",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJsXJIR1eHq7tQpXWE5weo6k0QPlBPm4iMrpHc60UsHtYizhA=mo",
-      "content": "good",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-03-29T07:30:41",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-04-01T02:06:16.408526"
+  "generated_at": "2025-04-02T01:55:33.628873"
 }
