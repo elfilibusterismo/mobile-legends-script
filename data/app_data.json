@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5454545,
-    "realInstalls": 432703,
+    "realInstalls": 435190,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "49c170b3-65d9-4aa3-bb01-af0a61ec2484",
+      "userName": "Angelou Mary Uyan",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWJkjkl2n-vQj9MxKhKT78fs9Ls0yd31c0YIVVI8ap6Aeu60Zw",
+      "content": "it's really fast and smooth when I'm downloading skins. highly recommended",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-04-03T14:38:12",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "15891326-77e7-41e6-b039-08a7caca94d0",
+      "userName": "Rheil Cedric Ycot",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocISi5ZT9Er8rtm91NKJ9UfBa4O9qMrhfwtmT_eojiK0R7sbAw=mo",
+      "content": "it's really good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-04-03T03:23:19",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "85eefb82-3d73-4439-9403-6f43ed0e61cb",
+      "userName": "Aries",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLJV3fSEd4a83rDDQB1b27tKER-j_QMbGwUbqPnhoeIO0u-lg=mo",
+      "content": "can you make your ads abit shorter, becuase some of the ads is way to long about 30-60 secs.",
+      "score": 3,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-04-03T02:56:48",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "e61c8a3e-3935-44f1-9c5b-c0f8e01c060a",
       "userName": "Val Aguilar",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "d093fe61-c832-4ea4-b95d-d764156d175e",
-      "userName": "John emmanuel Punzal",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUzIEEPF-qxKYlwa6cASFx48YWxEkhJuYdWVEPo_2lEZkHUrWIx",
-      "content": "ganda pala no ads",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-02T22:03:37",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "99638634-e258-4c38-ac41-ddb016dee625",
-      "userName": "Marcej Cairo",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUsFAJCEKlghQiWRMDbI0nxJHS0PRE4vcNtUVMTR5vLg1OPuSxW",
-      "content": "It works very well! thank you for making this app!",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-02T16:54:46",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "e2995653-69e4-469c-b2ab-2232adc8fca9",
-      "userName": "Jabar Andor",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVVGJGPh-YL8yERg6bPXLMdU91r4eEBZY7rC1EZuqyU0FP4bmQ",
-      "content": "salamat bro MGA kaibiga",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-02T14:59:47",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-04-04T01:53:58.932220"
+  "generated_at": "2025-04-05T01:52:23.047159"
 }
