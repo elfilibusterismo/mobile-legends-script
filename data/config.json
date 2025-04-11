@@ -46,6 +46,16 @@
     ],
     "exclusives": [
         {
+            "hero_id": 127,
+            "skin_id": 2,
+            "type": 0
+        },
+        {
+            "hero_id": 126,
+            "skin_id": 2,
+            "type": 0
+        },
+        {
             "hero_id": 84,
             "skin_id": 8,
             "type": 0
