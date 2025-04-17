@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.6153846,
-    "realInstalls": 467228,
+    "realInstalls": 470186,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "a19239bb-090b-4643-a331-6821c5928348",
+      "userName": "Anyak L. Anyak. Konyak",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLGypYkTaXL5u2rFL4iWUEid8-D0xRTJ5XddkMFPPlne5UC2w=mo",
+      "content": "\ud83d\udc4d",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-04-15T17:11:47",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "f369e963-a5bf-4628-b04a-d04371e2a225",
+      "userName": "Randolph GASPE",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIBZxRHyB3Zgi68eaGsxUsO_Nsm6zQXMFZCh0xHw9uD752PeQ=mo",
+      "content": "so cool",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-04-15T12:55:08",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "8adb24a8-e878-47a6-a913-23255bfc17bc",
+      "userName": "Darwin Dinopol",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLB4MKev1_Ud9Dcg39BCGnanGSy_F15zShJh6dyiGfuLfKenQ=mo",
+      "content": "very good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-04-15T08:22:03",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "1c695bc2-10d3-48c5-8a29-f7babb1a26aa",
       "userName": "Mikael Mari Ganan",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "44d8a3c9-abe5-400c-b08a-9fe91c19edd7",
-      "userName": "Charlie Escabas",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUL1QU2bkq9-1fAbUyw1FKDXYsebcWTg8ALC67UwyFeXWAirrKb",
-      "content": "nakaka ban ito ingat.",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-04-14T06:12:02",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "ca5c6389-ec4d-4ae2-839c-4dfa44bfd7ba",
-      "userName": "James smith Ngoap",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIpxJP0g8uWI6miuCxye4cOfsiCO2fuRY5qvHDklQgMEATgWQ=mo",
-      "content": "i like it",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-14T03:20:26",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "42cfaa24-b7b7-444f-b2e6-f5edfdf981c1",
-      "userName": "Ian Alcover",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIcvhQxNClp-QPRmxa-GQrwZ6snDwT5PKoXwNmZgzaWLxUjUg=mo",
-      "content": "love injector",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-04-14T03:03:51",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-04-16T01:58:00.836302"
+  "generated_at": "2025-04-17T01:56:23.472513"
 }
