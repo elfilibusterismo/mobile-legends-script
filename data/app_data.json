@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.6153846,
-    "realInstalls": 488176,
+    "realInstalls": 490625,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "f76bc925-251a-456e-932c-f8593f6c067b",
+      "userName": "Charlie Jane Congreso",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLgAvh2P5tKmm7q4PM0TIAI9xDE1vA6T2Bk_E92FyKSrqz5Uw=mo",
+      "content": "I give it a four star BC when I inject Guinevere's Kof and her basic attack is still normal violet",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-04-23T00:38:50",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "600fa11a-b007-4d03-9e15-f53bd7ded3aa",
+      "userName": "Lance Franshua Britanico",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpjlQbU1G0eP2cF-1BmvfcDecc2QK-lkfOcUvW2Ska2jji3rQ",
+      "content": "trash",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-04-22T14:50:11",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "aa46937d-32d8-4683-9d09-aa237d188b55",
+      "userName": "Elijah Khail Caadiang",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJt53xgRgsg5ENQ0RGIlLfL6VJIf4xEjbwOGuRV5-nwmX2iVw=mo",
+      "content": "it's legit it's good \ud83d\udc4d\ud83d\udc4d try it",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-04-22T11:13:28",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "28a92d83-a524-4617-a3cf-dbcbd6d2bd9f",
       "userName": "Joyy Red",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "b1a6c31e-adec-4622-a6d3-7eb9d77e116a",
-      "userName": "Princess Muksan Yuson",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKtb9fww69fOdCCxQ3mWmY6WsIh9lEv1VLXw6AACElCYtdGlA=mo",
-      "content": "I like the injector origin with the skin injector but shizuku not installed",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-21T01:27:41",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "d688e338-8b78-478d-94c1-4ad72b954889",
-      "userName": "hanajho ociloc13",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJbmQzyFIoiKlckH-oMj6mWF-L4JpBZ6VPBjtK3DkSRDsgf_Q=mo",
-      "content": "sometimes is not working",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-20T20:36:12",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "04964ab0-931c-40f2-9043-88e16c67bf30",
-      "userName": "Batosai Kiluha",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIe17DcnGknh8Xlod6JeBas39ElDG4Ve66ikHHe3Xg9rYWEhA=mo",
-      "content": "nice",
-      "score": 2,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-04-20T17:32:48",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-04-23T01:57:37.270740"
+  "generated_at": "2025-04-24T01:58:12.666618"
 }
