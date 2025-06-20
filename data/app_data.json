@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 660321,
+    "realInstalls": 662497,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "867ed372-bad6-4f90-90e5-cfd31519d579",
+      "userName": "Archie",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXM_BvNY6t7Oe9Blbyw1ZKoso3kV9XeFPRy28Emxu1UdR1PL40",
+      "content": "nice and easy to use",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-18T22:56:30",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "141226f1-20c7-4bc5-989a-1d90deec870e",
+      "userName": "Julius Cervanes",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIQyUGPcF86uYJmrFJUqX30VjiuXAVtCpP1ZdIoZJBErIlrGQ=mo",
+      "content": "super nice application",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-18T10:33:05",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "b56908e3-d94d-4676-b25a-8ad28e96d73a",
+      "userName": "MharQ Demsma",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXE4piJ3KLe6G6RyGWvvy4DlZeGb-S7lNn_7VIHOYvqDP50HSw",
+      "content": "very smooth and no risk virus ilove this app",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-18T09:59:06",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "ebf794b9-4e83-41c6-a88e-66aed28e4917",
       "userName": "ALCRIS REGENIO",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "85e47636-cfff-4530-b6bb-da445d90488b",
-      "userName": "shak ajmir",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJVJj8nR5imseanZW7kq6a3A_-K0OV8Hs5SigtG9FvsqeLM6g=mo",
-      "content": "good app",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-17T23:10:41",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "16e1486c-85c1-4d50-a757-fe21bf0deb62",
-      "userName": "Ni\u00f1o James Germones",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLuFlRXPxJGSuKaYC6d5osvoIrF2Jh7y9QKahq-r7lOhY62NA=mo",
-      "content": "pls fix the granger make it revamped",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-17T12:17:47",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "7e6874f5-381a-4ec1-a1a3-feb86f220d81",
-      "userName": "Jezrell Natino",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIyy77IlFrbDu-b5GDBuI9nbOumNYJKPXg1bb7m2VgJJj-EAQ=mo",
-      "content": "SO AMIZING",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-17T10:24:02",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-06-19T02:06:19.620724"
+  "generated_at": "2025-06-20T02:05:22.575817"
 }
