@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 672733,
+    "realInstalls": 674853,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "bd5f4e1b-d00f-4fca-be39-03022e2a7aa4",
+      "userName": "Lurisene Bartolata",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLAYMYr54ReyemAI2RjD2e5Yd_RaGZcJjijSWKIALSbApVw9w=mo",
+      "content": "it's a good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-06-23T10:07:14",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "69ad3964-6851-476a-b40c-52f5ff08b285",
+      "userName": "alezandra barcelon",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVl7H_XIhpXuamhvU46ZNj_JuTXaFokc-Ck7O8zHeN_5fkDoVoj",
+      "content": "This app is good though i wish that those skins i downloaded have the correct background with the skin",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-23T09:34:20",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "7ed0199b-e124-4c62-b628-bb68ec1d129c",
+      "userName": "Lysther Pelayo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKEuUDn1o65gtGgL_P6ptxHxLFtPEdfeabAXdUHhmz0_dl8MQ=mo",
+      "content": "salamat sa injector",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-23T08:49:22",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "aa19f0ab-66bf-45b8-a3f2-93b4d979884a",
       "userName": "KING G GUDSHT",
@@ -34,46 +73,7 @@
       "replyContent": "Thank you! We're glad you like the app. If you have any feedback or need assistance, we're here to help!",
       "repliedAt": "2024-08-09T16:33:25",
       "appVersion": "1.0.12 beta"
-    },
-    {
-      "reviewId": "a6d5598c-5332-4f18-aa87-b88f3bfd1708",
-      "userName": "Diane Tacata",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKuBs0AhuG27usvyv5NJ4wFKpIeeYtZ_V_XkxZsaknUswbq6Q=mo",
-      "content": "ilike it but it should be full effect",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-22T09:35:33",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "6c02eb64-0a6f-4f32-8787-9f4b18ca42e9",
-      "userName": "Letecia Salumro",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKC-cF4zycQg17b5bH9W3HOrBW6FPnLQ_MA_P-bcb2C6NB5AQ=mo",
-      "content": "Awesome",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-22T05:24:12",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "cfaef45d-e76c-4614-aa9c-dc9e252553e4",
-      "userName": "Mileina Celes",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4gtrzeBJTre8Po8L36mZNmodX5T1PXlLrKScSTF17qnewRA=mo",
-      "content": "one problem its duoble injecting first inject lesly dutch and after download then start inject and of wifi it download again and sencond injecting so double",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-06-22T00:10:43",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-06-24T02:07:15.306755"
+  "generated_at": "2025-06-25T02:07:31.491030"
 }
