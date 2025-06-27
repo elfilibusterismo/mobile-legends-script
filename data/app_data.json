@@ -4,18 +4,31 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 677012,
+    "realInstalls": 678744,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "1b3aeea1-0ae7-44f9-b2bb-656a8c71bc88",
+      "userName": "Babylyn Bonaobra",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVEqLcfdn0yU5VnRt4KGk5B7VXbmxguesnPDxPY9soS-3yX_FE",
+      "content": "absolutely cinema",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-06-25T09:18:36",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "4ea5d054-1c0e-4f5d-9afd-ed147297a4e3",
       "userName": "John Paul Barrios",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIK3jpSctFrAAxhDjTusdIxFO3k5be1ige1sTZM7bsGEOayQg=mo",
       "content": "it's very satisfying",
       "score": 5,
-      "thumbsUpCount": 0,
+      "thumbsUpCount": 1,
       "reviewCreatedVersion": "1.6.1",
       "at": "2025-06-24T16:33:27",
       "replyContent": null,
@@ -54,26 +67,13 @@
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJlUNTMJFwtx_eX3W2qDe5jTBw8RfHI8oeSuw9MsvuDB-GNgg=mo",
       "content": "like",
       "score": 5,
-      "thumbsUpCount": 0,
+      "thumbsUpCount": 1,
       "reviewCreatedVersion": "1.6.1",
       "at": "2025-06-24T04:36:45",
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "bd5f4e1b-d00f-4fca-be39-03022e2a7aa4",
-      "userName": "Lurisene Bartolata",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLAYMYr54ReyemAI2RjD2e5Yd_RaGZcJjijSWKIALSbApVw9w=mo",
-      "content": "it's a good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-06-23T10:07:14",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-06-26T02:06:32.117782"
+  "generated_at": "2025-06-27T02:07:18.327311"
 }
