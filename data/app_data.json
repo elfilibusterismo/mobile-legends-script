@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 680929,
+    "realInstalls": 682936,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "9edb3185-cb09-435e-baa2-7fee2ffabeb2",
+      "userName": "Jogen Rk",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUetW_CVHx6MxL6GI2qxqv4v0Tlc9CulyX6u37LFj4D-3JvFOnE",
+      "content": "This is a very food injecter and I have been using it for like a year and I don't even want to delete it but can u add like full details and effect to the skins w injecter",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-27T15:10:03",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "a43d0071-67e5-44b0-9280-9973f1a4ea39",
+      "userName": "Nagendra GC",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKe5Ch2LrkzKihfmIAJUZ32EfIvsNR7TZ5uSmxqjVcWJNeLqQ=mo",
+      "content": "Plz fix the problem of the pink screen",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-27T11:07:47",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "17dd4a29-4eaf-4097-ab1f-b881c4d15c49",
       "userName": "Vicente Suazo",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "4ea5d054-1c0e-4f5d-9afd-ed147297a4e3",
-      "userName": "John Paul Barrios",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIK3jpSctFrAAxhDjTusdIxFO3k5be1ige1sTZM7bsGEOayQg=mo",
-      "content": "it's very satisfying",
-      "score": 5,
-      "thumbsUpCount": 1,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-24T16:33:27",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "fcd46a09-e978-4564-8118-b510223148cf",
-      "userName": "Joseph P Ang",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0K-oq8Hx3nQ3cGBm-xBBxNUt1N1cqFL5VGzxrUpYEOO8dAA=mo",
-      "content": "got banned lol",
-      "score": 2,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-06-24T11:53:43",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-06-28T02:02:49.610733"
+  "generated_at": "2025-06-29T02:23:52.978852"
 }
