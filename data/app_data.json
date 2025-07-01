@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 685127,
+    "realInstalls": 687637,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "efe798be-2056-41b4-85d2-17d2e70343f0",
+      "userName": "Cheryn mae Caracol",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXoEw5cA-t26M5u3bDITlcnTyW3jvHHzLu3ZL2kpxtrHDOE0wPE",
+      "content": "i love you",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-30T00:43:59",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "9c14d8d4-289c-4d63-adcb-3d13a6febda7",
+      "userName": "Jazzer De Guzman",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ_-NCjA-L0fUgdgPgUJgJ9LKWbIk9YOEMs9xBV9cvTTkFgzw=mo",
+      "content": "update plss,make an update for the updated mlbb skin elimination and spawn and important is all hero skins",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-06-29T08:15:08",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "97734a2d-d958-42be-8d67-6d1e01cc4dd3",
       "userName": "Allannoding Batuaan",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "551242f2-1121-4022-8501-f4fbda18e275",
-      "userName": "Uzmaki Rosario",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKtNheGOQi1AGdbrKV4pnBJRlyI9neVBUfaX2Gh8ntEHZ9EIw=mo",
-      "content": "working so good I love this thank you for the developer of this app",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-28T13:27:44",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "9edb3185-cb09-435e-baa2-7fee2ffabeb2",
-      "userName": "Jogen Rk",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUetW_CVHx6MxL6GI2qxqv4v0Tlc9CulyX6u37LFj4D-3JvFOnE",
-      "content": "This is a very food injecter and I have been using it for like a year and I don't even want to delete it but can u add like full details and effect to the skins w injecter",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-27T15:10:03",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-06-30T02:18:33.755858"
+  "generated_at": "2025-07-01T02:24:48.398088"
 }
