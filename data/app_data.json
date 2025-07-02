@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 687637,
+    "realInstalls": 689362,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "f4b12e6e-69cb-4dc5-aee7-b29b2f5dd9df",
+      "userName": "saimon aruquipa",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW3_l_ZBkYxnbWeRrdTveuJECrIx9jeMxwps9UzHxRYsTZo-_Y",
+      "content": "admito que es Buena pero sempre hay un error y El de esta aplicacion lo tiene aveces no carga creo que es mejor que se muestre en El personage con Sus habilidades cambadas mas xfa",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-07-01T01:00:07",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "fa74ba7c-377b-454f-916d-966a4f6c1336",
+      "userName": "Mark Joss Melo",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXTO5T6DUXdn7RjJkmQlqh-YYKvEdDNKFdtTPXtHQ5CDK2igS8s",
+      "content": "Very nice",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-30T15:48:56",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "7eb201be-cbbf-453c-a6e1-9f3c45770067",
+      "userName": "Benjamin Maggay",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLWaBkSoAFkOQj7W0qpE5mZtjxA3qKZlHb9Uxfb65KQ-WYwTQ=mo",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-06-30T10:36:28",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "efe798be-2056-41b4-85d2-17d2e70343f0",
       "userName": "Cheryn mae Caracol",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "97734a2d-d958-42be-8d67-6d1e01cc4dd3",
-      "userName": "Allannoding Batuaan",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKrBUrdxSCN5SWCZEQf3-lcn8xXj0WiUQ-BxJO8e1qZOyTHWQ=mo",
-      "content": "so beautiful apps",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-29T01:27:36",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "dc9709e5-99ea-4657-8585-d928ed1b9e9c",
-      "userName": "Khael Rivera",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK-JGzfW06iojzgFtat51Nb9ajOF6HMnlMtN9_ao_qvxYH8Wg=mo",
-      "content": "nice job developer I can use anu skin",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-29T00:15:58",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "b2ae1996-76f4-4772-9974-260cfbe3fada",
-      "userName": "Karl Salic",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLYyD-_w3Wv6bxArDUqkpH1bAU-Vyf7gJLeFvLfg7bq7XkK3Q=mo",
-      "content": "Nice",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-28T14:06:14",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-07-01T02:24:48.398088"
+  "generated_at": "2025-07-02T02:06:52.211810"
 }
