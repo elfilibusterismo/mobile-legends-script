@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 689362,
+    "realInstalls": 690890,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "ee77cccf-b7a5-4d57-9a0a-f02877ff27b6",
+      "userName": "Dexter Esponilla",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIE6p19SouCouxZtMUYXseggTLumQCSpNLQnF14KKPgilDKgQ=mo",
+      "content": "I really like this app however there is a bug on Mathilda skin the mpl has green color not purple also the animation was not there when she activate soulbloom Mathilda floral crown also does not have animation when activating soulbloom also when using guiding wind I see that the wings when ally click guiding wind same on her default skin I hope you fix it",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-07-01T11:21:59",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "e0a53242-6d4d-45e3-9c54-fc90824a0584",
+      "userName": "Anunay Gurung",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW39tiZbZZHVcCVJuJnPYz8WF3dkjVzgN-t-GP0eWnzNeVIep_-",
+      "content": "I got banned of 24 hours using this injector",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-07-01T09:14:59",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "f4b12e6e-69cb-4dc5-aee7-b29b2f5dd9df",
       "userName": "saimon aruquipa",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "efe798be-2056-41b4-85d2-17d2e70343f0",
-      "userName": "Cheryn mae Caracol",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXoEw5cA-t26M5u3bDITlcnTyW3jvHHzLu3ZL2kpxtrHDOE0wPE",
-      "content": "i love you",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-06-30T00:43:59",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "9c14d8d4-289c-4d63-adcb-3d13a6febda7",
-      "userName": "Jazzer De Guzman",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ_-NCjA-L0fUgdgPgUJgJ9LKWbIk9YOEMs9xBV9cvTTkFgzw=mo",
-      "content": "update plss,make an update for the updated mlbb skin elimination and spawn and important is all hero skins",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-06-29T08:15:08",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-07-02T02:06:52.211810"
+  "generated_at": "2025-07-03T02:07:26.645597"
 }
