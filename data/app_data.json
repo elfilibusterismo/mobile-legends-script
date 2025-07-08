@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 698094,
+    "realInstalls": 699775,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "fc87519e-14f4-48c0-aed6-f4b63e84aa00",
+      "userName": "precious ness",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxSZWnHBuGZALcj3K-1FqUBuKa5dqp924zbLk-bU2qsOP4u5g",
+      "content": "It good but U distroyed my hanzo hero",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-07-06T23:23:35",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
+    {
+      "reviewId": "2068a5e3-0e27-4b5c-9621-ce9a4f2a592b",
+      "userName": "Rhian Marcial",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKldOmBzYcIsU50WoHgoZk7IZd3N8eQV1abspq6GSVcDyoi8Q=mo",
+      "content": "Nice",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-07-06T07:09:57",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "900ea01a-c9a5-44db-ae94-635fb2e409e4",
       "userName": "john eric capinig",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "d23288f5-b95a-46be-af0f-a4feba6a158b",
-      "userName": "Justin Ramos",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI7y59VHnVHfjEMjTLhB_KlOlFGGFouuwqffDJtDraqzRtl5g=mo",
-      "content": "there's a skin that don't have skills sound effect",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-07-05T08:26:51",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "b3c417f7-a4bb-4e24-9bba-52f9c6c7bddb",
-      "userName": "Dhanjit Barman",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIj5Y0QESY8MmofSSY8quq-z8gnQ-XVz_TXWaHM_E3v2-6bOQ=mo",
-      "content": "wow",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-07-05T06:25:20",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-07-07T02:19:05.043561"
+  "generated_at": "2025-07-08T02:07:57.049410"
 }
