@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.1",
     "score": 4.5666666,
-    "realInstalls": 699775,
+    "realInstalls": 701058,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Feb 17, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "33903c8b-c4cb-41b0-8c3e-ed472b650b2d",
+      "userName": "Alicia",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKOwtp-VCQ2W9YY221VIgnohgTeGDs7hQDjDGUM7CwA6zReHw=mo",
+      "content": "Very cool\ud83d\ude0f",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-07-08T01:11:28",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "9ad6cbf1-8de5-4a4d-b5f0-ec95e29cbf8f",
+      "userName": "John Kenneth Saavedra",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL5YaslPmCxPjXzYk_M3IY2B3-XORBX0EoPL6H2cSRsukTiPg=mo",
+      "content": "\ud83d\udc4d",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-07-07T11:21:05",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "fc87519e-14f4-48c0-aed6-f4b63e84aa00",
       "userName": "precious ness",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "3c66949b-2144-4f70-87c7-e6ec522d115f",
-      "userName": "Nandu Singh",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1_GZQ04hrI18sxxdS0B7fssHX9OHuIFWN4alpPigj46V-qw=mo",
-      "content": "please update",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-07-05T17:28:34",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "5fc4ca72-3b9e-4e00-a222-54a8ed47aeb9",
-      "userName": "Sharah Libres",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJACMZtHoI9Y8ef6sI4bwaGQgIbwTp-j-WmicCgsLewOFcQIw=mo",
-      "content": "don't install this, I just got my account banned 24 hrs because of this injector lol",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-07-05T10:47:38",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-07-08T02:07:57.049410"
+  "generated_at": "2025-07-09T02:09:24.224421"
 }
