@@ -2,13 +2,26 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.6.1",
+    "version": "1.6.4",
     "score": 4.5666666,
-    "realInstalls": 708914,
+    "realInstalls": 710886,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Feb 17, 2025"
+    "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "e1174bff-4d85-45b3-8698-688e7c2ebda3",
+      "userName": "Antoine Robert Briones",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLCgmDIMaWUtOIKdj3Iv116dNq6eSIH5YAIzR34sWtv9gf4Jw=mo",
+      "content": "Okay",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.1",
+      "at": "2025-07-13T16:04:41",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.1"
+    },
     {
       "reviewId": "bc76ad9f-ec1f-4f7c-b902-78a724153a84",
       "userName": "Rupali baviskar",
@@ -18,8 +31,8 @@
       "thumbsUpCount": 0,
       "reviewCreatedVersion": "1.6.1",
       "at": "2025-07-12T15:46:47",
-      "replyContent": null,
-      "repliedAt": null,
+      "replyContent": "Try updating to latest version \ud83e\udd17",
+      "repliedAt": "2025-07-14T14:36:02",
       "appVersion": "1.6.1"
     },
     {
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "8adb8ec1-7b45-4520-a67f-e3164753cb7c",
-      "userName": "Sarah Santos",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLKwmIlG-9qIKAOPX7PFUCJLXQ4pTZ-9UspodcdFB98VuRjqQ=mo",
-      "content": "good, but now im ban its okayy cause its only 12 hours lol so good i f you are low graphics you can unlock ultra graphics!!!",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-07-12T03:14:22",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-07-14T02:22:36.810522"
+  "generated_at": "2025-07-15T02:22:04.687605"
 }
