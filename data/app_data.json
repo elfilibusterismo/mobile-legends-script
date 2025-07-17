@@ -3,12 +3,25 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.4",
-    "score": 4.5666666,
-    "realInstalls": 711613,
+    "score": 4.580645,
+    "realInstalls": 712873,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "ffe37bdb-5b9f-4bee-9a45-c34384cf8179",
+      "userName": "renato balogo1",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIa6lP4n54mk58nD3P3dE4S7sHYDXfVUM_10HMfKddoaR95Xw=mo",
+      "content": "super ganda pwede nyoto gamitin guys sa mga ml player Jan nga walang Pam below skin gamitin nyona to",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-15T09:14:00",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
     {
       "reviewId": "ee44fcfc-7edc-4451-80c9-be18802a8015",
       "userName": "Jorsh tempest",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.1"
-    },
-    {
-      "reviewId": "e1174bff-4d85-45b3-8698-688e7c2ebda3",
-      "userName": "Antoine Robert Briones",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLCgmDIMaWUtOIKdj3Iv116dNq6eSIH5YAIzR34sWtv9gf4Jw=mo",
-      "content": "Okay",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.1",
-      "at": "2025-07-13T16:04:41",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.1"
     }
   ],
-  "generated_at": "2025-07-16T02:19:01.814620"
+  "generated_at": "2025-07-17T02:19:33.181299"
 }
