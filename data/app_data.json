@@ -3,12 +3,38 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.4",
-    "score": 4.59375,
-    "realInstalls": 722299,
+    "score": 4.6060605,
+    "realInstalls": 724065,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "1700c74c-c4e8-4b25-bc39-7edc8ac06344",
+      "userName": "free fire gamer",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVAbqDHwGYWr9Y38kxQmXzuWnzBkUJTv6JHv7W00LCC9xyzONs",
+      "content": "best injector and high effect",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-21T14:02:44",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "2b3bf7cf-2d17-4b16-b3da-372ce7d3b9f8",
+      "userName": "Rigden Yoezer Dorji",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGN1-p8dsZFiVU8zZWXCyf-2fD2BexEGdTHzOEHX-pZp3HIA=mo",
+      "content": "Even though other can't see but I can see it's fun to play with an skin! and Thanks alot whoever got this amazing idea to create an app like this!",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-21T11:52:09",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
     {
       "reviewId": "5be3ff2d-fe31-48a2-907a-d2c82188d022",
       "userName": "Jovito Labudo Jr.",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "2bb365d2-e1c3-4cf5-a68f-9d157f8af46e",
-      "userName": "Phungamla Vashum",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV11IAQ8tvXDTe_GBgnPtgxQ5WRiVGW6cCtKC6MqyFBwLycV4U",
-      "content": "wow",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-20T07:50:36",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "eee873e3-99c0-475a-ad6d-5813e3e84781",
-      "userName": "Abbygailjoy Tahan",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXNb-nT_aFOVUA2zhASICcjVLV-E6KPgDxWTkPxwD8Fz8rN0wPf",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-20T03:27:49",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
     }
   ],
-  "generated_at": "2025-07-22T02:20:14.619654"
+  "generated_at": "2025-07-23T02:21:37.155741"
 }
