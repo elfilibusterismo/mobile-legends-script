@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.4",
     "score": 4.6060605,
-    "realInstalls": 727689,
+    "realInstalls": 729247,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "7195ca34-f0a5-46d5-b2d7-edc37b343880",
+      "userName": "Edwin Lacaden",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVrxWfapKzqRmB9wLMXW7YRXgiJkHSyx2YApWhafZBRxR7FY1b-",
+      "content": "Wow",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-25T01:54:07",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "b6b9d82c-f61a-46dc-8e26-3cc41e96b528",
+      "userName": "alvin mateo",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXA1Xl4IfzKLQYGl1UNIYbk5XI57EHALgYIZC10QKl6pORTR8Dv",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-07-24T13:26:42",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "b71c29f3-1a67-4456-8b0f-8a2be14406f0",
+      "userName": "Clarise Asistio",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJnTOym2M_bDoL1Vx4Jo6vxDNIcooM82cp_vIE-L1GQuGbIVg=mo",
+      "content": "keep up the good work improve it more",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-24T07:46:48",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
     {
       "reviewId": "a2088056-4567-4f61-92f7-f21446c690a2",
       "userName": "Dodong Cayas",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "c704f061-9609-4317-bfa6-9d712ad26702",
-      "userName": "Espiritu Rico",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKrvu8rkaO7BQV-cUtGNDKxZEJwXKU7uJMxwoqwNp7Khiuwtg=mo",
-      "content": "do not download this app this app I'd fake.(Tagalog) ikaw lang ang nakakakita sa skin,kasama ko ang aking kaibigan at nakita kong walang skin!!!",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-07-23T10:49:47",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "c57f3966-0e9f-4499-b2f8-3a386c62bf54",
-      "userName": "princess may suguitan",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWCCiR2NzRGQSlxsAknx0LZNKRxIGIqOWaNHx-SshXTc-0dg=mo",
-      "content": "nice but if I try to back to normal is not working but the recall is verry cool nice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-23T08:25:51",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "0d25c972-0e73-4d78-a6dc-1f50d5682b5e",
-      "userName": "John Steven Dacanay",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKG_A3Jnx3hoPQ8yiTS3Ch3Fb_blGlB78nN1QgZw9xnYEaUkw=mo",
-      "content": "It's good and all but after using it for a while, i was banned for a day for using it.",
-      "score": 3,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-23T02:39:29",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
     }
   ],
-  "generated_at": "2025-07-25T02:20:17.459180"
+  "generated_at": "2025-07-26T02:10:39.114959"
 }
