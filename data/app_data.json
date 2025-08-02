@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.4",
     "score": 4.6060605,
-    "realInstalls": 740464,
+    "realInstalls": 742274,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "0aa328fe-c6e1-452e-9bf7-7d4c34e451ac",
+      "userName": "Dengkwsha Daimari",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJcoTVXlQYUKJdT5-Lga-mLsu3o4ACBJsD8k57ZqKRi6D2MUUc=mo",
+      "content": "bhai log yah Kam nahin karta",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-31T14:07:46",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "9848bb31-34a5-4a11-9f47-95e11a0ba13d",
+      "userName": "Jeric Perez",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIMOFFPU-sSjUa00foyRjLvmn-ye2jScLSR2Hk9qmHgh5FQxg=mo",
+      "content": "must try first",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-31T12:23:17",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "6755a3d0-8971-4fd3-a39a-78dee5f46934",
+      "userName": "Al Cedrick Cariaga",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ6BJeCGgIstVj88OpANJL8lueCb33AJqeAd42nLbfLcKci=mo",
+      "content": "goodz",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-07-31T08:47:02",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
     {
       "reviewId": "b47ab12c-853a-4d73-a1a7-5af4bffe9fa9",
       "userName": "KurtJan Abrera",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "1c5cafba-625a-4911-8a8f-505052828fd9",
-      "userName": "Rayjohn Sabuero",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKVXAtUsSb25CjV1xgC4lMIWQ5UbLp6y4Z3-A7MAYJ1Q7iJtg=mo",
-      "content": "I don't need any explanation. this app is absolute cinema",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-30T10:01:42",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "2ab01c30-f2a2-4fc6-ac7c-40b03af2d732",
-      "userName": "Jeybert Ming",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJtvdM28vZyAm8ajacxLsIhK7UhBGn8foJVNcgBlafVl8oWvA=mo",
-      "content": "vary nice",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-29T23:23:29",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "3f17bbb2-4f40-4d30-901c-a414df7d87ce",
-      "userName": "Chriz Areta",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFj7r_guvx5pqqYdusVx-O8ZqyzihyUmyA8SSnB6p2ajiF6YnbXA",
-      "content": "it's good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-07-28T14:12:15",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
     }
   ],
-  "generated_at": "2025-08-01T02:34:29.831900"
+  "generated_at": "2025-08-02T02:11:19.983689"
 }
