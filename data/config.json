@@ -5,6 +5,7 @@
     "note_url": "https://www.tiktok.com/@injector.origin/live?enter_from_merge=share&enter_method=share_copy_link",
     "sample_game_enable": false,
     "early_access": [],
+    "community_script": true,
     "origin_only": [
         {
             "hero_id": 26,
