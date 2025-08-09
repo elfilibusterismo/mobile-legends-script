@@ -47,45 +47,20 @@
     ],
     "exclusives": [
         {
-            "hero_id": 127,
-            "skin_id": 2,
-            "type": 0
-        },
-        {
-            "hero_id": 126,
-            "skin_id": 2,
-            "type": 0
-        },
-        {
-            "hero_id": 84,
-            "skin_id": 8,
-            "type": 0
-        },
-        {
-            "hero_id": 100,
+            "hero_id": 83,
             "skin_id": 7,
             "type": 0
         },
         {
-            "hero_id": 52,
-            "skin_id": 11,
+            "hero_id": 39,
+            "skin_id": 9,
             "type": 0
         },
         {
-            "hero_id": 67,
-            "skin_id": 8,
+            "hero_id": 121,
+            "skin_id": 3,
             "type": 0
         },
-        {
-            "hero_id": 70,
-            "skin_id": 5,
-            "type": 0
-        },
-        {
-            "hero_id": 28,
-            "skin_id": 8,
-            "type": 0
-        }
     ],
     "map_enabled": true,
     "maps": {
