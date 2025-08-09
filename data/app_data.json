@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.4",
     "score": 4.6060605,
-    "realInstalls": 752546,
+    "realInstalls": 754101,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "fdf73099-2cee-416b-acd0-2f2a12b91d8d",
+      "userName": "Khayeipam Awungshi",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIisnsXuTdeUdt37P6r4KdSKghhlyP4_pPHQMxEnYujKRO8tQ=mo",
+      "content": "love it",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-08-08T01:47:01",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "c1e40fa3-0024-48bf-bd1a-02e1e1785957",
+      "userName": "Ej Romano",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL62jm3CNsrKSuchPr0hvEmpRxSMSVkVqALSLI2EKL8rmgEcQ=mo",
+      "content": "i love you mwuah",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-08-08T00:55:54",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "b0b1d5a3-90a7-4e5d-bf50-497fb1d18c8d",
+      "userName": "Ruffa Nacion",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWA0ljXvDvKsKHt8w5Qj_4peWCq0OaYSqQQ5Xk5upSYXjHK9gyp",
+      "content": "nice",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-08-07T14:10:56",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
     {
       "reviewId": "dc8cf35f-5456-4b76-be3f-f7e695836295",
       "userName": "Hinoto Yepethomi",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "2ccf52cb-0a61-46ce-b6cc-a56bcd6ca51e",
-      "userName": "Kenly Anias",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLcPncgvc-d02zBgRbNlyAiQX3e51NfTivoYeGZMNXEA5K8ZQ=mo",
-      "content": "That's good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-08-06T17:56:56",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "5af58466-04ab-4923-82cf-2c522ca1ce0a",
-      "userName": "Natuy James bond",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJQCSnAO9r5NBi7jEIb1U1XU074kMtVhSJPSxhKf4wKHAoTJg=mo",
-      "content": "soo many command but not working soo delete this asap this is trassh",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-08-06T16:29:09",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "085178cd-5372-42cf-bc79-c9c679cbac6c",
-      "userName": "Maria Carmela Amatong",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXAQM7mijQeZhi3lDjoEUo5wA6QN6COGwF-MOJwMI9yoIKkjpfG",
-      "content": "Nice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-08-06T15:43:30",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
     }
   ],
-  "generated_at": "2025-08-08T02:24:24.962258"
+  "generated_at": "2025-08-09T02:06:36.019045"
 }
