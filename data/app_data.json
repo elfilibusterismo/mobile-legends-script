@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.4",
     "score": 4.6060605,
-    "realInstalls": 761616,
+    "realInstalls": 762752,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Jul 9, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "bd4ce4f2-06b0-4569-b182-7275c5463b8f",
+      "userName": "Xyien T. Espina",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvmfOcHyA3TNr977_StvXoRNGQmN8su6Rk5WWJOBusdoEj0g=mo",
+      "content": "nice but sometimes the other will go back to normal skin and the sound still the same",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-08-11T17:44:17",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "9df17f81-8287-4676-a7cb-70409dfe50f4",
+      "userName": "Elvin Clyde Tahir",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIg0d1flVP5bDGevkcnVNjB9W8zEDptsr_iLoSNxv65lytq=mo",
+      "content": "please fix the bug please",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-08-11T12:29:57",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
     {
       "reviewId": "866b112f-c1fa-4ca3-a63b-8ef770162df3",
       "userName": "Nathan Edric Espiritu",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "181aa9d9-0ed3-4653-9c04-f8d39acadbcb",
-      "userName": "Ardie Boticario",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX3jsSGTmSD3dBd7KctoI120CWriatpMM0p87C-NT3YgwSayH8",
-      "content": "nice app I can used my favorite hero skin",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-08-09T20:45:58",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "9fa41378-a8ab-4759-b435-98f85661cdcb",
-      "userName": "Babe Bryan Llera Junior",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLYB4YwjgVAut0AME0Ow0YXMd1vyUrFwO6_DboGYvqL51C49w=mo",
-      "content": "ang ganda download nyo NATO!!!!",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-08-09T16:17:19",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
     }
   ],
-  "generated_at": "2025-08-12T02:06:02.701701"
+  "generated_at": "2025-08-13T02:07:40.436125"
 }
