@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 781681,
+    "realInstalls": 783929,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Aug 19, 2025"
+    "lastUpdatedOn": "Aug 18, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "c812207b-93d4-4b47-afa7-8c1ed3f1be7d",
+      "userName": "Aldrich Esmao",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIPZeo6YyUlxvYR421_Zu_LSnvMY6yYKRrXkI6PPFOnF8XAzg=mo",
+      "content": "idk if its work",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-08-23T01:51:08",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "f84f81e3-64cb-42a3-982d-cb4a670742a3",
+      "userName": "RalphJohn Ancheta",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKPbBgm_ADqSa-nXRYU7E2iIIrgqkWlPhmLDXg32Rjf8zMHxQ=mo",
+      "content": "ok",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-08-22T07:59:45",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "3578c12b-579d-490a-a8e1-a3d074464d39",
+      "userName": "John Carlo Camello",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXeNK2coPLwtBNCTRil57wCxSQXDElgCF92MAJeYi1jG53AWwU",
+      "content": "good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-08-22T05:19:12",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "706e5137-8679-495b-be68-078aacc4e78d",
       "userName": "Rjie Evangelista",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "65304eb7-43dd-48ae-b3ab-96653878788d",
-      "userName": "Bryan Balubar",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJi68nVv55su37pjAcmwGVPlkJf2CJEL8wivH0Q9WoirVBs=mo",
-      "content": "good experience",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-08-21T13:48:50",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "12d6c377-5574-405a-bc5f-98aa937158a0",
-      "userName": "Gusion Lian",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKe1XsFRYZEzs4qjUZZElfHE-IQEpnAY7VQEgNQfmM2CKAj6A=mo",
-      "content": "So good",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.4",
-      "at": "2025-08-21T06:35:11",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.4"
-    },
-    {
-      "reviewId": "e99e27ad-a150-4694-b891-2f9a2d29503f",
-      "userName": "jj4ne",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4u8Epew37MWFTayHjojawx_5QyS_Iw3ZbSaDdSK_A5SSVvgzy",
-      "content": "K.O. (figure ref lmao) THIS. IS. SO. GOOD. I've recently been using this to inject skins, AND THEY TURN OUT REALLY WELL, especially the kagura skins >w< 10/10 that actually works! though, the problem is, you inject some skins, but the skill affects are the only ones that appear, not the character, or art. It's also kind of inconvenient that you can't upgrade ur skin to every other skin. Like Kagura's flower season, you can't upgrade it to rainy walk, only water Lily, exorcist, and her epic.. :(",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-08-21T00:22:30",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-08-23T01:55:09.194251"
+  "generated_at": "2025-08-24T02:10:19.362570"
 }
