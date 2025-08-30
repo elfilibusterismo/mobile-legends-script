@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 791755,
+    "realInstalls": 794894,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Aug 19, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "13cc7557-bef4-44d1-9c9e-ddc41576cd59",
+      "userName": "Edzel Suangco",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKt8W6QG-zCHMioMgw5vo4jWzSDJ8ck5-DJ7Pzk-umULSS5dg=mo",
+      "content": "good app",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-08-29T00:19:01",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "66d540b3-9a9a-4b52-879c-6928dd631863",
+      "userName": "Cristine Mae",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWCEzSfMBouxxy1S9Tm3hXjGWt3cJgRDBzJVomhvMfn65imi0",
+      "content": "i like it",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.4",
+      "at": "2025-08-28T14:01:36",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.4"
+    },
+    {
+      "reviewId": "5efb50b6-2883-423f-81b1-12c8f54b6f46",
+      "userName": "Joseph De Paz",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWF_qMXDeSOVq-CLgBgtcgqJXswXR9H08CNbAJviJbsHCBaA=mo",
+      "content": "it's nice Foo",
+      "score": 3,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-08-28T08:50:56",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
     {
       "reviewId": "9928af6b-33b6-42fb-a3bc-0eb2e315bdc1",
       "userName": "Adrian Gonzales",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "69d285ea-ee07-4202-8607-a64b76e12c32",
-      "userName": "Maricar Entila",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJFocHMeQ-1G-rkZCIJJp-P__jPjuLofzJFXaL0sZgvkX25vA=mo",
-      "content": "su berry good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-08-27T21:56:45",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "3c129f98-e559-4002-9279-511fa4b9faa9",
-      "userName": "Norhussien Ibra",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXU4HAOzcmZDInhrDpX-5Csqhso_X8aC-cFN0QJGGFWUYPzqIY",
-      "content": "this is so good i can injector what ever i want",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-08-27T15:49:40",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "31617d5e-0f4a-49e6-8510-ccfe9304bde3",
-      "userName": "allan legaspi",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKunsMRgk1IjoDu3lBQjEx1ofwiR9hzHwvvXTe1oed_NuSYKw=mo",
-      "content": "For me it's good injector but when i use this in a few days my account in mobile legend was banned in 19 hours, i rate this 3 very nice and good.",
-      "score": 3,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-08-27T12:47:16",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-08-29T01:55:41.639783"
+  "generated_at": "2025-08-30T01:50:07.712201"
 }
