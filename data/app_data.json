@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 803164,
+    "realInstalls": 804628,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Aug 19, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "dee1646a-f748-4482-959e-8c869e6caa51",
+      "userName": "Sisiw Ta\u00f1ala",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJfkwuH5DlfphTQCO-TTs9VK1XYD0l2NtNTaW4S7y2toyq7Qw=mo",
+      "content": "nice!",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-02T20:06:03",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "f9b5a917-4c3b-4245-874f-53118b1fc3dc",
+      "userName": "Alimar Hortelano",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGolzZfwNCx2qNrXyDDf8ZSi5R_MTv_ztjdr12jPFLxLEF0g=mo",
+      "content": "original",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-02T11:16:47",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
     {
       "reviewId": "cfdc2d2a-c48c-40ce-bcce-9f1137805340",
       "userName": "Jayson Calimpay",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "67ff6c47-d3e2-41f0-8520-62c2cfa54b92",
-      "userName": "Milseng Mankin",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWo-kOPs_OIl9vUecCnt2hhnGy2Jv5GUfD8XB08M7gQ25h-FSw",
-      "content": "amazing",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-01T10:40:17",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "b0bafbff-0ea2-417b-8ec7-9bde1f849f4e",
-      "userName": "I Z U YONG",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_WDLs49Wv0e6kr6GTb9vvCM3OtkPRF0oyFvCBRtFKj7BFqw=mo",
-      "content": "1M Filipino netizens spoof of vice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-01T07:04:07",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-09-03T01:49:38.011943"
+  "generated_at": "2025-09-04T01:50:13.200459"
 }
