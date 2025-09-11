@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 814182,
+    "realInstalls": 815304,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Aug 19, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "b8b3c917-2413-4b79-b466-4cb13bcd1d4d",
+      "userName": "Keith Reyes",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKTlE5qihjL8hutaqksx1QOkhTMo2cZyNlSUti4f9tRyczn2A=mo",
+      "content": "Solid",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-09T23:36:53",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "ed61e525-47ea-4ff1-a803-b75572358a12",
+      "userName": "aung aung",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0j3KIabulPgkr51sNUFPZ5V5YvTuUk6egmgE6qAkViAj9_Q=mo",
+      "content": "good apk",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-09T14:32:53",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "9bcfacc4-885b-4721-b622-accdd610c58f",
+      "userName": "Ernavie Omar",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLZ9DtZPu_t_uzBvJmG2gTkazAKSstzEkLHMEHYKZQkmqZ_wg=mo",
+      "content": "super cool",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-09-09T04:00:13",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "8b41a37b-7199-4511-bef5-fe4e42cf65f5",
       "userName": "Ericson Gamel",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "fc686e9f-fb0f-48e1-8d32-485eaad113b1",
-      "userName": "Tresito Gilo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJKgxvlKwJ2ybOeCNCAZ7ZBHcatSGIjESiMsRwcw9wEMCY09Q=mo",
-      "content": "nice",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-08T08:58:00",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "1b47d43c-a909-4fe2-a4fb-a8744bbaa69c",
-      "userName": "Jim Thomas F. Fiesta",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLIaLXaJKJ0OnJbxiC59I3sj6YfxQNIJ0gI1B5EqBLCh5JGkA=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-08T07:13:11",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "fec0ff82-b870-4fc0-b1ff-bdd65237a2b2",
-      "userName": "Riza mae Ticuan",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoYiTFsSPuLjgLfX-oU2NHmNQQR6mRf_Xe5MAPhO2I0RqM8LA",
-      "content": "nice ap",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-08T06:22:03",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-09-10T01:50:45.124588"
+  "generated_at": "2025-09-11T01:53:59.161637"
 }
