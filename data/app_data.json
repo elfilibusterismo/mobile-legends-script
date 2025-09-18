@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 826950,
+    "realInstalls": 829037,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Aug 19, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "438be967-8c99-45e0-8fe7-e0f496bc0b1a",
+      "userName": "Son Villegas",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWFtG6XhM86i0OoEIdYZS_9sLsibN44pR_d_iW6Yc1Pif7DrI",
+      "content": "This is a big help for me because it is easy to use and very elegant.",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-17T00:45:16",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "c727e1b4-6c66-4869-a69d-14199368b6ed",
+      "userName": "Samuel Cupada",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLlrQpdx6HVtDCrUKpfz2LO2R1PnRU_yKhXp7bdLqA3zxL5sQ=mo",
+      "content": "sam xian",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-17T00:38:46",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "21926a69-9594-4f97-892e-63753129b78e",
+      "userName": "Hijaiar Marak",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKLVeBVirhRrB7h79GgyZQ3GGePQCPbRUoHuNw9ks5UOwcRhQ=mo",
+      "content": "good \ud83d\udc4d",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-16T09:04:26",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
     {
       "reviewId": "78d4932d-6c4f-495b-9519-4c565080999c",
       "userName": "Jonas Requina",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "0321f218-07fc-4a27-9c03-6a65643dc659",
-      "userName": "Jessa Romalte",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ8wfoVSzEYMbnYWvb7TtnA_msIdO1FlmX51QMtCFZpVbaxhQ=mo",
-      "content": "\u00aeUI",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-15T03:54:55",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "fcf4b211-05da-4cdb-865b-600042fe227a",
-      "userName": "Marron Rufo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIPVTQlgiCuGId054hFXLjAlUPRXgXelVw0dGuajgFlN0nFUA=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-15T02:56:43",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "0ebab4b3-c240-48ac-9b59-c3bbda81c286",
-      "userName": "Prabha Lama",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCvR-YOATrA2gc7l4BBIN812YOKL62F7WiyaE6LU6HLXBIdg=mo",
-      "content": "it is really good good \ud83d\udc4d",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-15T01:00:45",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-09-17T01:50:39.661409"
+  "generated_at": "2025-09-18T01:50:47.213508"
 }
