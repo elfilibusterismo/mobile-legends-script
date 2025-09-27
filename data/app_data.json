@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 846589,
+    "realInstalls": 848795,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Aug 19, 2025"
+    "lastUpdatedOn": "Aug 18, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "6ef3b42b-58ad-4095-81d7-5925542384f3",
+      "userName": "Mark Corporal",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKxkh8zbXC7XuWzXYdJnFrrJyuZg8ipJ6Up6hXT35rSX2pyYQ=mo",
+      "content": "lhegewohwg",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-25T22:24:36",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "0f42a08b-8fa3-4608-b741-dfbf03c1fca3",
+      "userName": "shane adrienne",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUEWkJcBetwkcmS7yfH8GX8H1inP2mbxJ67F6ehf2IyyyETtBc",
+      "content": "seccond wanafly",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-25T13:15:25",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "0e819d0f-2363-41a0-95c0-df30f322a935",
+      "userName": "Marion Publico",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK048zbzwY_0CgCQgW3gYF3mTMK3sXuuno4CjYHIyKOzvUxJQ=mo",
+      "content": "niceee",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-09-25T07:31:42",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "d2f67dc5-1ee3-4800-981e-f22746abc57c",
       "userName": "Ahm Lee",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "7fa6e850-5114-465f-8932-8485037b2bdd",
-      "userName": "kyaw myo naing",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKDic61b5AS_Ar4AOp6qzMr-cYia7d7R5nQ-sGxg_gTekcM_w=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-24T10:06:05",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "08d6e20a-8fe9-4d92-899c-b826c332360d",
-      "userName": "Richlei Agbu",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV_M-yj2XqinxQAaSMg3U-cGfe0XjNJPhWZy4xpWXcZHNvXcT5y",
-      "content": "It doesnt work because I clicked spectre for lesley and it takes so long I waited hours but its still the same percentage",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-24T00:40:20",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "9fff1445-cb10-45a4-99f0-66c61ab16b3a",
-      "userName": "Editha Coniendo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKlkfuKyBmEkkymii2C58_IBe1pv6Q0AA4-hfxT552u1oHffQ=mo",
-      "content": "Thankyou that's good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-23T21:34:52",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-09-26T01:53:09.121846"
+  "generated_at": "2025-09-27T01:48:26.452661"
 }
