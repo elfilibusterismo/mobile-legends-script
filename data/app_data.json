@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.6060605,
-    "realInstalls": 855693,
+    "realInstalls": 857339,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Aug 19, 2025"
+    "lastUpdatedOn": "Aug 18, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "078e1b36-aaec-4022-8805-d853e1add364",
+      "userName": "SHE Manipur",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWfpgTwjx4-hFWX9f-At1Ogq5R1Nnw3-Mkkl-Zhe2_GeHmFIjDs",
+      "content": "this app is good but sometimes it doesn't display the skin itself so it works sometimes and not work sometimes I could give a 4.5 but I cant",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-29T16:50:33",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
+    {
+      "reviewId": "3fb9fd9f-f150-4043-aaed-685f23dd4028",
+      "userName": "Utti Salajim",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_SiwqFpGETlP2NU_3Ql0lBJh5tAD-xCrmhsV6WVJCC8Holg=mo",
+      "content": "Recall",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-29T15:02:22",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
     {
       "reviewId": "aa601967-9324-4043-b0c1-211c42b966a3",
       "userName": "Romnick Tito",
@@ -41,39 +67,13 @@
       "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXQ2iyx2ZsCBm-ft48ir4nUXoYfMczSA29VTvg7A9-Trup4C3wd",
       "content": "this is a very good app to inject the skins you want but there are some bugs which causes most of the effects of the skins to disappear or affect other skins that you did not inject, you cannot also change it back to its orginal skin when i uploaded the general kai skin on liquid flame i wanted to put it back to its original look but could not because the kai skin affected other skins making them look bugged overall it is good but has some bugs that makes some of it look weird",
       "score": 5,
-      "thumbsUpCount": 0,
+      "thumbsUpCount": 2,
       "reviewCreatedVersion": "1.6.5",
       "at": "2025-09-28T13:46:36",
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "58005de7-9737-4acc-a623-85b073bf8753",
-      "userName": "Mary Anne Romero",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKU8c1LvkK4bUtTuN8scVXsDyRUt1DCDW-vo1T5SmlX24JlQQ=mo",
-      "content": "it's cool",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-28T11:42:19",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "3bbea549-985a-4603-980c-e53226549af1",
-      "userName": "Analyn Budiongan",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLy9J2DOQ_h--2UCEkRkIpJbK-J-Ey48SdrSYjvW0htd7vYeQ=mo",
-      "content": "so cool",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-28T08:26:00",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-09-30T01:50:45.906508"
+  "generated_at": "2025-10-01T02:03:50.390121"
 }
