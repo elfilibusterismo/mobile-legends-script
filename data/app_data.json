@@ -3,19 +3,32 @@
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
-    "score": 4.6060605,
-    "realInstalls": 857339,
+    "score": 4.5,
+    "realInstalls": 859010,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Aug 18, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "844f7b05-dacb-4a54-a83b-08eb2c407ce2",
+      "userName": "Aidid Taib",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocImKnJCVQcNu01aygAf3mp3sCSCM85xB7YhkTCq89u_vQBolg=mo",
+      "content": "very good",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-09-30T19:14:59",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
     {
       "reviewId": "078e1b36-aaec-4022-8805-d853e1add364",
       "userName": "SHE Manipur",
       "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWfpgTwjx4-hFWX9f-At1Ogq5R1Nnw3-Mkkl-Zhe2_GeHmFIjDs",
       "content": "this app is good but sometimes it doesn't display the skin itself so it works sometimes and not work sometimes I could give a 4.5 but I cant",
       "score": 4,
-      "thumbsUpCount": 0,
+      "thumbsUpCount": 2,
       "reviewCreatedVersion": "1.6.5",
       "at": "2025-09-29T16:50:33",
       "replyContent": null,
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "20abf1ef-a212-4fa4-b608-29cc238afcfd",
-      "userName": "Liam Avery",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXQ2iyx2ZsCBm-ft48ir4nUXoYfMczSA29VTvg7A9-Trup4C3wd",
-      "content": "this is a very good app to inject the skins you want but there are some bugs which causes most of the effects of the skins to disappear or affect other skins that you did not inject, you cannot also change it back to its orginal skin when i uploaded the general kai skin on liquid flame i wanted to put it back to its original look but could not because the kai skin affected other skins making them look bugged overall it is good but has some bugs that makes some of it look weird",
-      "score": 5,
-      "thumbsUpCount": 2,
-      "reviewCreatedVersion": "1.6.5",
-      "at": "2025-09-28T13:46:36",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.5"
     }
   ],
-  "generated_at": "2025-10-01T02:03:50.390121"
+  "generated_at": "2025-10-02T01:51:29.540567"
 }
