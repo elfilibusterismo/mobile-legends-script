@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.6.5",
     "score": 4.5,
-    "realInstalls": 872016,
+    "realInstalls": 874812,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Aug 19, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "bf390638-30ce-445b-b33b-9ba1b519217d",
+      "userName": "GARCIA ANN",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLRU_VAwIxh9P7nYD_qAaebb7P4ltw1zrFrOF32LWezaJT_bw=mo",
+      "content": "nice apps useful",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.5",
+      "at": "2025-10-08T22:45:10",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.5"
+    },
     {
       "reviewId": "907e517b-3484-4f87-b9c5-358f9fd808f8",
       "userName": "Rona Badillo",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.6.5"
-    },
-    {
-      "reviewId": "0007ae6d-1362-4178-9da5-132ef4004380",
-      "userName": "Eric Belsonda",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKwqyQVluUaY4Z5rWcrEPqHh4Wlc0TNd0PTFaMbsTUyUNa5lg=mo",
-      "content": "kay gwapo ko sa tinood lang",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-10-06T22:48:45",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-10-09T01:53:01.713937"
+  "generated_at": "2025-10-10T01:53:46.026016"
 }
