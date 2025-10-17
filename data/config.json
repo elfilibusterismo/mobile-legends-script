@@ -114,6 +114,6 @@
     },
     "new_app": {
         "link": "",
-        "enabled": true
+        "enabled": false
     }
 }
