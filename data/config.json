@@ -106,5 +106,10 @@
             "image": "",
             "res": "https://github.com/elfilibusterismo/mobile-legends-script/raw/main/assets/games/1/1.zip"
         }
-    ]
+    ],
+    "manual_inject": {
+        "message": "This experimental feature allows you to inject scripts downloaded from YouTube or any other source.",
+        "tutorial": "",
+        "enabled": true
+    }
 }
