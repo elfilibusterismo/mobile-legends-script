@@ -111,5 +111,9 @@
         "message": "This experimental feature allows you to inject scripts downloaded from YouTube or any other source.",
         "tutorial": "",
         "enabled": true
+    },
+    "new_app": {
+        "link": "",
+        "enabled": true
     }
 }
