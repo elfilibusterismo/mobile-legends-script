@@ -2,13 +2,65 @@
   "app_details": {
     "title": "Injector Origin",
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
-    "version": "1.6.8",
+    "version": "1.7.0",
     "score": 4.4324327,
-    "realInstalls": 899850,
+    "realInstalls": 901652,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Oct 17, 2025"
+    "lastUpdatedOn": "Oct 20, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "7a42b409-5119-4713-bb5d-61a5d850c849",
+      "userName": "Mayrinel",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLPhX6iGNoIgSh_HX7sctOKrW4Xe8dG8JcVtX6Dins_O3PF3Q=mo",
+      "content": "favorite ko sa imo skjdo",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-10-21T00:54:44",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "0f54cc06-4220-4cf3-bff7-d6b31415c93a",
+      "userName": "John david Sabasales",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK7cobbe599Vnyn47BsJFoe2MzPM_unnMhCRhjhdha4PSxjwg=mo",
+      "content": "nice",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.8",
+      "at": "2025-10-20T23:27:15",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.8"
+    },
+    {
+      "reviewId": "8ac7b0de-b273-4550-a9e3-2eaf6c3c6a01",
+      "userName": "Chano tanoy",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIse2zKS5rtN7Fguoa9J5Vzz40xQfKQV-87D1CU_7javOB8JA=mo",
+      "content": "panget",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.8",
+      "at": "2025-10-20T11:37:00",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.8"
+    },
+    {
+      "reviewId": "a6e01d18-ba21-44b5-b7f0-7dbbb4f1aa26",
+      "userName": "Mjay Lebantino",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJkSCSBTkc9aqG6fEcFAMNN3TB2_TzeKZMDGYk0xy5nqV5PAw=mo",
+      "content": "good apps for injecting heroes in MLBB",
+      "score": 3,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.6.8",
+      "at": "2025-10-20T09:22:57",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.6.8"
+    },
     {
       "reviewId": "c96c81ac-358a-48ea-a61c-a3c8a8a1f8ac",
       "userName": "Kyle Kate0953",
@@ -21,59 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "685ddd20-59b5-42d8-a14d-40cd8d1cb200",
-      "userName": "Klarim Bey",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6tAx4UHkgND9Thr3vfi2tkFHvvHSAOgS1mM451B8C2gFCS4AZ",
-      "content": "noise",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.8",
-      "at": "2025-10-19T10:28:36",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.8"
-    },
-    {
-      "reviewId": "83bec469-66c0-4fe8-a137-9b3cd45c5c89",
-      "userName": "rosalie gimeno",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKbhxGkT6Rsabj4BL3IfP8ZY3vL4Qnygj5ZTCF6NVh6CU3DsQ=mo",
-      "content": "grabe naging pink Yung mapa ko wag niyu e download Yan Jusko.",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-10-19T04:35:28",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "97feb658-d094-4525-b2fe-90134bd8f24f",
-      "userName": "Remark Calizo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJEMc_S5jkg3gv7aCZ8KJGAn_YneuDHmgcj3KrPalgPj2JYbQ=mo",
-      "content": "very fun and very amzing",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-10-19T03:40:42",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "752d220b-f30e-4faa-8943-6f2b7658c224",
-      "userName": "Ibemcha Chingtham",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK_eAhQY2uDWbBBmlDeP7i1PUDznRUQHHRGqBBra2itK6RR2w=mo",
-      "content": "it is the best but when i inject alucard legend the skill Effect is same like legend but the button we tap to use skill is like normal it is not the legend please fix it other then this is the best",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.6.8",
-      "at": "2025-10-19T01:56:40",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.6.8"
     }
   ],
-  "generated_at": "2025-10-21T01:57:32.916946"
+  "generated_at": "2025-10-22T02:01:00.178286"
 }
