@@ -1,8 +1,8 @@
 {
-"enable" : false,
-"message": "",
-"title" : "",
-"yes": "",
-"cancelable": false,
-"open_url" : ""
+    "enable": false,
+    "message": "The app has been tampered! Please proceed to our new app!",
+    "title": "Notice",
+    "yes": "Go",
+    "cancelable": false,
+    "open_url": "https://"
 }
