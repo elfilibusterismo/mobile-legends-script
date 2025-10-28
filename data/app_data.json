@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4324327,
-    "realInstalls": 911381,
+    "realInstalls": 913010,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 25, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "54795d4c-6bbc-4c49-8916-5b132dde1693",
+      "userName": "Peter Obi",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvtEDFToChtjbRE7ach6znnrkg_CnxFkU_BJFRbaynwLN1PA=mo",
+      "content": "it's very good and reliable \ud83d\udcaf",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-10-26T20:21:39",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "df807d73-6577-4819-abf3-a2151e327048",
+      "userName": "Marilou Azarce",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKEoP6TDFhy4n6XMYleMxw9_FF-vpAaNE4bAYHui6ZL5PZV8w=mo",
+      "content": "ok so",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-10-26T18:45:50",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
     {
       "reviewId": "70cd79d6-fff6-4d5f-af08-3a96609af289",
       "userName": "Angelica Pulido",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "3ca985ac-4065-4a33-a3bc-b593d24c97b0",
-      "userName": "Lorence Elaran",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKJAUlPja2RQ5pYg3PFUmwZW9G4sy14Qrhymo7jdE_RRxxk3Q=mo",
-      "content": "good injector",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.0",
-      "at": "2025-10-24T22:51:15",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.0"
-    },
-    {
-      "reviewId": "21d21b1a-37a6-4c83-9580-072e3e2dadaf",
-      "userName": "Ian Kenneth Senosa (Ken)",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwiiu3DhtvdwfGkUE6lBkrLJofAZytzI4wFKndo7BtDfTmZtMlBA",
-      "content": "it's so easy to use and this app is working. this is the best injector app ever!!",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.0",
-      "at": "2025-10-24T14:47:02",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.0"
     }
   ],
-  "generated_at": "2025-10-27T02:07:37.125814"
+  "generated_at": "2025-10-28T01:56:43.719956"
 }
