@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4324327,
-    "realInstalls": 917353,
+    "realInstalls": 921994,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Oct 25, 2025"
+    "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "31e0085f-34fc-4b50-a4a2-62e93e998618",
+      "userName": "Cate Pepito",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_aQxlTm9rrtF5caYgeHlIDAjFfeH1WeRWC_7NNU98CKiueQ=mo",
+      "content": "it's so nice",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-10-30T04:32:33",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
     {
       "reviewId": "28e5e4d5-db1f-4bba-b39e-988084743af6",
       "userName": "Kyami",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.0"
-    },
-    {
-      "reviewId": "8297d314-9b03-4368-a54c-394e5bf747e6",
-      "userName": "Likee Myself",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLdv1PNyW66DNi4fJR_14On-SJfsDEdnfL9-NAAmT2Itv_S4g=mo",
-      "content": "been using this for 3 months and I haven't get caught hope it stays that way. The minus one is because the skin upgrade isn't good all of the skin upgrade I did didn't work or had malfunctions, another is that some skins don't work like Vales (gold) starlight, another one is that when I tried to inject Nana's summer instead of her I got Fanny's summer, I hope you can fix this",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-10-29T06:28:49",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-10-31T01:59:48.855459"
+  "generated_at": "2025-11-01T02:03:33.215858"
 }
