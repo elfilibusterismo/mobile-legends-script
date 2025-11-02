@@ -1,8 +1,8 @@
 {
     "note_enable": true,
-    "note_message": "The EASIEST Way to Inject with Shizuku",
+    "note_message": "🔥 Manual Inject is here! Here's how you can easily use it!",
     "note_clickable": true,
-    "note_url": "https://youtu.be/UUWkiDRtnLk",
+    "note_url": "https://youtu.be/0xTQLW_SduY",
     "sample_game_enable": false,
     "early_access": [],
     "community_script": true,
@@ -109,7 +109,7 @@
     ],
     "manual_inject": {
         "message": "This experimental feature allows you to inject scripts downloaded from YouTube or any other source.",
-        "tutorial": "",
+        "tutorial": "https://youtu.be/0xTQLW_SduY",
         "enabled": true
     },
     "new_app": {
