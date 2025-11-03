@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4324327,
-    "realInstalls": 924892,
+    "realInstalls": 926933,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "3ee02686-8ce0-4798-8fba-772a99f79c7a",
+      "userName": "Achyut bora",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJCaM0s2GD4qQYV_INv8vTfLFxFAoFeCNgHfqkP_togFj0CWw=mo",
+      "content": "it work properly but after 1 week moonton have ban my account for 24hrs.",
+      "score": 3,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-02T00:45:39",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "bbfab04f-30c7-443e-8305-5d11c2363f71",
+      "userName": "Intonggg Ibo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJGSM3NQxYPaaAoWYk_RKaNz2cHBNqnxfSgEdchtd9G7nAXwg=mo",
+      "content": "i miss",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-11-01T09:11:02",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "8a8aa8a6-e2c2-4ae9-837d-b33bf5291e4b",
       "userName": "Danver Hitosis",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "65704491-d759-4791-91ae-1a8c4b19a6f5",
-      "userName": "Rosalina Berbano",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU7gjDfItXkKNLX7nCNDtbq0vnfJYaWpImHpKN-i6D63BK6amFW",
-      "content": "keren",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-10-31T05:46:17",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "ca211f7b-f0ca-48ba-b118-e1b6d09b7f90",
-      "userName": "Marlon Benisano",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKm9RK624GL1POSI5IoPIn3FBDr0WyGTrUgQiuTP5zqLxRkgQ=mo",
-      "content": "\ud835\udc3c \ud835\udc54\ud835\udc5c\ud835\udc61 \ud835\udc4f\ud835\udc4e\ud835\udc5b\ud835\udc5b\ud835\udc52\ud835\udc51 \ud835\udc56\ud835\udc5b \ud835\udc5a\ud835\udc59\ud835\udc4f\ud835\udc4f \ud835\udc56\ud835\udc61'\ud835\udc60 \ud835\udc54\ud835\udc5c\ud835\udc5c\ud835\udc51 \ud835\udc4f\ud835\udc62\ud835\udc61 \ud835\udc3c \ud835\udc54\ud835\udc5c\ud835\udc61 \ud835\udc4f\ud835\udc4e\ud835\udc5b\ud835\udc5b\ud835\udc52\ud835\udc51 \ud835\udc56 \u210e\ud835\udc4e\ud835\udc61\ud835\udc52 \ud835\udc61\u210e\ud835\udc56\ud835\udc60",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-10-31T04:18:01",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-11-02T02:06:20.679679"
+  "generated_at": "2025-11-03T02:05:18.824713"
 }
