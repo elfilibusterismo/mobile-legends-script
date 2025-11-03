@@ -7,7 +7,6 @@ on:
 
 jobs:
   notify:
-    if: false  # Disable the job temporarily
     runs-on: ubuntu-latest
 
     steps:
