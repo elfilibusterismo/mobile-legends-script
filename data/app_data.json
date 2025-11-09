@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4473686,
-    "realInstalls": 938617,
+    "realInstalls": 941318,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "d354ed61-58d8-48d3-b885-e2ac673f3eab",
+      "userName": "Jay ar Retardo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI8Ym8EV6XjgXY073TAIjmwMIH38JFKnuoBse3YtOxzKmGgwA=mo",
+      "content": "I'm happy use my favorite skin and thank you injector",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-07T20:38:01",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "9acf1b1b-df5e-4e9b-a1bc-43be32af2236",
+      "userName": "Jerwin Idlo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJHQCj2cMw1AP2aCB4dV_sDNOtJ94bUsgZJmMHQU244akMaGg=mo",
+      "content": "can you fix the bug because sometimes I'm injection the skin gone but icon it work",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-11-07T13:15:28",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
+      "reviewId": "e285da54-254b-49ce-a46e-79ab0847790a",
+      "userName": "Damien",
+      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWvmtENrTU2zciv-tamNiPk1w53jIKq4_eaKGikOhg9Tb_P2BA",
+      "content": "it downloaded fast",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-07T02:13:27",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
     {
       "reviewId": "e579a776-a4f4-479f-a962-ef880b9a8ecd",
       "userName": "Ritik Doley",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "76d79c47-cc86-454c-8540-673a28b5760f",
-      "userName": "Apollo Buenaflor",
-      "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXCytTB3_ICpYdmpIftDZRANGEvf8D7ECZETf-dcaILuy7bfgun",
-      "content": "nice",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-06T12:46:03",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "49484c1c-3def-4350-bcb1-b78abb40f6d9",
-      "userName": "ALFRED SANTOS",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK9UK2Waz7WRysy3SoUAEl_a0ztyof4jaihnUPJOMvhPzz1jw=mo",
-      "content": "this apps is good but any bug effect",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-11-06T11:00:38",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "0c9158d4-ebd8-4f6c-a054-1c4a7069d0ba",
-      "userName": "Meriem Harmon",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJprHWDHpBPGrLGDSEj67MX0J9WxFU62uroBQ3Kur-j3mBPew=mo",
-      "content": "very good like grabeh boii",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-11-06T08:54:09",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-11-08T01:54:13.509700"
+  "generated_at": "2025-11-09T02:05:11.545612"
 }
