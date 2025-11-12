@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4473686,
-    "realInstalls": 946101,
+    "realInstalls": 947827,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Oct 26, 2025"
+    "lastUpdatedOn": "Oct 25, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "2dff1335-bee2-4212-ae5c-31fda28f4622",
+      "userName": "Trararelo Tropal lang",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKtdPoMnZSl8HBdbFnmJi-mm0fxFUXYdm0dun7K7ayA5HQWFg=mo",
+      "content": "it's crashing i can't use it",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-11T01:23:23",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "bce343f8-478d-4556-91a7-dc7aa77826e6",
+      "userName": "Euly Eugenio",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLRSeS1Zf3p9p5-apDASxjJ9JdgmG0ROLytuxrMXJWPLxYunA=mo",
+      "content": "i like this script/injector app but i request asap is benedetta skin covenant be upgradable to it's collector skin and harith Christmas upgradable as killua. please patch this update asap",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-10T17:21:39",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
     {
       "reviewId": "0a182007-4a5e-4fe5-9f9a-23ed87cc4ee0",
       "userName": "Ferlyn Eslit",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "11bf79b3-7296-4a79-9269-a40ee717db36",
-      "userName": "Belinda Pagayunan",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKQ3rWyL1lFsVv5w90ynJFUGsbTjH2OJKVHoSbG9YYtmOrdkQ=mo",
-      "content": "really good injector instantly give the injector skin",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-09T02:45:51",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "e95e86bb-46fd-480e-93f1-16a7ef1e54a2",
-      "userName": "Joven Riel Villondo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIQYctDiFFvQrUYDmqiOG1iKXCfJQMZwVfgYfQYiEdKjSsvXw=mo",
-      "content": "doesn't work for advanced",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-09T01:29:54",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-11T02:02:44.588070"
+  "generated_at": "2025-11-12T02:01:47.912046"
 }
