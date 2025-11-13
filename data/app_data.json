@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4473686,
-    "realInstalls": 947827,
+    "realInstalls": 949049,
     "released": "Jul 28, 2024",
-    "lastUpdatedOn": "Oct 25, 2025"
+    "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "8d1d3e22-d1d4-42c9-a37f-9eb1eec4cca3",
+      "userName": "Ralph Bonnin Grabato",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIa8zeUfp5JM6mYDL-N9PNuybWHdozA29gzHBlDfOqQTKfdFg=mo",
+      "content": "all miya's are not working..the skill effect is good but the sound effect,skill icon ..they need to fix it",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-11T05:31:50",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
     {
       "reviewId": "2dff1335-bee2-4212-ae5c-31fda28f4622",
       "userName": "Trararelo Tropal lang",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "2323ad93-b0f2-4b18-8d0b-da1a1fa5b0c3",
-      "userName": "alexander ballad",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIq_2JTB08iB6wbdsf9eCgi0JO0JnebJpkR8sA6caiaYoRspA=mo",
-      "content": "good",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-09T06:00:52",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-12T02:01:47.912046"
+  "generated_at": "2025-11-13T02:03:50.624527"
 }
