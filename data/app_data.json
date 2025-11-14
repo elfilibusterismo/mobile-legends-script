@@ -4,11 +4,24 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4473686,
-    "realInstalls": 949049,
+    "realInstalls": 950762,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "da887c8a-37f9-44cf-b816-b477e4fb600b",
+      "userName": "Kimryl Montolo",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKT0m2F00gbOGyTN46BU1y8mn4MV385u8hw4FhP3tEQrPOyLQ=mo",
+      "content": "It's Good, but the problem is your account will be detected easily. My Acc got banned multiple times already by using this injector hays",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-13T00:15:06",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
     {
       "reviewId": "8d1d3e22-d1d4-42c9-a37f-9eb1eec4cca3",
       "userName": "Ralph Bonnin Grabato",
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "4bb050e0-99b8-419e-812f-b3123ccc3997",
-      "userName": "Arjay Estorba",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLXB3h7hG5v4_SzVvlgeIl7Bchid60-zek0Bk_tfzXHlrwd=mo",
-      "content": "dis apps is great",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-09T09:14:49",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-13T02:03:50.624527"
+  "generated_at": "2025-11-14T02:02:15.794180"
 }
