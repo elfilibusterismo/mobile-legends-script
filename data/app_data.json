@@ -10,6 +10,32 @@
   },
   "reviews": [
     {
+      "reviewId": "b8ec3a0c-2b77-455b-b9a2-6d53ec222c9d",
+      "userName": "Bojar Rodel",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIpwmUMaNuib1z3NVhirdy1ZITEhDJVSONuy2C9HlRhjrKZlw=mo",
+      "content": "great",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-15T01:30:55",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "7c49403e-77fa-42fe-962c-74d5903af270",
+      "userName": "Hanan Mc",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJqBZTS55mugyUphcw01RkszSYuJrpEW0b2403_eOul8XVJaw=mo",
+      "content": "ok",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-14T05:27:09",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
       "reviewId": "da887c8a-37f9-44cf-b816-b477e4fb600b",
       "userName": "Kimryl Montolo",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKT0m2F00gbOGyTN46BU1y8mn4MV385u8hw4FhP3tEQrPOyLQ=mo",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "bce343f8-478d-4556-91a7-dc7aa77826e6",
-      "userName": "Euly Eugenio",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLRSeS1Zf3p9p5-apDASxjJ9JdgmG0ROLytuxrMXJWPLxYunA=mo",
-      "content": "i like this script/injector app but i request asap is benedetta skin covenant be upgradable to it's collector skin and harith Christmas upgradable as killua. please patch this update asap",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-10T17:21:39",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "0a182007-4a5e-4fe5-9f9a-23ed87cc4ee0",
-      "userName": "Ferlyn Eslit",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocINTb5DvxrLXOaUv2tFcQ6DAkpT5KOkGe4b_gVJk2GT8k5uxg=mo",
-      "content": "ok",
-      "score": 4,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-09T22:00:47",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-15T01:58:11.766364"
+  "generated_at": "2025-11-16T02:08:22.076038"
 }
