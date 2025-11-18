@@ -10,6 +10,32 @@
   },
   "reviews": [
     {
+      "reviewId": "7e6adadd-ce21-44f3-aec3-08fecee522f5",
+      "userName": "John Michael Hinayon",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIMffcMqnyte4OP-3QGsP6Cv69KlZXmCdftZSViFqu7jZ-pcg=mo",
+      "content": "it's so nice \ud83d\udc4d",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-16T22:00:03",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "43281869-2bdc-4ea0-a60f-06d74bb7527c",
+      "userName": "Jajaho Hohoja",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJb0BEf6RPwbMtwi2E0chlvNlgfYhMkSVaFoeW5_WbS9PWjCA=mo",
+      "content": "is good",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-16T08:54:50",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
       "reviewId": "f32f819c-d866-4bb0-bbf6-a360064e489b",
       "userName": "Imelda Cordero",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJezvHCSwdyW6gDFQOMFT6jdop8ijfJAwJGdLH_U4jUDXCc-g=mo",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "7c49403e-77fa-42fe-962c-74d5903af270",
-      "userName": "Hanan Mc",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJqBZTS55mugyUphcw01RkszSYuJrpEW0b2403_eOul8XVJaw=mo",
-      "content": "ok",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-14T05:27:09",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "da887c8a-37f9-44cf-b816-b477e4fb600b",
-      "userName": "Kimryl Montolo",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKT0m2F00gbOGyTN46BU1y8mn4MV385u8hw4FhP3tEQrPOyLQ=mo",
-      "content": "It's Good, but the problem is your account will be detected easily. My Acc got banned multiple times already by using this injector hays",
-      "score": 2,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-13T00:15:06",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-17T02:03:25.869473"
+  "generated_at": "2025-11-18T02:01:42.229544"
 }
