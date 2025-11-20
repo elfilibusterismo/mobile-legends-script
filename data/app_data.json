@@ -10,12 +10,51 @@
   },
   "reviews": [
     {
+      "reviewId": "d4a8fa33-cd44-40f8-b1bd-5b2d8763727d",
+      "userName": "Renz",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIFzR8anA39kuZtV-FpS7Vp7lkRIXz_C7mC0imWLGalE-ZQYg=mo",
+      "content": "dahil ibinigay mo injector recall",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-18T22:45:57",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "1556a174-31c2-4627-b605-4499fcc04e75",
+      "userName": "Grock Rock",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4Mz1ma58L8z-XgZePcmkKOEZ5q9PYP-FPUD05UQOIFQn_PA=mo",
+      "content": "very suck injector didn't have any sfx sounds and the downloading are slow",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-18T17:15:34",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "d1eecbbf-49dc-482a-a8a9-5d7941c3de4e",
+      "userName": "Josephg",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ3acmk_pf1138UlkNTmK5LUgt_fSzOTpvmXWB6jjm-VhVmCA=mo",
+      "content": "it works this is the best injector",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-18T11:16:10",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
       "reviewId": "8d6fac3d-c390-4f2b-9e47-73e0d79de3bd",
       "userName": "Altheus kraust Silva",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ156wgA_j2p7fBbnxiFvOVLQBodFDcgnJPg6YaPDmawcg7wA=mo",
       "content": "first time injecting",
       "score": 5,
-      "thumbsUpCount": 0,
+      "thumbsUpCount": 1,
       "reviewCreatedVersion": "1.7.1",
       "at": "2025-11-17T07:21:02",
       "replyContent": null,
@@ -28,52 +67,13 @@
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIMffcMqnyte4OP-3QGsP6Cv69KlZXmCdftZSViFqu7jZ-pcg=mo",
       "content": "it's so nice \ud83d\udc4d",
       "score": 5,
-      "thumbsUpCount": 0,
+      "thumbsUpCount": 1,
       "reviewCreatedVersion": "1.7.1",
       "at": "2025-11-16T22:00:03",
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "43281869-2bdc-4ea0-a60f-06d74bb7527c",
-      "userName": "Jajaho Hohoja",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJb0BEf6RPwbMtwi2E0chlvNlgfYhMkSVaFoeW5_WbS9PWjCA=mo",
-      "content": "is good",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-16T08:54:50",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "f32f819c-d866-4bb0-bbf6-a360064e489b",
-      "userName": "Imelda Cordero",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJezvHCSwdyW6gDFQOMFT6jdop8ijfJAwJGdLH_U4jUDXCc-g=mo",
-      "content": "This is Good but It is on normal skin",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-11-15T15:27:01",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
-    },
-    {
-      "reviewId": "169f512c-83ac-44ca-a82e-b00ab3d8a071",
-      "userName": "aung ko",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKO1MLY1k6H7eB73R32yH9oEdG25Cv_1z9V3bbPFlMMbjq-_g=mo",
-      "content": "good",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-15T12:33:26",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-19T02:01:19.686719"
+  "generated_at": "2025-11-20T01:59:46.714319"
 }
