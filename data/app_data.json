@@ -10,6 +10,32 @@
   },
   "reviews": [
     {
+      "reviewId": "2f23fa8a-59c0-4601-89e9-5959cd90bca6",
+      "userName": "Johnmark Waniwan",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKszCnWUOlDs5SAZ4OLAxm9zSv_ln5bPDouNZYDyYDKN6iGvg=mo",
+      "content": "it a same for MLBB",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-19T11:17:45",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "75bad3d6-ddaa-4b5f-ae62-7af5e46ec5cc",
+      "userName": "Gobi",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1w_q4h5ydIA8O6DpZk5522vcI7jvVTZ4h8VRpB2VU3wiQGw=mo",
+      "content": "The tho",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-11-19T04:20:13",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
+    {
       "reviewId": "d4a8fa33-cd44-40f8-b1bd-5b2d8763727d",
       "userName": "Renz",
       "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIFzR8anA39kuZtV-FpS7Vp7lkRIXz_C7mC0imWLGalE-ZQYg=mo",
@@ -47,33 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "8d6fac3d-c390-4f2b-9e47-73e0d79de3bd",
-      "userName": "Altheus kraust Silva",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ156wgA_j2p7fBbnxiFvOVLQBodFDcgnJPg6YaPDmawcg7wA=mo",
-      "content": "first time injecting",
-      "score": 5,
-      "thumbsUpCount": 1,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-17T07:21:02",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "7e6adadd-ce21-44f3-aec3-08fecee522f5",
-      "userName": "John Michael Hinayon",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIMffcMqnyte4OP-3QGsP6Cv69KlZXmCdftZSViFqu7jZ-pcg=mo",
-      "content": "it's so nice \ud83d\udc4d",
-      "score": 5,
-      "thumbsUpCount": 1,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-16T22:00:03",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-20T01:59:46.714319"
+  "generated_at": "2025-11-21T02:00:34.487920"
 }
