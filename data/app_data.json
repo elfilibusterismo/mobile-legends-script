@@ -4,11 +4,50 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4473686,
-    "realInstalls": 950866,
+    "realInstalls": 965556,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "a76fa7fe-fc28-45ae-b0f9-6bbda6071f52",
+      "userName": "Bishwaraj Paudel",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIOIzMT6Ig35pEPykC2j-U3WMzmls6xRvKicLdp_BMlsN-5VA=mo",
+      "content": "I is good game",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-20T13:29:31",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "460ff24f-8efa-4dbd-a622-07925b22c8fc",
+      "userName": "Jamesrizo Cinco",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0XZnLfwHTbyP1Z01ehupZMVQUmiK57p64Ud2teeR4Fd80fw=mo",
+      "content": "Allen Evan p. Laurio",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-20T12:38:47",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "a40d9c63-23c3-4cbf-9d78-034db5ddf064",
+      "userName": "Elmer Jimlan",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIeyOphIbVFeQZVzqlYPs9Ed_U9VfUF9WW0Y54UxJj87OIidw=mo",
+      "content": "keep up the good work \ud83e\udd17",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-11-20T04:26:55",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "2f23fa8a-59c0-4601-89e9-5959cd90bca6",
       "userName": "Johnmark Waniwan",
@@ -34,46 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": null
-    },
-    {
-      "reviewId": "d4a8fa33-cd44-40f8-b1bd-5b2d8763727d",
-      "userName": "Renz",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIFzR8anA39kuZtV-FpS7Vp7lkRIXz_C7mC0imWLGalE-ZQYg=mo",
-      "content": "dahil ibinigay mo injector recall",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-18T22:45:57",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "1556a174-31c2-4627-b605-4499fcc04e75",
-      "userName": "Grock Rock",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4Mz1ma58L8z-XgZePcmkKOEZ5q9PYP-FPUD05UQOIFQn_PA=mo",
-      "content": "very suck injector didn't have any sfx sounds and the downloading are slow",
-      "score": 1,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-18T17:15:34",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "d1eecbbf-49dc-482a-a8a9-5d7941c3de4e",
-      "userName": "Josephg",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ3acmk_pf1138UlkNTmK5LUgt_fSzOTpvmXWB6jjm-VhVmCA=mo",
-      "content": "it works this is the best injector",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-18T11:16:10",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
     }
   ],
-  "generated_at": "2025-11-21T02:00:34.487920"
+  "generated_at": "2025-11-22T01:56:35.655879"
 }
