@@ -4,11 +4,37 @@
     "description": "Injector Origin is more than just an injector app. Dive into our hero guides, packed with valuable tips and tricks to master every hero's abilities and strategies. Elevate your skills and enhance your gaming experience with Injector Origin now!",
     "version": "1.7.1",
     "score": 4.4473686,
-    "realInstalls": 965556,
+    "realInstalls": 967666,
     "released": "Jul 28, 2024",
     "lastUpdatedOn": "Oct 26, 2025"
   },
   "reviews": [
+    {
+      "reviewId": "61f959f2-c852-45aa-b88f-e82de2939872",
+      "userName": "James Unipa",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtRCLpP6QMEvvukLFjb5vwq1t9Zk2X1QYzpkfYqqm4ejCAyg=mo",
+      "content": "I don't know if it's good or bad but for me it's average",
+      "score": 3,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "1.7.1",
+      "at": "2025-11-21T11:04:50",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": "1.7.1"
+    },
+    {
+      "reviewId": "55731c0c-6889-4da2-b194-8081c1546bdb",
+      "userName": "Aida Garcia",
+      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIjzJC-6LKnFgd8AYI8MBkJ9NkvvD2JRW4Fbz4JjMnNWPUv2A=mo",
+      "content": "good",
+      "score": 2,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": null,
+      "at": "2025-11-21T03:53:55",
+      "replyContent": null,
+      "repliedAt": null,
+      "appVersion": null
+    },
     {
       "reviewId": "a76fa7fe-fc28-45ae-b0f9-6bbda6071f52",
       "userName": "Bishwaraj Paudel",
@@ -18,19 +44,6 @@
       "thumbsUpCount": 0,
       "reviewCreatedVersion": "1.7.1",
       "at": "2025-11-20T13:29:31",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "460ff24f-8efa-4dbd-a622-07925b22c8fc",
-      "userName": "Jamesrizo Cinco",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0XZnLfwHTbyP1Z01ehupZMVQUmiK57p64Ud2teeR4Fd80fw=mo",
-      "content": "Allen Evan p. Laurio",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": "1.7.1",
-      "at": "2025-11-20T12:38:47",
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
@@ -60,20 +73,7 @@
       "replyContent": null,
       "repliedAt": null,
       "appVersion": "1.7.1"
-    },
-    {
-      "reviewId": "75bad3d6-ddaa-4b5f-ae62-7af5e46ec5cc",
-      "userName": "Gobi",
-      "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1w_q4h5ydIA8O6DpZk5522vcI7jvVTZ4h8VRpB2VU3wiQGw=mo",
-      "content": "The tho",
-      "score": 5,
-      "thumbsUpCount": 0,
-      "reviewCreatedVersion": null,
-      "at": "2025-11-19T04:20:13",
-      "replyContent": null,
-      "repliedAt": null,
-      "appVersion": null
     }
   ],
-  "generated_at": "2025-11-22T01:56:35.655879"
+  "generated_at": "2025-11-23T02:21:42.647934"
 }
