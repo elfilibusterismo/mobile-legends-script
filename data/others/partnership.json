@@ -1,0 +1,23 @@
+{
+    "api": "https://ipinfo.io/",
+    "version": 1,
+    "load": {
+        "partnership": true,
+        "country_check": true
+    },
+    "content": {
+        "text": "Earn free diamonds using this Injector",
+        "dialog": false,
+        "enabled": true,
+        "link": "https://"
+    },
+    "sdk": {
+        "min_sdk": 26,
+        "target_sdk": 36
+    },
+    "excluded_countries": [
+        "PH"
+    ],
+    "kill_switch": false,
+    "on_error": "hide"
+}
