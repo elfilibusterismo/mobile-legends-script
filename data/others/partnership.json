@@ -6,10 +6,20 @@
         "country_check": true
     },
     "content": {
-        "text": "Earn free diamonds using this Injector",
-        "dialog": false,
+        "headline": "ML Toolkit",
+        "body": "",
+        "media": "",
+        "dialog": {
+            "enabled": false,
+            "cancelable": true,
+            "required": false,
+            "cancel_action": "Close"
+        },
         "enabled": true,
-        "link": "https://"
+        "price": "Free",
+        "store": "Google Play",
+        "link": "https://",
+        "action": "Install"
     },
     "sdk": {
         "min_sdk": 26,
@@ -18,6 +28,5 @@
     "excluded_countries": [
         "PH"
     ],
-    "kill_switch": false,
-    "on_error": "hide"
+    "kill_switch": false
 }
