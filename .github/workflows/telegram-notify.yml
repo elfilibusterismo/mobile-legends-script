@@ -1,9 +1,7 @@
 name: Notify Telegram on Push
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   notify:
