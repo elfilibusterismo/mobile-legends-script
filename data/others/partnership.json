@@ -9,6 +9,8 @@
         "headline": "ML Toolkit",
         "body": "",
         "media": "",
+        "icon": "",
+        "advertiser": "",
         "dialog": {
             "enabled": false,
             "cancelable": true,
