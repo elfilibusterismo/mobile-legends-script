@@ -1,8 +1,8 @@
 {
     "note_enable": true,
-    "note_message": "💎 Earn Free Diamonds with ML Toolkit",
+    "note_message": "Kaizoku-ō GFX the new Injector Origin",
     "note_clickable": true,
-    "note_url": "https://mlbb-toolkit.github.io/",
+    "note_url": "https://play.google.com/store/apps/details?id=com.kaizokuo.gfx",
     "sample_game_enable": false,
     "early_access": [],
     "community_script": true,
@@ -113,7 +113,7 @@
         "enabled": true
     },
     "new_app": {
-        "link": "https://mlbb-toolkit.github.io/",
+        "link": "https://play.google.com/store/apps/details?id=com.kaizokuo.gfx",
         "enabled": true
     }
 }
